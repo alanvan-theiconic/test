@@ -790,16 +790,6 @@
         "section": "Australian Values"
     },
     {
-        "question": "What is the role of the Australian Electoral Commission?",
-        "options": [
-            "Conducting federal elections and maintaining the electoral roll",
-            "Managing the national budget",
-            "Regulating Australian media"
-        ],
-        "answer": "Conducting federal elections and maintaining the electoral roll",
-        "section": "Australian Values"
-    },
-    {
         "question": "What is Australia's policy on domestic and family violence?",
         "options": [
             "It is accepted in certain cultures",
@@ -831,62 +821,242 @@
     },
     {
         "question": "What is the structure of the Australian Parliament?",
-        "options": ["Two Houses: House of Representatives and Senate", "Single House system", "Three Houses including the House of Commons"],
+        "options": [
+            "Two Houses: House of Representatives and Senate",
+            "Single House system",
+            "Three Houses including the House of Commons"
+        ],
         "answer": "Two Houses: House of Representatives and Senate",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "What are the main roles of the House of Representatives?",
-        "options": ["Interpreting laws", "Considering, debating, and voting on proposals for new laws", "Foreign policy decision making"],
+        "options": [
+            "Interpreting laws",
+            "Considering, debating, and voting on proposals for new laws",
+            "Foreign policy decision making"
+        ],
         "answer": "Considering, debating, and voting on proposals for new laws",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "What is the Senate sometimes referred to as?",
-        "options": ["The Upper House", "The State's House", "The Lower House"],
+        "options": [
+            "The Upper House",
+            "The State's House",
+            "The Lower House"
+        ],
         "answer": "The Upper House",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "How are members of the House of Representatives elected?",
-        "options": ["Appointed by the Prime Minister", "Elected by the people of Australia", "Selected by the Governor-General"],
+        "options": [
+            "Appointed by the Prime Minister",
+            "Elected by the people of Australia",
+            "Selected by the Governor-General"
+        ],
         "answer": "Elected by the people of Australia",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "What is a Bill in the context of the Australian Parliament?",
-        "options": ["A proposal for a new law or a change to an existing law", "A formal complaint against the government", "A financial statement"],
+        "options": [
+            "A proposal for a new law or a change to an existing law",
+            "A formal complaint against the government",
+            "A financial statement"
+        ],
         "answer": "A proposal for a new law or a change to an existing law",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "Who gives Royal Assent to Bills in Australia?",
-        "options": ["The Prime Minister", "The Governor-General", "The Speaker of the House"],
+        "options": [
+            "The Prime Minister",
+            "The Governor-General",
+            "The Speaker of the House"
+        ],
         "answer": "The Governor-General",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "What is the primary function of the Senate in the Australian Parliament?",
-        "options": ["Review and debate proposed laws", "Appoint government ministers", "Manage state affairs"],
+        "options": [
+            "Review and debate proposed laws",
+            "Appoint government ministers",
+            "Manage state affairs"
+        ],
         "answer": "Review and debate proposed laws",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "How often are federal elections held in Australia?",
-        "options": ["Every 3 years", "Every 4 years", "Every 5 years"],
+        "options": [
+            "Every 3 years",
+            "Every 4 years",
+            "Every 5 years"
+        ],
         "answer": "Every 3 years",
         "section": "Government and the law in Australia"
-      },
-      {
+    },
+    {
         "question": "Who is the leader of the Australian Government?",
-        "options": ["The Governor-General", "The Prime Minister", "The King of Australia"],
+        "options": [
+            "The Governor-General",
+            "The Prime Minister",
+            "The King of Australia"
+        ],
         "answer": "The Prime Minister",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What happens after a federal election if no single party has a majority?",
+        "options": [
+            "A coalition or agreement between parties is formed",
+            "A re-election is held",
+            "The Governor-General chooses the government"
+        ],
+        "answer": "A coalition or agreement between parties is formed",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is Australia’s Head of State?",
+        "options": [
+            "The Prime Minister",
+            "The Governor-General",
+            "The King"
+        ],
+        "answer": "The King",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who appoints the Governor-General?",
+        "options": [
+            "The Prime Minister",
+            "The King",
+            "The Parliament"
+        ],
+        "answer": "The King",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the role of the Governor-General?",
+        "options": [
+            "Head of the Government",
+            "Representative of the King",
+            "Leader of the Opposition"
+        ],
+        "answer": "Representative of the King",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is the leader of the Australian Government?",
+        "options": [
+            "The Governor-General",
+            "The Prime Minister",
+            "The King"
+        ],
+        "answer": "The Prime Minister",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the role of the Prime Minister in Australia?",
+        "options": [
+            "Representative of the King",
+            "Leader of the Australian Government",
+            "Head of the Judicial System"
+        ],
+        "answer": "Leader of the Australian Government",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What type of government does Australia have?",
+        "options": ["Parliamentary democracy", "Presidential system", "Monarchy"],
+        "answer": "Parliamentary democracy",
         "section": "Government and the law in Australia"
       },
       {
-        "question": "What happens after a federal election if no single party has a majority?",
-        "options": ["A coalition or agreement between parties is formed", "A re-election is held", "The Governor-General chooses the government"],
-        "answer": "A coalition or agreement between parties is formed",
+        "question": "How is the power of the Australian government divided?",
+        "options": ["Into two branches: Executive and Legislative", "Into three branches: Legislative, Executive, and Judicial", "It is not divided; power is held by the Prime Minister"],
+        "answer": "Into three branches: Legislative, Executive, and Judicial",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the Australian Constitution?",
+        "options": ["The supreme law of Australia", "A historical document with no legal standing", "A guideline for political parties"],
+        "answer": "The supreme law of Australia",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "How can the Australian Constitution be changed?",
+        "options": ["By a referendum", "By a decision of the Prime Minister", "Automatically every 10 years"],
+        "answer": "By a referendum",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the role of the Australian Electoral Commission?",
+        "options": ["Managing the national economy", "Conducting federal elections and maintaining the electoral roll", "Regulating Australian media"],
+        "answer": "Conducting federal elections and maintaining the electoral roll",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is expected in terms of gender equality in Australia?",
+        "options": ["Men and women are treated equally", "Only men have certain rights", "Only women have certain rights"],
+        "answer": "Men and women are treated equally",
+        "section": "Australian Values"
+      },
+      {
+        "question": "What is the role of the courts in Australia?",
+        "options": ["To decide if a person has broken the law and determine the penalty", "To enforce traffic regulations", "To elect government officials"],
+        "answer": "To decide if a person has broken the law and determine the penalty",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "How are judges and magistrates positioned in the Australian legal system?",
+        "options": ["They are independent and no one can tell them what to decide", "They are appointed and directed by the government", "They are elected by the public"],
+        "answer": "They are independent and no one can tell them what to decide",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the function of a jury in the Australian court system?",
+        "options": ["To decide in court if a person is innocent or guilty", "To assist judges in making legal decisions", "To represent the government in legal proceedings"],
+        "answer": "To decide in court if a person is innocent or guilty",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the main responsibility of the police in Australia?",
+        "options": ["To maintain peace and order in the community", "To pass new laws", "To act as judges in court cases"],
+        "answer": "To maintain peace and order in the community",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What are the three levels of government in Australia?",
+        "options": ["Federal, State, and Local", "Federal, Provincial, and Municipal", "Central, Regional, and Community"],
+        "answer": "Federal, State, and Local",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "Which level of government is responsible for national matters like defense and immigration?",
+        "options": ["State Government", "Local Government", "Federal Government"],
+        "answer": "Federal Government",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the main responsibility of state and territory governments in Australia?",
+        "options": ["Managing national parks", "Healthcare and education", "International diplomacy"],
+        "answer": "Healthcare and education",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "Who is responsible for local roads and waste management in Australia?",
+        "options": ["Federal Government", "State Government", "Local Government"],
+        "answer": "Local Government",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "Which level of government in Australia manages police and ambulance services?",
+        "options": ["Local Government", "Federal Government", "State and Territory Governments"],
+        "answer": "State and Territory Governments",
         "section": "Government and the law in Australia"
       }
 ]
