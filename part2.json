@@ -1,0 +1,432 @@
+[
+    {
+        "question": "What is Australia's stance on achieving change?",
+        "options": {
+            "A": "Change should occur through violent actions if necessary",
+            "B": "Change should occur through discussion, peaceful persuasion, and the democratic process",
+            "C": "Change is not encouraged or supported"
+        },
+        "answer": "B",
+        "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process."
+    },
+    {
+        "question": "What does 'freedom of speech' entail in Australia?",
+        "options": {
+            "A": "Criticising the government and peacefully protesting against decisions",
+            "B": "Speaking only in support of government policies",
+            "C": "Avoiding any political discussions"
+        },
+        "answer": "A",
+        "explanation": "Freedom of speech in Australia means people can say and write what they think, including criticising the government, and protest peacefully against government decisions."
+    },
+    {
+        "question": "What is the status of religion in relation to the government in Australia?",
+        "options": {
+            "A": "The government endorses a national religion",
+            "B": "Religious laws are above Australian laws",
+            "C": "The government is secular and operates separately from religious entities"
+        },
+        "answer": "C",
+        "explanation": "The government in Australia is secular, which means it operates separately from churches or other religious entities, and there is no official national religion."
+    },
+    {
+        "question": "What is the basis of respect in the Australian democratic system?",
+        "options": {
+            "A": "Wealth and social status",
+            "B": "Race and cultural heritage",
+            "C": "Dignity and equality under Australian law for all individuals"
+        },
+        "answer": "C",
+        "explanation": "Australia's democratic system is based on the principle that every individual has rights and equality under Australian law."
+    },
+    {
+        "question": "What does freedom of speech in Australia include?",
+        "options": {
+            "A": "The right to criticize the government and protest peacefully",
+            "B": "The ability to say anything without legal consequences",
+            "C": "Freedom to spread misinformation"
+        },
+        "answer": "A",
+        "explanation": "Freedom of speech includes the right to criticize the government, protest peacefully, and campaign to change laws while obeying Australian laws."
+    },
+    {
+        "question": "What does freedom of association allow in Australia?",
+        "options": {
+            "A": "Freedom to associate with any political or social group without being forced",
+            "B": "Mandatory participation in political activities",
+            "C": "Association only within state-approved groups"
+        },
+        "answer": "A",
+        "explanation": "Freedom of association allows Australians to join or not join any legal organization, such as political parties, trade unions, or social groups."
+    },
+    {
+        "question": "What type of government system does Australia have?",
+        "options": {
+            "A": "Monarchy",
+            "B": "Parliamentary democracy",
+            "C": "Dictatorship"
+        },
+        "answer": "B",
+        "explanation": "Australia's system of government is a parliamentary democracy, where laws are determined by parliaments elected by the people."
+    },
+    {
+        "question": "Is voting compulsory in Australia?",
+        "options": {
+            "A": "Yes, for all citizens",
+            "B": "No, it's optional",
+            "C": "Only for state elections"
+        },
+        "answer": "A",
+        "explanation": "Voting is compulsory in Australia, highlighting the importance of participating in elections."
+    },
+    {
+        "question": "What does 'freedom of speech' mean in Australia?",
+        "options": {
+            "A": "People can say and write what they think, including criticising the government",
+            "B": "Freedom to speak only in official languages",
+            "C": "Restrictions on speech to maintain public order"
+        },
+        "answer": "A",
+        "explanation": "Freedom of speech in Australia means people can say and write what they think, including criticising the government."
+    },
+    {
+        "question": "What is the concept of 'freedom of association' in Australia?",
+        "options": {
+            "A": "Freedom to form and join associations to pursue common goals",
+            "B": "Mandatory membership in certain associations",
+            "C": "Restrictions on forming associations"
+        },
+        "answer": "A",
+        "explanation": "Freedom of association is the right to form and join associations to pursue common goals;."
+    },
+    {
+        "question": "How is religion treated in relation to the law in Australia?",
+        "options": {
+            "A": "Religious laws are above Australian laws",
+            "B": "Australian law prevails over religious practices in case of conflict",
+            "C": "Religion and law are fully integrated"
+        },
+        "answer": "B",
+        "explanation": "Where there is a conflict between an Australian law and a religious practice, Australian law prevails."
+    },
+    {
+        "question": "What is the role of the Rule of Law in Australia?",
+        "options": {
+            "A": "It grants special privileges to certain groups",
+            "B": "All Australians are equal under the law",
+            "C": "It allows for arbitrary decisions by those in power"
+        },
+        "answer": "B",
+        "explanation": "The Rule of Law in Australia signifies that all Australians are equal under the law."
+    },
+    {
+        "question": "What is the Australian government's stance on change and resolution?",
+        "options": {
+            "A": "Support for violent methods if necessary",
+            "B": "Change through discussion, peaceful persuasion, and the democratic process",
+            "C": "Change is discouraged"
+        },
+        "answer": "B",
+        "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process."
+    },
+    {
+        "question": "In Australia, what is the legal stance on discrimination based on gender?",
+        "options": {
+            "A": "It is permitted in certain circumstances",
+            "B": "It is against the law to discriminate based on gender",
+            "C": "There are no specific laws regarding gender discrimination"
+        },
+        "answer": "B",
+        "explanation": "It is against the law in Australia to discriminate against a person because of their gender."
+    },
+    {
+        "question": "What does equality of all people under the law mean in Australian society?",
+        "options": {
+            "A": "Only citizens have equal rights",
+            "B": "Equal rights regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin",
+            "C": "Equality is limited to economic aspects"
+        },
+        "answer": "B",
+        "explanation": "Australian society values the equal rights of all people regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin."
+    },
+    {
+        "question": "How does Australian law support employment equality?",
+        "options": {
+            "A": "Employment is guaranteed for all citizens",
+            "B": "People should get a job based on their skills and experience, not gender, wealth, or ethnicity",
+            "C": "Only Australian citizens are eligible for certain jobs"
+        },
+        "answer": "B",
+        "explanation": "Australian law supports that a person should get a job based on their skills and experience, not because of their gender, wealth, or ethnicity."
+    },
+    {
+        "question": "What is the concept of a ‘fair go’ in Australian society?",
+        "options": {
+            "A": "Wealthy individuals are given priority",
+            "B": "Everyone deserves an equal opportunity to succeed based on their talents and efforts",
+            "C": "Class distinctions determine one's success"
+        },
+        "answer": "B",
+        "explanation": "A 'fair go' in Australian society means that everyone deserves an equal opportunity to succeed based on their talents, work, and effort rather than their wealth or background."
+    },
+    {
+        "question": "What is Australia's stance on religious freedom and the law?",
+        "options": {
+            "A": "Religious laws are above Australian laws",
+            "B": "Australian law prevails over religious practices in case of conflict",
+            "C": "There are no laws regarding religion"
+        },
+        "answer": "B",
+        "explanation": "In Australia, Australian law prevails over religious practices in case of conflict, and the government is secular."
+    },
+    {
+        "question": "What is one of the key responsibilities of an Australian citizen?",
+        "options": {
+            "A": "To obey the laws of Australia",
+            "B": "To serve in the Australian Defence Force",
+            "C": "To hold a public office"
+        },
+        "answer": "A",
+        "explanation": "One of the key responsibilities of an Australian citizen is to obey the laws of Australia【128†source】."
+    },
+    {
+        "question": "What must Australian citizens aged 18 years or over do during elections?",
+        "options": {
+            "A": "Stand for election",
+            "B": "Vote in federal and state or territory elections and in a referendum",
+            "C": "Serve as an election officer"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens aged 18 years or over have the responsibility to vote in federal and state or territory elections and in a referendum【128†source】."
+    },
+    {
+        "question": "What should Australian citizens do to defend their country if the need arises?",
+        "options": {
+            "A": "Support diplomatic efforts",
+            "B": "Defend Australia should the need arise",
+            "C": "Donate to the national defense fund"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens have the responsibility to defend Australia should the need arise."
+    },
+    {
+        "question": "What is the responsibility of Australian citizens in regards to jury service?",
+        "options": {
+            "A": "Serve on a jury if called to do so",
+            "B": "To be a legal advisor for a jury",
+            "C": "To oversee jury deliberations"
+        },
+        "answer": "A",
+        "explanation": "Australian citizens have the responsibility to serve on a jury if called to do so."
+    },
+    {
+        "question": "How are Australians expected to participate in their community?",
+        "options": {
+            "A": "By volunteering and supporting themselves and their families",
+            "B": "By attending all community meetings",
+            "C": "By paying community taxes"
+        },
+        "answer": "A",
+        "explanation": "Australians are expected to participate in their community by volunteering and supporting themselves and their families when they are able to do so."
+    },
+    {
+        "question": "What is the Australian approach to compassion for those in need?",
+        "options": {
+            "A": "Mandatory financial contributions to charity",
+            "B": "Volunteering and helping each other in times of need",
+            "C": "Government-only support for those in need"
+        },
+        "answer": "B",
+        "explanation": "Australians value 'mateship' and help each other in times of need, including through volunteering and community service."
+    },
+    {
+        "question": "What is the Australian citizens' responsibility regarding voting?",
+        "options": {
+            "A": "Voting is optional",
+            "B": "Voting is mandatory in federal and state or territory elections",
+            "C": "Voting is only required in federal elections"
+        },
+        "answer": "B",
+        "explanation": "It is a responsibility for Australian citizens aged 18 years or over to vote in federal and state or territory elections and in a referendum."
+    },
+    {
+        "question": "What are Australian citizens expected to do if called for jury service?",
+        "options": {
+            "A": "Decline unless they have legal knowledge",
+            "B": "Serve on a jury",
+            "C": "Recommend someone else in their place"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens who are on the electoral roll and aged 18 years or over can be called to serve on a jury and are expected to do so if called."
+    },
+    {
+        "question": "What role do Australian citizens play in their nation's defense?",
+        "options": {
+            "A": "Provide financial support for the military",
+            "B": "Defend the nation should the need arise",
+            "C": "Monitor national security through community watch programs"
+        },
+        "answer": "B",
+        "explanation": "A responsibility for Australian citizens is to defend Australia should the need arise."
+    },
+    {
+        "question": "How can Australian citizens contribute to their community?",
+        "options": {
+            "A": "By exclusively supporting government initiatives",
+            "B": "Through community service and volunteering",
+            "C": "By participating in political campaigns only"
+        },
+        "answer": "B",
+        "explanation": "Australians are expected to participate in their community through community service and volunteering."
+    },
+    {
+        "question": "What privilege is granted to Australian citizens regarding participation in elections?",
+        "options": {
+            "A": "They can vote in federal, state, or territory elections and in a referendum",
+            "B": "They can only vote in state or territory elections",
+            "C": "Voting is not a privilege for Australian citizens"
+        },
+        "answer": "A",
+        "explanation": "As an Australian citizen, one has the privilege to vote in federal, state, or territory elections and in a referendum."
+    },
+    {
+        "question": "What can Australian citizens apply for their children born overseas?",
+        "options": {
+            "A": "Australian citizenship by descent",
+            "B": "Immediate residency in Australia",
+            "C": "Special international travel privileges"
+        },
+        "answer": "A",
+        "explanation": "Australian citizens can apply for their children born overseas to become Australian citizens by descent."
+    },
+    {
+        "question": "What job opportunities are available to Australian citizens?",
+        "options": {
+            "A": "Any job in the private sector",
+            "B": "Jobs in the Australian Public Service or in the Australian Defence Force",
+            "C": "Only jobs in international organizations"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens can apply for a job in the Australian Public Service or in the Australian Defence Force."
+    },
+    {
+        "question": "What can Australian citizens seek in terms of political participation?",
+        "options": {
+            "A": "Election to parliament",
+            "B": "Appointment as a diplomat",
+            "C": "Permanent residency in any Commonwealth country"
+        },
+        "answer": "A",
+        "explanation": "Australian citizens have the privilege to seek election to parliament."
+    },
+    {
+        "question": "What document can Australian citizens apply for?",
+        "options": {
+            "A": "An international work permit",
+            "B": "An Australian passport",
+            "C": "A global travel visa"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens can apply for an Australian passport."
+    },
+    {
+        "question": "What assistance can Australian citizens request while overseas?",
+        "options": {
+            "A": "Financial aid from the Australian government",
+            "B": "Consular assistance from an Australian official",
+            "C": "Automatic citizenship in the country they are visiting"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens can ask for consular assistance from an Australian official while overseas."
+    },
+    {
+        "question": "What is a key travel privilege of Australian citizens?",
+        "options": {
+            "A": "Free air travel to any country",
+            "B": "Re-enter Australia freely",
+            "C": "Access to exclusive international lounges"
+        },
+        "answer": "B",
+        "explanation": "One of the privileges of Australian citizenship is the ability to apply for an Australian passport and re-enter Australia freely."
+    },
+    {
+        "question": "What is a privilege related to Australian citizenship and employment?",
+        "options": {
+            "A": "Guaranteed employment in the government sector",
+            "B": "Opportunity to apply for jobs in the Australian Public Service",
+            "C": "Priority in job applications"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens have the privilege to apply for a job in the Australian Public Service."
+    },
+    {
+        "question": "Can Australian citizens participate in the political process by running for office?",
+        "options": {
+            "A": "Yes, but only in local government",
+            "B": "Yes, in parliament at the federal, state or territory level",
+            "C": "No, they are only allowed to vote"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens can seek election to parliament at the federal, state or territory level."
+    },
+    {
+        "question": "What travel-related privilege do Australian citizens have?",
+        "options": {
+            "A": "Access to fast-track visa processing globally",
+            "B": "Freedom to travel without a visa",
+            "C": "Applying for an Australian passport and traveling freely"
+        },
+        "answer": "C",
+        "explanation": "Australian citizens have the privilege to apply for an Australian passport and travel freely."
+    },
+    {
+        "question": "What is emphasized for those choosing to become Australian citizens in terms of community involvement?",
+        "options": {
+            "A": "Commitment to living out Australian values in everyday life",
+            "B": "Focusing only on personal and family interests",
+            "C": "Avoiding participation in local community activities"
+        },
+        "answer": "A",
+        "explanation": "Becoming an Australian citizen means making an ongoing commitment to Australia and our shared values, and participating fully as a citizen in the community."
+    },
+    {
+        "question": "How did multicultural communities contribute during Australia's bushfire season of 2019-20?",
+        "options": {
+            "A": "By staying passive and not participating",
+            "B": "By working to collect money, clothes, and food donations",
+            "C": "By only providing moral support"
+        },
+        "answer": "B",
+        "explanation": "During the devastating bushfire season of 2019-20, multicultural communities in Australia actively participated by collecting money, clothes, and food donations to help those affected."
+    },
+    {
+        "question": "What are Australian citizens expected to respect and uphold in their daily life?",
+        "options": {
+            "A": "Only the laws that align with their personal beliefs",
+            "B": "The values that all Australian people are expected to share",
+            "C": "The traditions of their own cultural background exclusively"
+        },
+        "answer": "B",
+        "explanation": "Australian citizens are expected to respect, share, and uphold the values that define and shape the country in their everyday life and local community."
+    },
+    {
+        "question": "What does Australian citizenship enable in terms of community participation?",
+        "options": {
+            "A": "Exemption from community responsibilities",
+            "B": "Full participation in the nation's life and community",
+            "C": "Participation only in selected community events"
+        },
+        "answer": "B",
+        "explanation": "Australian citizenship gives individuals the opportunity to fully participate in the nation's life and community, fulfilling their responsibilities as citizens."
+    },
+    {
+        "question": "What is a fundamental aspect of Australian citizenship regarding community support?",
+        "options": {
+            "A": "Supporting community members only during official events",
+            "B": "Helping each other in times of need, embodying 'mateship'",
+            "C": "Limiting support to only those within one's immediate family"
+        },
+        "answer": "B",
+        "explanation": "A fundamental aspect of Australian citizenship is helping each other in times of need, reflecting the value of 'mateship' and a strong tradition of community service and volunteering."
+    }
+]
