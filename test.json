@@ -1,0 +1,832 @@
+[
+    {
+        "question": "What is the primary role of the Governor-General of Australia?",
+        "options": [
+            "Head of the Government",
+            "Representative of the Queen",
+            "Speaker of the House"
+        ],
+        "answer": "Representative of the Queen",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does the Australian Constitution do?",
+        "options": [
+            "Establishes the Australian Parliament",
+            "Outlines basic rules for government",
+            "Defines state borders"
+        ],
+        "answer": "Outlines basic rules for government",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What are the two houses of the Australian Parliament?",
+        "options": [
+            "Senate and House of Representatives",
+            "House of Commons and Senate",
+            "Legislative Assembly and Senate"
+        ],
+        "answer": "Senate and House of Representatives",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra"
+        ],
+        "answer": "Canberra",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "What is the significance of the Eureka Stockade?",
+        "options": [
+            "Discovery of gold",
+            "A rebellion of miners",
+            "Formation of the Commonwealth"
+        ],
+        "answer": "A rebellion of miners",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "What year did the Sydney Harbour Bridge open?",
+        "options": [
+            "1932",
+            "1956",
+            "1973"
+        ],
+        "answer": "1932",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "Which city hosted the 2000 Summer Olympics?",
+        "options": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane"
+        ],
+        "answer": "Sydney",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "What is the largest state in Australia?",
+        "options": [
+            "Queensland",
+            "Western Australia",
+            "New South Wales"
+        ],
+        "answer": "Western Australia",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "Who can apply for work in the Australian Public Service and the Australian Defence Force?",
+        "options": [
+            "Permanent residents",
+            "Australian citizens",
+            "All residents"
+        ],
+        "answer": "Australian citizens",
+        "section": "Privileges of Australian citizenship"
+    },
+    {
+        "question": "What is the age of sexual consent in most Australian states and territories?",
+        "options": [
+            "18 years",
+            "16 or 17 years, depending on the state or territory",
+            "21 years"
+        ],
+        "answer": "16 or 17 years, depending on the state or territory",
+        "section": "Australian values"
+    },
+    {
+        "question": "What does the Governor-General do with the Bills passed by the Australian Parliament?",
+        "options": [
+            "Reviews and suggests amendments",
+            "Signs them into law",
+            "Sends them to the Queen for approval"
+        ],
+        "answer": "Signs them into law",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is Australia's stance on domestic and family violence?",
+        "options": [
+            "It is tolerated to some extent",
+            "It is against the law",
+            "It is not addressed by law"
+        ],
+        "answer": "It is against the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the role of the Australian Federal Police?",
+        "options": [
+            "Maintain local law and order",
+            "Enforce federal laws and protect national interests",
+            "Monitor and regulate traffic rules"
+        ],
+        "answer": "Enforce federal laws and protect national interests",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is expected of Australian citizens in terms of language?",
+        "options": [
+            "To speak multiple languages",
+            "To speak English, as it is the national language",
+            "To only speak their native language"
+        ],
+        "answer": "To speak English, as it is the national language",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the main principle behind the Rule of Law in Australia?",
+        "options": [
+            "All citizens must follow the government's decisions",
+            "Everyone is equal under the law",
+            "Laws are flexible based on individual circumstances"
+        ],
+        "answer": "Everyone is equal under the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is a key feature of Australia's system of government?",
+        "options": [
+            "Parliamentary democracy",
+            "Direct democracy",
+            "Autocratic rule"
+        ],
+        "answer": "Parliamentary democracy",
+        "section": "Australian values"
+    },
+    {
+        "question": "How is the Australian Government formed after a federal election?",
+        "options": [
+            "By direct appointment by the Governor-General",
+            "By the party or coalition with the majority in the House of Representatives",
+            "Through a lottery system"
+        ],
+        "answer": "By the party or coalition with the majority in the House of Representatives",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the primary language of Australia?",
+        "options": [
+            "Mandarin",
+            "English",
+            "Italian"
+        ],
+        "answer": "English",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is Australia's position on domestic and family violence?",
+        "options": [
+            "It is legally acceptable",
+            "It is against the law",
+            "It is tolerated under certain conditions"
+        ],
+        "answer": "It is against the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the role of the Australian Federal Police?",
+        "options": [
+            "Enforce local laws",
+            "Protect wildlife",
+            "Enforce federal laws and protect national interests"
+        ],
+        "answer": "Enforce federal laws and protect national interests",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is Australia's Head of State?",
+        "options": [
+            "The Prime Minister",
+            "The Governor-General",
+            "The King"
+        ],
+        "answer": "The King",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is Australia's stance on freedom of speech?",
+        "options": [
+            "Limited to government-approved topics",
+            "Free within the law",
+            "Not recognized"
+        ],
+        "answer": "Free within the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "What does the term 'fair go' signify in Australia?",
+        "options": [
+            "Equal opportunity for all",
+            "Fair treatment in sports",
+            "Equal distribution of wealth"
+        ],
+        "answer": "Equal opportunity for all",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is required to change the Australian Constitution?",
+        "options": [
+            "A majority vote in Parliament",
+            "A referendum",
+            "Approval by the Governor-General"
+        ],
+        "answer": "A referendum",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the role of the Governor-General?",
+        "options": [
+            "Head of the Government",
+            "Representative of the King",
+            "Leader of the military"
+        ],
+        "answer": "Representative of the King",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does Australia's system of parliamentary democracy entail?",
+        "options": [
+            "Direct rule by the King",
+            "Election of representatives by the citizens",
+            "Lifetime appointment of representatives"
+        ],
+        "answer": "Election of representatives by the citizens",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is a referendum in Australia?",
+        "options": [
+            "A vote to change the Prime Minister",
+            "A vote to change the Australian Constitution",
+            "A vote to change the government"
+        ],
+        "answer": "A vote to change the Australian Constitution",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is Australia's stance on equality of all people under the law?",
+        "options": [
+            "Based on social status",
+            "Equal regardless of background",
+            "Dependent on economic status"
+        ],
+        "answer": "Equal regardless of background",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the main purpose of the Australian Federal Police?",
+        "options": [
+            "Enforcing local laws",
+            "Enforcing federal laws and protecting national interests",
+            "Managing traffic control"
+        ],
+        "answer": "Enforcing federal laws and protecting national interests",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does the Australian Constitution establish?",
+        "options": [
+            "The national anthem",
+            "The Commonwealth of Australia",
+            "The Australian sports teams"
+        ],
+        "answer": "The Commonwealth of Australia",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the legal age for marriage in Australia?",
+        "options": [
+            "16 years",
+            "18 years",
+            "21 years"
+        ],
+        "answer": "18 years",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is one of the responsibilities of Australian citizenship?",
+        "options": [
+            "Serving in the military",
+            "Voting in elections",
+            "Holding a valid driver's license"
+        ],
+        "answer": "Voting in elections",
+        "section": "Privileges of Australian citizenship"
+    },
+    {
+        "question": "What is Australia’s national floral emblem?",
+        "options": [
+            "The Rose",
+            "The Golden Wattle",
+            "The Tulip"
+        ],
+        "answer": "The Golden Wattle",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "What are Australia's national colors?",
+        "options": [
+            "Red and White",
+            "Green and Gold",
+            "Blue and Yellow"
+        ],
+        "answer": "Green and Gold",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "What is the name of Australia's national gemstone?",
+        "options": [
+            "Diamond",
+            "Opal",
+            "Emerald"
+        ],
+        "answer": "Opal",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "What is the significance of the Southern Cross on the Australian flag?",
+        "options": [
+            "It represents the nation's history",
+            "It symbolizes Australia's geographic location in the Southern Hemisphere",
+            "It commemorates important battles"
+        ],
+        "answer": "It symbolizes Australia's geographic location in the Southern Hemisphere",
+        "section": "Australia and its people"
+    },
+    {
+        "question": "Who can you report to if you face discrimination in Australia?",
+        "options": [
+            "Australian Human Rights Commission",
+            "Local Police Department",
+            "Australian Public Service"
+        ],
+        "answer": "Australian Human Rights Commission",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the Australian Constitution?",
+        "options": [
+            "A historical document",
+            "The supreme law of Australia",
+            "A government policy guide"
+        ],
+        "answer": "The supreme law of Australia",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does 'fair go' mean in Australia?",
+        "options": [
+            "Equal opportunity for everyone",
+            "Fair treatment in sports",
+            "Equal pay for all"
+        ],
+        "answer": "Equal opportunity for everyone",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the role of the Australian Taxation Office (ATO)?",
+        "options": [
+            "Managing health services",
+            "Managing tax and superannuation systems",
+            "Overseeing educational institutions"
+        ],
+        "answer": "Managing tax and superannuation systems",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the main purpose of Australian Federal Police?",
+        "options": [
+            "Enforcing federal laws and protecting national interests",
+            "Managing local law enforcement",
+            "Controlling traffic rules"
+        ],
+        "answer": "Enforcing federal laws and protecting national interests",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does the freedom of religion mean in Australia?",
+        "options": [
+            "Following a state-mandated religion",
+            "Freedom to follow any religion of choice",
+            "Religious laws override national laws"
+        ],
+        "answer": "Freedom to follow any religion of choice",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is Australia's stance on freedom of religion?",
+        "options": [
+            "Only certain religions are allowed",
+            "Freedom to follow any religion or no religion",
+            "No religious practices are allowed"
+        ],
+        "answer": "Freedom to follow any religion or no religion",
+        "section": "Australian values"
+    },
+    {
+        "question": "What does the Australian Human Rights Commission do?",
+        "options": [
+            "Regulates environmental policies",
+            "Investigates complaints about discrimination",
+            "Handles immigration processes"
+        ],
+        "answer": "Investigates complaints about discrimination",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What is the legal age for voting in Australia?",
+        "options": [
+            "16 years",
+            "18 years",
+            "21 years"
+        ],
+        "answer": "18 years",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the main role of the Australian Federal Police?",
+        "options": [
+            "Enforcing state laws",
+            "Enforcing federal laws and protecting national interests",
+            "Managing traffic control"
+        ],
+        "answer": "Enforcing federal laws and protecting national interests",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is the representative of the King in Australia?",
+        "options": [
+            "The Prime Minister",
+            "The Governor-General",
+            "The Chief Justice"
+        ],
+        "answer": "The Governor-General",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the main purpose of the Australian Taxation Office (ATO)?",
+        "options": [
+            "Managing health services",
+            "Managing tax and superannuation systems",
+            "Controlling educational institutions"
+        ],
+        "answer": "Managing tax and superannuation systems",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What is a key aspect of Australia's parliamentary democracy?",
+        "options": [
+            "The King makes all the laws",
+            "Citizens directly make laws",
+            "Laws are determined by parliaments elected by the people"
+        ],
+        "answer": "Laws are determined by parliaments elected by the people",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does 'equality under the law' mean in Australia?",
+        "options": [
+            "Everyone has different rights",
+            "Certain groups have privileges over others",
+            "All people are equal in relation to the law"
+        ],
+        "answer": "All people are equal in relation to the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "Who can participate in Australian society and make a contribution to the community?",
+        "options": [
+            "Only Australian citizens",
+            "Only people born in Australia",
+            "All residents of Australia"
+        ],
+        "answer": "All residents of Australia",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the national language of Australia?",
+        "options": [
+            "Mandarin",
+            "English",
+            "Italian"
+        ],
+        "answer": "English",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the significance of the term 'mateship' in Australian culture?",
+        "options": [
+            "A term for friendship",
+            "A term for teamwork in sports",
+            "A term symbolizing camaraderie and mutual support"
+        ],
+        "answer": "A term symbolizing camaraderie and mutual support",
+        "section": "Australian values"
+    },
+    {
+        "question": "What does the Australian Human Rights Commission handle?",
+        "options": [
+            "Economic policies",
+            "Discrimination and human rights complaints",
+            "Immigration processes"
+        ],
+        "answer": "Discrimination and human rights complaints",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What is the legal age for voting in Australia?",
+        "options": [
+            "16 years",
+            "18 years",
+            "21 years"
+        ],
+        "answer": "18 years",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is the representative of the King in Australia?",
+        "options": [
+            "The Prime Minister",
+            "The Governor-General",
+            "The Chief Justice"
+        ],
+        "answer": "The Governor-General",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the main role of the Australian Taxation Office (ATO)?",
+        "options": [
+            "Managing health services",
+            "Managing tax and superannuation systems",
+            "Controlling educational institutions"
+        ],
+        "answer": "Managing tax and superannuation systems",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What is a key aspect of Australia's parliamentary democracy?",
+        "options": [
+            "The King makes all the laws",
+            "Citizens directly make laws",
+            "Laws are determined by parliaments elected by the people"
+        ],
+        "answer": "Laws are determined by parliaments elected by the people",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does 'equality under the law' mean in Australia?",
+        "options": [
+            "Everyone has different rights",
+            "Certain groups have privileges over others",
+            "All people are equal in relation to the law"
+        ],
+        "answer": "All people are equal in relation to the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "Who can participate in Australian society and make a contribution to the community?",
+        "options": [
+            "Only Australian citizens",
+            "Only people born in Australia",
+            "All residents of Australia"
+        ],
+        "answer": "All residents of Australia",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the national language of Australia?",
+        "options": [
+            "Mandarin",
+            "English",
+            "Italian"
+        ],
+        "answer": "English",
+        "section": "Australian values"
+    },
+    {
+        "question": "What does the Australian Human Rights Commission handle?",
+        "options": [
+            "Economic policies",
+            "Discrimination and human rights complaints",
+            "Immigration processes"
+        ],
+        "answer": "Discrimination and human rights complaints",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What is the legal age for voting in Australia?",
+        "options": [
+            "16 years",
+            "18 years",
+            "21 years"
+        ],
+        "answer": "18 years",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is the representative of the King in Australia?",
+        "options": [
+            "The Prime Minister",
+            "The Governor-General",
+            "The Chief Justice"
+        ],
+        "answer": "The Governor-General",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the main role of the Australian Taxation Office (ATO)?",
+        "options": [
+            "Managing health services",
+            "Managing tax and superannuation systems",
+            "Controlling educational institutions"
+        ],
+        "answer": "Managing tax and superannuation systems",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What is a key aspect of Australia's parliamentary democracy?",
+        "options": [
+            "The King makes all the laws",
+            "Citizens directly make laws",
+            "Laws are determined by parliaments elected by the people"
+        ],
+        "answer": "Laws are determined by parliaments elected by the people",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does 'equality under the law' mean in Australia?",
+        "options": [
+            "Everyone has different rights",
+            "Certain groups have privileges over others",
+            "All people are equal in relation to the law"
+        ],
+        "answer": "All people are equal in relation to the law",
+        "section": "Australian values"
+    },
+    {
+        "question": "Who can participate in Australian society and make a contribution to the community?",
+        "options": [
+            "Only Australian citizens",
+            "Only people born in Australia",
+            "All residents of Australia"
+        ],
+        "answer": "All residents of Australia",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the national language of Australia?",
+        "options": [
+            "Mandarin",
+            "English",
+            "Italian"
+        ],
+        "answer": "English",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the role of the Australian Human Rights Commission?",
+        "options": [
+            "Managing economic policies",
+            "Investigating discrimination and human rights breaches",
+            "Overseeing immigration processes"
+        ],
+        "answer": "Investigating discrimination and human rights breaches",
+        "section": "Australian values"
+    },
+    {
+        "question": "What is the age of consent for sexual relations in most Australian states and territories?",
+        "options": [
+            "16 or 17 years",
+            "18 years",
+            "21 years"
+        ],
+        "answer": "16 or 17 years",
+        "section": "Australian values"
+    },
+    {
+        "question": "What does the Governor-General do with bills passed by the Australian Parliament?",
+        "options": [
+            "Review and suggest amendments",
+            "Sign them into law",
+            "Send them to the King for approval"
+        ],
+        "answer": "Sign them into law",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "Who is the King of Australia?",
+        "options": [
+            "King Charles III",
+            "King William V",
+            "King George VII"
+        ],
+        "answer": "King Charles III",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the legal document that sets out the basic rules for the government of Australia?",
+        "options": [
+            "The Australian Declaration of Independence",
+            "The Australian Bill of Rights",
+            "The Australian Constitution"
+        ],
+        "answer": "The Australian Constitution",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What is the main purpose of the Australian Federal Police?",
+        "options": [
+            "Enforcing federal laws and protecting national interests",
+            "Managing local law enforcement",
+            "Controlling traffic rules"
+        ],
+        "answer": "Enforcing federal laws and protecting national interests",
+        "section": "Government and the law in Australia"
+    },
+    {
+        "question": "What does 'fair go' mean in Australia?",
+        "options": [
+            "Equal pay for all",
+            "Equal opportunity for all",
+            "Fair treatment in sports"
+        ],
+        "answer": "Equal opportunity for all",
+        "section": "Australian values"
+    },
+    {
+        "question": "Who can apply for work in the Australian Public Service and the Australian Defence Force?",
+        "options": [
+            "Permanent residents",
+            "All residents",
+            "Australian citizens"
+        ],
+        "answer": "Australian citizens",
+        "section": "Privileges and responsibilities of Australian citizenship"
+    },
+    {
+        "question": "What does the Australian Human Rights Commission handle?",
+        "options": [
+            "Economic policies",
+            "Discrimination and human rights complaints",
+            "Immigration processes"
+        ],
+        "answer": "Discrimination and human rights complaints",
+        "section": "Australian Values"
+    },
+    {
+        "question": "What is the primary purpose of the Australian Federal Police?",
+        "options": [
+            "Enforcing local laws",
+            "Enforcing federal laws and protecting national interests",
+            "Managing Australian borders"
+        ],
+        "answer": "Enforcing federal laws and protecting national interests",
+        "section": "Australian Values"
+    },
+    {
+        "question": "What is the role of the Australian Electoral Commission?",
+        "options": [
+            "Conducting federal elections and maintaining the electoral roll",
+            "Managing the national budget",
+            "Regulating Australian media"
+        ],
+        "answer": "Conducting federal elections and maintaining the electoral roll",
+        "section": "Australian Values"
+    },
+    {
+        "question": "What is Australia's policy on domestic and family violence?",
+        "options": [
+            "It is accepted in certain cultures",
+            "It is against the law",
+            "It is not addressed legally"
+        ],
+        "answer": "It is against the law",
+        "section": "Australian Values"
+    },
+    {
+        "question": "What is the age requirement for voting in Australia?",
+        "options": [
+            "16 years",
+            "18 years",
+            "21 years"
+        ],
+        "answer": "18 years",
+        "section": "Australian Values"
+    },
+    {
+        "question": "What is the legal document that sets out the basic rules for the government of Australia?",
+        "options": [
+            "The Australian Declaration of Independence",
+            "The Australian Bill of Rights",
+            "The Australian Constitution"
+        ],
+        "answer": "The Australian Constitution",
+        "section": "Australian Values"
+    }
+]
