@@ -828,5 +828,65 @@
         ],
         "answer": "The Australian Constitution",
         "section": "Australian Values"
-    }
+    },
+    {
+        "question": "What is the structure of the Australian Parliament?",
+        "options": ["Two Houses: House of Representatives and Senate", "Single House system", "Three Houses including the House of Commons"],
+        "answer": "Two Houses: House of Representatives and Senate",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What are the main roles of the House of Representatives?",
+        "options": ["Interpreting laws", "Considering, debating, and voting on proposals for new laws", "Foreign policy decision making"],
+        "answer": "Considering, debating, and voting on proposals for new laws",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the Senate sometimes referred to as?",
+        "options": ["The Upper House", "The State's House", "The Lower House"],
+        "answer": "The Upper House",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "How are members of the House of Representatives elected?",
+        "options": ["Appointed by the Prime Minister", "Elected by the people of Australia", "Selected by the Governor-General"],
+        "answer": "Elected by the people of Australia",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is a Bill in the context of the Australian Parliament?",
+        "options": ["A proposal for a new law or a change to an existing law", "A formal complaint against the government", "A financial statement"],
+        "answer": "A proposal for a new law or a change to an existing law",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "Who gives Royal Assent to Bills in Australia?",
+        "options": ["The Prime Minister", "The Governor-General", "The Speaker of the House"],
+        "answer": "The Governor-General",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What is the primary function of the Senate in the Australian Parliament?",
+        "options": ["Review and debate proposed laws", "Appoint government ministers", "Manage state affairs"],
+        "answer": "Review and debate proposed laws",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "How often are federal elections held in Australia?",
+        "options": ["Every 3 years", "Every 4 years", "Every 5 years"],
+        "answer": "Every 3 years",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "Who is the leader of the Australian Government?",
+        "options": ["The Governor-General", "The Prime Minister", "The King of Australia"],
+        "answer": "The Prime Minister",
+        "section": "Government and the law in Australia"
+      },
+      {
+        "question": "What happens after a federal election if no single party has a majority?",
+        "options": ["A coalition or agreement between parties is formed", "A re-election is held", "The Governor-General chooses the government"],
+        "answer": "A coalition or agreement between parties is formed",
+        "section": "Government and the law in Australia"
+      }
 ]
