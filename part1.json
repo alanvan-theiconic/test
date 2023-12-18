@@ -1,0 +1,432 @@
+[
+    {
+        "question": "Who are the original inhabitants of the land in Australia?",
+        "options": {
+            "A": "The British settlers",
+            "B": "The Aboriginal and Torres Strait Islander peoples",
+            "C": "European explorers"
+        },
+        "answer": "B",
+        "explanation": "The Aboriginal and Torres Strait Islander peoples are the original inhabitants of the land in Australia"
+    },
+    {
+        "question": "What percentage of the Australian population do the Aboriginal and Torres Strait Islander peoples make up?",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Approximately 3%",
+            "C": "Approximately 15%"
+        },
+        "answer": "B",
+        "explanation": "The Aboriginal and Torres Strait Islander peoples of Australia make up approximately three per cent of the Australian population."
+    },
+    {
+        "question": "Which statement best describes the connection of the Aboriginal and Torres Strait Islander peoples with the land?",
+        "options": {
+            "A": "They have a deep connection with the land, expressed in stories, art, and dance",
+            "B": "They have a formal legal relationship with the land",
+            "C": "They view the land primarily as a resource for economic activities"
+        },
+        "answer": "A",
+        "explanation": "Aboriginal and Torres Strait Islander peoples have a deep connection with the land which is expressed in their stories, art, and dance."
+    },
+    {
+        "question": "What do the colors of the Australian Aboriginal Flag represent?",
+        "options": {
+            "A": "Black for the people, red for the earth, yellow for the sun",
+            "B": "Green for the land, blue for the sea, white for peace",
+            "C": "Red for the desert, white for the sky, black for the night"
+        },
+        "answer": "A",
+        "explanation": "The Australian Aboriginal Flag is black, red, and yellow. The top half is black and represents the Aboriginal peoples of Australia. The bottom half is red and represents the earth. The yellow circle represents the sun."
+    },
+    {
+        "question": "What is a 'Welcome to Country' ceremony?",
+        "options": {
+            "A": "A ceremony to celebrate national holidays in Australia",
+            "B": "A cultural practice performed by a local Aboriginal or Torres Strait Islander custodian",
+            "C": "A formal government event to welcome foreign dignitaries"
+        },
+        "answer": "B",
+        "explanation": "A Welcome to Country is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian of the local region welcoming visitors to their traditional land."
+    },
+    {
+        "question": "When did the European settlement in Australia begin?",
+        "options": {
+            "A": "26 January 1788",
+            "B": "1 July 1770",
+            "C": "15 March 1800"
+        },
+        "answer": "A",
+        "explanation": "European settlement started when the first 11 convict ships, known as the ‘First Fleet’, arrived from Great Britain on 26 January 1788."
+    },
+    {
+        "question": "What was the main reason for the British Government to transport convicts to Australia?",
+        "options": {
+            "A": "To explore new territories",
+            "B": "To relieve overcrowded jails",
+            "C": "To establish trading ports"
+        },
+        "answer": "B",
+        "explanation": "The British Government decided to transport convicts to the new colony of New South Wales to manage the problem of overcrowded jails."
+    },
+    {
+        "question": "Who was the first Governor of the colony of New South Wales?",
+        "options": {
+            "A": "Governor James Cook",
+            "B": "Captain Arthur Phillip",
+            "C": "Governor William Bligh"
+        },
+        "answer": "B",
+        "explanation": "The first Governor of the colony of New South Wales was Captain Arthur Phillip."
+    },
+    {
+        "question": "What significant event happened in Australia in 1901?",
+        "options": {
+            "A": "The establishment of the Commonwealth of Australia",
+            "B": "The arrival of the Second Fleet",
+            "C": "The discovery of gold in New South Wales"
+        },
+        "answer": "A",
+        "explanation": "In 1901, the separate colonies were united into a federation of states called the Commonwealth of Australia."
+    },
+    {
+        "question": "Which group was the first large group of migrants not from Europe to arrive in Australia during the gold rush?",
+        "options": {
+            "A": "Chinese",
+            "B": "Indian",
+            "C": "African"
+        },
+        "answer": "A",
+        "explanation": "During the gold rush, which began in 1851, Chinese people arriving were the first large group of migrants not from Europe."
+    },
+    {
+        "question": "When were the separate colonies in Australia united into a federation?",
+        "options": {
+            "A": "In 1788",
+            "B": "In 1901",
+            "C": "In 1967"
+        },
+        "answer": "B",
+        "explanation": "In 1901, the separate colonies were united into a federation called the Commonwealth of Australia."
+    },
+    {
+        "question": "What did not happen until after a 1967 Referendum in Australia?",
+        "options": {
+            "A": "Establishment of the Commonwealth of Australia",
+            "B": "Inclusion of Aboriginal and Torres Strait Islander peoples in official population estimates",
+            "C": "Introduction of the Australian Constitution"
+        },
+        "answer": "B",
+        "explanation": "It was not until after a Referendum in 1967 that Aboriginal and Torres Strait Islander peoples were included in official estimates of the Australian population."
+    },
+    {
+        "question": "What was the focus of migration programs in Australia during the first half of the 20th century?",
+        "options": {
+            "A": "Encouraging non-British migrants",
+            "B": "Encouraging British migrants to settle",
+            "C": "Restricting all forms of migration"
+        },
+        "answer": "B",
+        "explanation": "Throughout the first half of the 20th century, there were programs to actively encourage British migrants to settle in Australia."
+    },
+    {
+        "question": "Which event led to a wave of non-British migration to Australia?",
+        "options": {
+            "A": "The Great Depression",
+            "B": "World War I",
+            "C": "World War II"
+        },
+        "answer": "C",
+        "explanation": "After World War II, a wave of non-British migration occurred when millions of people in Europe had to leave their homelands, leading large numbers of Europeans to come to Australia to build a new life."
+    },
+    {
+        "question": "What is the primary reason for people coming to Australia in recent years under migration and refugee programs?",
+        "options": {
+            "A": "To join family, build a new life, or escape adversity",
+            "B": "For education and professional training",
+            "C": "Due to international political agreements"
+        },
+        "answer": "A",
+        "explanation": "In recent years, Australia's migration and refugee programs have brought people from all over the world to join family, make a new life, or to escape poverty, war, or persecution."
+    },
+    {
+        "question": "What is the capital city of New South Wales (NSW)?",
+        "options": {
+            "A": "Melbourne",
+            "B": "Sydney",
+            "C": "Brisbane"
+        },
+        "answer": "B",
+        "explanation": "Sydney is the capital city of New South Wales (NSW)."
+    },
+    {
+        "question": "Which state was the first colony established by the British in Australia?",
+        "options": {
+            "A": "Victoria",
+            "B": "Queensland",
+            "C": "New South Wales"
+        },
+        "answer": "C",
+        "explanation": "New South Wales was the first colony established by the British in Australia."
+    },
+    {
+        "question": "Which is the smallest of the mainland states in Australia?",
+        "options": {
+            "A": "South Australia",
+            "B": "Victoria",
+            "C": "Tasmania"
+        },
+        "answer": "B",
+        "explanation": "Victoria is the smallest of the mainland states in Australia."
+    },
+    {
+        "question": "What natural feature is Queensland famous for?",
+        "options": {
+            "A": "The Great Barrier Reef",
+            "B": "The 12 Apostles",
+            "C": "The Ningaloo Coast"
+        },
+        "answer": "A",
+        "explanation": "Queensland is famous for the world-famous Great Barrier Reef, which runs along its eastern coast."
+    },
+    {
+        "question": "Which state is the largest in Australia?",
+        "options": {
+            "A": "Western Australia",
+            "B": "New South Wales",
+            "C": "Queensland"
+        },
+        "answer": "A",
+        "explanation": "Western Australia is the largest state in Australia."
+    },
+    {
+        "question": "What is the capital city of Victoria?",
+        "options": {
+            "A": "Hobart",
+            "B": "Sydney",
+            "C": "Melbourne"
+        },
+        "answer": "C",
+        "explanation": "Melbourne is the capital city of Victoria."
+    },
+    {
+        "question": "Which city is known for its gold rush history and is located in Victoria?",
+        "options": {
+            "A": "Melbourne",
+            "B": "Perth",
+            "C": "Adelaide"
+        },
+        "answer": "A",
+        "explanation": "Melbourne, the capital city of Victoria, is known for its gold rush history."
+    },
+    {
+        "question": "What is the capital city of Queensland?",
+        "options": {
+            "A": "Brisbane",
+            "B": "Darwin",
+            "C": "Perth"
+        },
+        "answer": "A",
+        "explanation": "Brisbane is the capital city of Queensland."
+    },
+    {
+        "question": "Which state is known for its diverse landscape including tropical rainforests, temperate coastal areas, and a dry inland?",
+        "options": {
+            "A": "New South Wales",
+            "B": "Queensland",
+            "C": "Western Australia"
+        },
+        "answer": "B",
+        "explanation": "Queensland is known for its diverse landscape, which includes tropical rainforests, temperate coastal areas, and a dry inland."
+    },
+    {
+        "question": "What are some iconic locations in Western Australia?",
+        "options": {
+            "A": "The Sydney Harbour Bridge and Opera House",
+            "B": "The Melbourne Cricket Ground and the 12 Apostles",
+            "C": "The Ningaloo Coast and the Kimberley region"
+        },
+        "answer": "C",
+        "explanation": "Iconic locations in Western Australia include the Ningaloo Coast and the Kimberley region."
+    },
+    {
+        "question": "How many states and mainland territories does Australia have?",
+        "options": {
+            "A": "Six states and two territories",
+            "B": "Five states and three territories",
+            "C": "Seven states and one territory"
+        },
+        "answer": "A",
+        "explanation": "Australia is a federation comprising six states and two mainland territories."
+    },
+    {
+        "question": "What is the purpose of a 'Welcome to Country' ceremony?",
+        "options": {
+            "A": "To celebrate national holidays in Australia",
+            "B": "To welcome visitors to Aboriginal or Torres Strait Islander traditional land",
+            "C": "To mark the beginning of governmental meetings"
+        },
+        "answer": "B",
+        "explanation": "A Welcome to Country is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian to welcome visitors to their traditional land."
+    },
+    {
+        "question": "In what forms can a 'Welcome to Country' take place?",
+        "options": {
+            "A": "Songs, dances, smoking ceremonies, or speeches",
+            "B": "Formal presentations and lectures",
+            "C": "Written declarations and agreements"
+        },
+        "answer": "A",
+        "explanation": "A Welcome to Country can take place through various forms including songs, dances, smoking ceremonies, or speeches in traditional language or English."
+    },
+    {
+        "question": "Who can deliver an 'Acknowledgement of Country' at events?",
+        "options": {
+            "A": "Only government officials",
+            "B": "Only Aboriginal or Torres Strait Islander custodians",
+            "C": "Anyone, typically by the Chair or Master of Ceremonies"
+        },
+        "answer": "C",
+        "explanation": "An Acknowledgement of Country can be delivered by anyone, and at meetings or events, it is usually done by the Chair or Master of Ceremonies."
+    },
+    {
+        "question": "What is celebrated on Australia Day, which occurs on 26 January each year?",
+        "options": {
+            "A": "The signing of the Australian Constitution",
+            "B": "The anniversary of the arrival of the First Fleet from Great Britain in 1788",
+            "C": "The formation of the Commonwealth of Australia"
+        },
+        "answer": "B",
+        "explanation": "Australia Day, celebrated on 26 January, is the anniversary of the arrival of the First Fleet from Great Britain in 1788."
+    },
+    {
+        "question": "What significant event does Anzac Day commemorate?",
+        "options": {
+            "A": "The end of World War II",
+            "B": "The landing of the Australian and New Zealand Army Corps at Gallipoli during World War I",
+            "C": "The signing of the Treaty of Versailles"
+        },
+        "answer": "B",
+        "explanation": "Anzac Day, commemorated on 25 April each year, is named after the Australian and New Zealand Army Corps which landed at Gallipoli in Türkiye during World War I on 25 April 1915."
+    },
+    {
+        "question": "Which important announcement is made during Australia Day celebrations?",
+        "options": {
+            "A": "The appointment of the Governor-General",
+            "B": "The Australian of the Year Awards",
+            "C": "The results of the national election"
+        },
+        "answer": "B",
+        "explanation": "During Australia Day celebrations, the Prime Minister announces the Australian of the Year Awards in Canberra."
+    },
+    {
+        "question": "What are the colors of the Australian National Flag?",
+        "options": {
+            "A": "Green, white, and yellow",
+            "B": "Red, white, and blue",
+            "C": "Black, red, and yellow"
+        },
+        "answer": "B",
+        "explanation": "The Australian National Flag is blue, white, and red."
+    },
+    {
+        "question": "What does the Union Jack in the top left corner of the Australian National Flag represent?",
+        "options": {
+            "A": "Australia's cultural diversity",
+            "B": "Australia's history of British settlement",
+            "C": "The original six states of Australia"
+        },
+        "answer": "B",
+        "explanation": "The Union Jack on the Australian National Flag represents Australia's history of British settlement and the laws and institutions inherited as a result."
+    },
+    {
+        "question": "What does the Commonwealth Star represent on the Australian National Flag?",
+        "options": {
+            "A": "The six states and the territories",
+            "B": "The Commonwealth of Australia",
+            "C": "Australia's connection to the United Kingdom"
+        },
+        "answer": "A",
+        "explanation": "The Commonwealth Star under the Union Jack on the Australian National Flag has seven points, each point representing one of the six states and one point for the territories."
+    },
+    {
+        "question": "What is depicted on the right side of the Australian National Flag?",
+        "options": {
+            "A": "The Great Barrier Reef",
+            "B": "The Southern Cross",
+            "C": "The Sydney Opera House"
+        },
+        "answer": "B",
+        "explanation": "The right side of the Australian National Flag features the Southern Cross, a group of stars that can be seen in the southern sky."
+    },
+    {
+        "question": "Which element on the Australian National Flag symbolizes Australia's territorial areas?",
+        "options": {
+            "A": "The Union Jack",
+            "B": "The Commonwealth Star",
+            "C": "The Southern Cross"
+        },
+        "answer": "B",
+        "explanation": "The point on the Commonwealth Star representing the territories on the Australian National Flag symbolizes Australia's territorial areas."
+    },
+    {
+        "question": "What does the Commonwealth Coat of Arms represent?",
+        "options": {
+            "A": "Australia's cultural diversity",
+            "B": "Australia's national unity",
+            "C": "The history of Australian independence"
+        },
+        "answer": "B",
+        "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia and represents Australia's national unity."
+    },
+    {
+        "question": "What is Australia’s national flower?",
+        "options": {
+            "A": "The Rose",
+            "B": "The Golden Wattle",
+            "C": "The Hibiscus"
+        },
+        "answer": "B",
+        "explanation": "Australia’s national flower is the golden wattle."
+    },
+    {
+        "question": "What is the official symbol of the Commonwealth of Australia?",
+        "options": {
+            "A": "The Australian National Flag",
+            "B": "The Commonwealth Coat of Arms",
+            "C": "The Golden Wattle"
+        },
+        "answer": "B",
+        "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia."
+    },
+    {
+        "question": "Which animals are depicted as supporting the shield in the Commonwealth Coat of Arms?",
+        "options": {
+            "A": "A kangaroo and a koala",
+            "B": "A kangaroo and an emu",
+            "C": "An emu and a platypus"
+        },
+        "answer": "B",
+        "explanation": "In the Commonwealth Coat of Arms, a kangaroo and an emu support the shield on each side."
+    },
+    {
+        "question": "What are Australia's national colours?",
+        "options": {
+            "A": "Red and White",
+            "B": "Green and Gold",
+            "C": "Blue and Yellow"
+        },
+        "answer": "B",
+        "explanation": "Australia's national colours are green and gold, the colours of the Golden Wattle&#8203;``【oaicite:1】``&#8203;."
+    },
+    {
+        "question": "What is Australia's national gemstone?",
+        "options": {
+            "A": "Diamond",
+            "B": "Sapphire",
+            "C": "Opal"
+        },
+        "answer": "C",
+        "explanation": "The opal is Australia's national gemstone&#8203;``【oaicite:0】``&#8203;."
+    }
+]
