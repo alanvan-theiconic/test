@@ -1118,5 +1118,55 @@
         ],
         "answer": "State and Territory Governments",
         "section": "Government and the law in Australia"
-    }
+    },
+    {
+        "question": "What is a responsibility of Australian citizens aged 18 years or over?",
+        "options": ["To serve in the military", "To vote in federal and state or territory elections and in a referendum", "To hold a current Australian passport"],
+        "answer": "To vote in federal and state or territory elections and in a referendum",
+        "section": "Responsibilities and Privileges of Australian Citizenship"
+      },
+      {
+        "question": "As an Australian citizen, what are you encouraged to do if you see or have knowledge of a child being abused?",
+        "options": ["Report to a local community leader", "Report to the police", "Ignore unless you are directly involved"],
+        "answer": "Report to the police",
+        "section": "Responsibilities and Privileges of Australian Citizenship"
+      },
+      {
+        "question": "Which of these is a privilege of Australian citizenship?",
+        "options": ["Voting in local council elections", "Applying for work in the Australian Public Service and the Australian Defence Force", "Automatic entitlement to government benefits"],
+        "answer": "Applying for work in the Australian Public Service and the Australian Defence Force",
+        "section": "Responsibilities and Privileges of Australian Citizenship"
+      },
+      {
+        "question": "What is expected of Australian citizens in terms of obeying laws?",
+        "options": ["Obeying only state laws", "Obeying laws of their country of origin", "Obeying the laws of Australia"],
+        "answer": "Obeying the laws of Australia",
+        "section": "Australia’s democratic beliefs, rights and liberties"
+      },
+      {
+        "question": "What can Australian citizens do when they have a concern about government policy?",
+        "options": ["Contact their elected representative", "Post about it on social media", "Directly change the policy themselves"],
+        "answer": "Contact their elected representative",
+        "section": "Australia’s democratic beliefs, rights and liberties"
+      },
+      {
+        "question": "What should you do if you suspect someone is planning to commit a serious crime in Australia?",
+        "options": [
+          "Ignore it as it’s none of your business",
+          "Report it to Australian government authorities",
+          "Discuss it with friends and family"
+        ],
+        "answer": "Report it to Australian government authorities",
+        "section": "Australian values"
+      },
+      {
+        "question": "What is expected of you in Australia if you see or have knowledge of a child being abused?",
+        "options": [
+          "Report it to the police",
+          "Keep it to yourself to respect privacy",
+          "Inform community leaders only"
+        ],
+        "answer": "Report it to the police",
+        "section": "Australian values"
+      }
 ]
