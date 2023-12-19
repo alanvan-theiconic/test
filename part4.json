@@ -528,5 +528,95 @@
         },
         "answer": "B",
         "explanation": "Australian citizens may hold the citizenship of another country or countries (dual citizenship) if the laws of those countries allow."
+    },
+    {
+        "question": "What is an example of demonstrating 'mateship' in Australian culture?",
+        "options": {
+            "A": "Taking a meal to an elderly neighbor",
+            "B": "Competing in sports events",
+            "C": "Celebrating national holidays"
+        },
+        "answer": "A",
+        "explanation": "In Australian culture, 'mateship' is shown through acts of kindness and support, such as taking a meal to an elderly neighbor, especially in times of need."
+    },
+    {
+        "question": "How does volunteering contribute to the Australian community?",
+        "options": {
+            "A": "By strengthening individual wealth",
+            "B": "By enhancing community service and integration",
+            "C": "By promoting political campaigns"
+        },
+        "answer": "B",
+        "explanation": "Volunteering in Australia is seen as a way to strengthen the community and enhance personal integration and sense of belonging within the community&#8203;``【oaicite:0】``&#8203;."
+    },
+    {
+        "question": "Why is English considered an important part of Australia's national identity?",
+        "options": {
+            "A": "Because it is the most widely spoken language worldwide",
+            "B": "As it represents Australia's history and is a unifying element of society",
+            "C": "Due to its simplicity and ease of learning for immigrants"
+        },
+        "answer": "B",
+        "explanation": "English is valued as the national language of Australia and is seen as an important unifying element of Australian society&#8203;``【oaicite:3】``&#8203;&#8203;``【oaicite:2】``&#8203;."
+    },
+    {
+        "question": "What is expected of migrants regarding the English language in Australia?",
+        "options": {
+            "A": "Migrants must be fluent in English before arriving in Australia",
+            "B": "Migrants are encouraged to maintain their native language only",
+            "C": "Migrants should make efforts to learn and use English to integrate into Australian society"
+        },
+        "answer": "C",
+        "explanation": "Migrants in Australia are expected to make reasonable efforts to learn and use English, as it is important for their integration into Australian society and for economic participation and social cohesion&#8203;``【oaicite:1】``&#8203;&#8203;``【oaicite:0】``&#8203;."
+    },
+    {
+        "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
+        "options": {
+            "A": "Confront the individual directly",
+            "B": "Report the suspicion to Australian government authorities",
+            "C": "Ignore the suspicion to avoid conflict"
+        },
+        "answer": "B",
+        "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety&#8203;``【oaicite:1】``&#8203;."
+    },
+    {
+        "question": "How is cyber abuse viewed and handled in Australia?",
+        "options": {
+            "A": "It is accepted as part of online interactions",
+            "B": "It is not recognized as a legitimate form of abuse",
+            "C": "Many forms of cyber abuse are illegal and not tolerated"
+        },
+        "answer": "C",
+        "explanation": "In Australia, online abuse, also known as cyber abuse, is not accepted and many forms of it are illegal. Examples include sharing sexual content without consent and making racially abusive comments online&#8203;``【oaicite:0】``&#8203;."
+    },
+    {
+        "question": "What is included in the citizenship pledge made by Australian citizens?",
+        "options": {
+            "A": "Pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
+            "B": "Committing to follow only the laws of the state of residence within Australia",
+            "C": "Pledging to adopt Australian cultural practices exclusively"
+        },
+        "answer": "A",
+        "explanation": "The citizenship pledge includes pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws&#8203;``【oaicite:3】``&#8203;."
+    },
+    {
+        "question": "Can Australian citizens hold citizenship of another country?",
+        "options": {
+            "A": "No, Australian citizens are not allowed dual or multiple citizenships",
+            "B": "Yes, but only with countries that are part of the Commonwealth",
+            "C": "Yes, if the laws of those countries allow dual or multiple citizenships"
+        },
+        "answer": "C",
+        "explanation": "Australian citizens may hold the citizenship of another country or countries if the laws of those countries permit dual or multiple citizenships&#8203;``【oaicite:2】``&#8203;&#8203;``【oaicite:1】``&#8203;."
+    },
+    {
+        "question": "What obligation do Australian citizens have regarding the laws of Australia?",
+        "options": {
+            "A": "Australian citizens must follow Australian laws at all times, both within Australia and overseas",
+            "B": "Australian citizens only need to follow Australian laws while they are in Australia",
+            "C": "Australian citizens are exempt from certain laws if they also hold citizenship in another country"
+        },
+        "answer": "A",
+        "explanation": "Australian citizens are required to follow all Australian laws at all times, both within Australia and overseas&#8203;``【oaicite:0】``&#8203;."
     }
 ]
