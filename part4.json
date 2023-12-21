@@ -7,7 +7,8 @@
             "C": "It applies only to certain groups within Australia"
         },
         "answer": "B",
-        "explanation": "Under the Rule of Law in Australia, all Australians are equal in relation to the law and no person or group is above the law."
+        "explanation": "Under the Rule of Law in Australia, all Australians are equal in relation to the law and no person or group is above the law.",
+        "isAuValue": true
     },
     {
         "question": "Who is protected by the laws and legal systems in Australia?",
@@ -17,7 +18,8 @@
             "C": "All people in Australia"
         },
         "answer": "C",
-        "explanation": "All Australians, regardless of their background or culture, are protected by the laws and legal systems in Australia."
+        "explanation": "All Australians, regardless of their background or culture, are protected by the laws and legal systems in Australia.",
+        "isAuValue": true
     },
     {
         "question": "What is expected of every person in Australia in terms of the law?",
@@ -27,7 +29,8 @@
             "C": "To participate in law-making processes"
         },
         "answer": "B",
-        "explanation": "In Australia, everybody is expected to obey the law at all times, regardless of whether or not someone is watching."
+        "explanation": "In Australia, everybody is expected to obey the law at all times, regardless of whether or not someone is watching.",
+        "isAuValue": true
     },
     {
         "question": "What happens if you break the law in Australia?",
@@ -37,7 +40,8 @@
             "C": "You will receive a warning for the first offense"
         },
         "answer": "A",
-        "explanation": "If you break the law in Australia, you will face penalties."
+        "explanation": "If you break the law in Australia, you will face penalties.",
+        "isAuValue": true
     },
     {
         "question": "To whom do Australian laws apply?",
@@ -47,7 +51,8 @@
             "C": "To all people in Australia"
         },
         "answer": "C",
-        "explanation": "Australian laws apply to all people in Australia, regardless of their background or culture."
+        "explanation": "Australian laws apply to all people in Australia, regardless of their background or culture.",
+        "isAuValue": true
     },
     {
         "question": "What type of government system does Australia have?",
@@ -57,7 +62,8 @@
             "C": "Dictatorship"
         },
         "answer": "B",
-        "explanation": "Australia’s system of government is a parliamentary democracy."
+        "explanation": "Australia’s system of government is a parliamentary democracy.",
+        "isAuValue": true
     },
     {
         "question": "How are Australian laws determined?",
@@ -67,7 +73,8 @@
             "C": "By a single ruling party"
         },
         "answer": "B",
-        "explanation": "In Australia, laws are determined by parliaments that are elected by the people."
+        "explanation": "In Australia, laws are determined by parliaments that are elected by the people.",
+        "isAuValue": true
     },
     {
         "question": "What does compulsory voting in Australia indicate?",
@@ -77,7 +84,8 @@
             "C": "A lack of freedom of choice"
         },
         "answer": "B",
-        "explanation": "Compulsory voting in Australia shows the importance of participating in elections."
+        "explanation": "Compulsory voting in Australia shows the importance of participating in elections.",
+        "isAuValue": true
     },
     {
         "question": "Who does the power of the Australian government come from?",
@@ -87,7 +95,8 @@
             "C": "International organizations"
         },
         "answer": "B",
-        "explanation": "The power of the Australian government comes from Australian citizens who vote for representatives in parliament."
+        "explanation": "The power of the Australian government comes from Australian citizens who vote for representatives in parliament.",
+        "isAuValue": true
     },
     {
         "question": "What is the role of Australian citizens in the governance of their country?",
@@ -97,7 +106,8 @@
             "C": "They are involved in governance by voting in elections"
         },
         "answer": "C",
-        "explanation": "Australian citizens are involved in the governance of the country by voting in elections to choose their representatives in parliament."
+        "explanation": "Australian citizens are involved in the governance of the country by voting in elections to choose their representatives in parliament.",
+        "isAuValue": true
     },
     {
         "question": "What is the extent of freedom of speech in Australia?",
@@ -107,7 +117,8 @@
             "C": "Only government-approved speech is allowed"
         },
         "answer": "B",
-        "explanation": "In Australia, people can freely express their ideas as long as it is within the law."
+        "explanation": "In Australia, people can freely express their ideas as long as it is within the law.",
+        "isAuValue": true
     },
     {
         "question": "Are Australians allowed to protest against government actions?",
@@ -117,7 +128,8 @@
             "C": "Yes, peaceful public protest is allowed"
         },
         "answer": "C",
-        "explanation": "Australians are allowed to peacefully protest against the actions of the government."
+        "explanation": "Australians are allowed to peacefully protest against the actions of the government.",
+        "isAuValue": true
     },
     {
         "question": "Is it legal in Australia to promote violence against others based on their culture or ethnicity?",
@@ -127,7 +139,8 @@
             "C": "Only in specific, government-approved cases"
         },
         "answer": "B",
-        "explanation": "It is never acceptable to promote violence against another person or group of people based on their culture, ethnicity, religion, or background, as it is against Australian values and law."
+        "explanation": "It is never acceptable to promote violence against another person or group of people based on their culture, ethnicity, religion, or background, as it is against Australian values and law.",
+        "isAuValue": true
     },
     {
         "question": "What rights do media outlets have in terms of freedom of speech in Australia?",
@@ -137,7 +150,8 @@
             "C": "The same freedom as individuals to express ideas"
         },
         "answer": "C",
-        "explanation": "Newspapers, television, and radio outlets in Australia have the same freedom to express ideas as individuals do."
+        "explanation": "Newspapers, television, and radio outlets in Australia have the same freedom to express ideas as individuals do.",
+        "isAuValue": true
     },
     {
         "question": "Is it legal to make false allegations or encourage others to break the law in Australia?",
@@ -147,7 +161,8 @@
             "C": "No, it is illegal"
         },
         "answer": "C",
-        "explanation": "It is illegal to make false allegations or encourage others to break the law in Australia."
+        "explanation": "It is illegal to make false allegations or encourage others to break the law in Australia.",
+        "isAuValue": true
     },
     {
         "question": "What does 'freedom of association' mean in Australia?",
@@ -157,7 +172,8 @@
             "C": "Membership in political parties is mandatory"
         },
         "answer": "B",
-        "explanation": "In Australia, freedom of association means people are free to join or leave any group voluntarily, as long as it is within the law."
+        "explanation": "In Australia, freedom of association means people are free to join or leave any group voluntarily, as long as it is within the law.",
+        "isAuValue": true
     },
     {
         "question": "Which types of organizations can Australians freely join?",
@@ -167,7 +183,8 @@
             "C": "Only non-political organizations"
         },
         "answer": "B",
-        "explanation": "Australians can freely join any legal organization, such as a political party, trade union, religious, cultural, or social group."
+        "explanation": "Australians can freely join any legal organization, such as a political party, trade union, religious, cultural, or social group.",
+        "isAuValue": true
     },
     {
         "question": "Can individuals in Australia be compelled to join an organization?",
@@ -177,7 +194,8 @@
             "C": "Only for government organizations"
         },
         "answer": "B",
-        "explanation": "In Australia, individuals cannot be compelled to join an organization or forced to leave it."
+        "explanation": "In Australia, individuals cannot be compelled to join an organization or forced to leave it.",
+        "isAuValue": true
     },
     {
         "question": "Are Australians allowed to protest against government actions or organizations?",
@@ -187,7 +205,8 @@
             "C": "Only with government permission"
         },
         "answer": "B",
-        "explanation": "Australians can gather freely to protest against a government action or an organization, but all protests must be within the law."
+        "explanation": "Australians can gather freely to protest against a government action or an organization, but all protests must be within the law.",
+        "isAuValue": true
     },
     {
         "question": "What is required for a protest to be lawful in Australia?",
@@ -197,7 +216,8 @@
             "C": "It must be held in designated areas only"
         },
         "answer": "B",
-        "explanation": "For a protest to be lawful in Australia, it must be peaceful and must not injure any person or damage property."
+        "explanation": "For a protest to be lawful in Australia, it must be peaceful and must not injure any person or damage property.",
+        "isAuValue": true
     },
     {
         "question": "What is Australia's stance on an official national religion?",
@@ -207,7 +227,8 @@
             "C": "Australia supports only Christian religions"
         },
         "answer": "B",
-        "explanation": "Australia has no official national religion and people in Australia are free to follow any religion they choose."
+        "explanation": "Australia has no official national religion and people in Australia are free to follow any religion they choose.",
+        "isAuValue": true
     },
     {
         "question": "How must religious practices be conducted in Australia?",
@@ -217,7 +238,8 @@
             "C": "Without government interference"
         },
         "answer": "A",
-        "explanation": "In Australia, religious practices must not break Australian laws."
+        "explanation": "In Australia, religious practices must not break Australian laws.",
+        "isAuValue": true
     },
     {
         "question": "What is the legal status of religious laws in Australia?",
@@ -227,7 +249,8 @@
             "C": "They have no legal status"
         },
         "answer": "C",
-        "explanation": "Religious laws have no legal status in Australia, and Australian law must be followed, even where it differs from religious laws."
+        "explanation": "Religious laws have no legal status in Australia, and Australian law must be followed, even where it differs from religious laws.",
+        "isAuValue": true
     },
     {
         "question": "Which of these practices is illegal in Australia?",
@@ -237,7 +260,8 @@
             "C": "Fasting"
         },
         "answer": "A",
-        "explanation": "Some religious or cultural practices such as polygamy and forced marriage are against the law in Australia."
+        "explanation": "Some religious or cultural practices such as polygamy and forced marriage are against the law in Australia.",
+        "isAuValue": true
     },
     {
         "question": "Is religious intolerance acceptable in Australian society?",
@@ -247,7 +271,8 @@
             "C": "Only in private settings"
         },
         "answer": "B",
-        "explanation": "Religious intolerance is not acceptable in Australian society. All people should have equal opportunity to pursue their goals and interests, regardless of their religion, as long as they obey Australian law."
+        "explanation": "Religious intolerance is not acceptable in Australian society. All people should have equal opportunity to pursue their goals and interests, regardless of their religion, as long as they obey Australian law.",
+        "isAuValue": true
     },
     {
         "question": "What does equality under the law mean in Australian society?",
@@ -257,7 +282,8 @@
             "C": "People are treated based on their social status"
         },
         "answer": "B",
-        "explanation": "In Australian society, the equal rights of all people are valued regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin."
+        "explanation": "In Australian society, the equal rights of all people are valued regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin.",
+        "isAuValue": true
     },
     {
         "question": "Is it legal in Australia to discriminate against someone based on their gender?",
@@ -267,7 +293,8 @@
             "C": "Only in certain professions"
         },
         "answer": "B",
-        "explanation": "It is against the law in Australia to discriminate against a person because of their gender."
+        "explanation": "It is against the law in Australia to discriminate against a person because of their gender.",
+        "isAuValue": true
     },
     {
         "question": "What rights do men and women have in Australian society?",
@@ -277,7 +304,8 @@
             "C": "Men have more rights than women"
         },
         "answer": "B",
-        "explanation": "Men and women in Australia have equal rights and should be provided equality of opportunity to pursue their goals and interests."
+        "explanation": "Men and women in Australia have equal rights and should be provided equality of opportunity to pursue their goals and interests.",
+        "isAuValue": true
     },
     {
         "question": "How is marriage equality defined in Australian law?",
@@ -287,7 +315,8 @@
             "C": "Two people can marry each other, including same-sex marriage"
         },
         "answer": "C",
-        "explanation": "Under Australian law, two people can marry each other, including marriage between two men or two women."
+        "explanation": "Under Australian law, two people can marry each other, including marriage between two men or two women.",
+        "isAuValue": true
     },
     {
         "question": "What principle underlies the concept of a 'fair go' in Australian society?",
@@ -297,7 +326,8 @@
             "C": "Wealth and background determine success"
         },
         "answer": "A",
-        "explanation": "The concept of a 'fair go' in Australian society is based on the belief that everyone should have the same legal rights and not be limited by any kind of class distinction."
+        "explanation": "The concept of a 'fair go' in Australian society is based on the belief that everyone should have the same legal rights and not be limited by any kind of class distinction.",
+        "isAuValue": true
     },
     {
         "question": "What is the principle of 'a fair go' in Australian society?",
@@ -307,7 +337,8 @@
             "C": "Everyone has equal opportunity to succeed based on their skills and hard work"
         },
         "answer": "C",
-        "explanation": "The principle of 'a fair go' in Australian society supports that everyone, regardless of their background, should have an equal opportunity to achieve success based on their hard work and talents."
+        "explanation": "The principle of 'a fair go' in Australian society supports that everyone, regardless of their background, should have an equal opportunity to achieve success based on their hard work and talents.",
+        "isAuValue": true
     },
     {
         "question": "How are employment opportunities determined in Australia?",
@@ -317,7 +348,8 @@
             "C": "Based on the financial status of the individual"
         },
         "answer": "B",
-        "explanation": "In Australia, employment opportunities are determined based on the skills and experience of the person, supporting the idea of selecting the best candidate for the job."
+        "explanation": "In Australia, employment opportunities are determined based on the skills and experience of the person, supporting the idea of selecting the best candidate for the job.",
+        "isAuValue": true
     },
     {
         "question": "What has been the experience of many new migrants in Australian society?",
@@ -327,7 +359,8 @@
             "C": "Preference for Australian-born citizens in professional opportunities"
         },
         "answer": "B",
-        "explanation": "Many new migrants in Australia have become leaders in business, their profession, the arts, public service, and sport through their hard work and enterprise."
+        "explanation": "Many new migrants in Australia have become leaders in business, their profession, the arts, public service, and sport through their hard work and enterprise.",
+        "isAuValue": true
     },
     {
         "question": "In Australia, what must individuals respect about others?",
@@ -337,7 +370,8 @@
             "C": "Their political affiliations"
         },
         "answer": "B",
-        "explanation": "In Australia, individuals must respect the freedom and dignity of others, and their opinions and choices."
+        "explanation": "In Australia, individuals must respect the freedom and dignity of others, and their opinions and choices.",
+        "isAuValue": true
     },
     {
         "question": "What does the concept of 'mutual respect and tolerance for others' imply in Australia?",
@@ -347,7 +381,8 @@
             "C": "Ignoring the opinions and choices of others"
         },
         "answer": "B",
-        "explanation": "The concept of 'mutual respect and tolerance for others' in Australia implies respecting and tolerating the diverse opinions and choices of others."
+        "explanation": "The concept of 'mutual respect and tolerance for others' in Australia implies respecting and tolerating the diverse opinions and choices of others.",
+        "isAuValue": true
     },
     {
         "question": "What is the legal stance on violence in Australia?",
@@ -357,7 +392,8 @@
             "C": "Physical violence is allowed in self-defense"
         },
         "answer": "B",
-        "explanation": "In Australia, violence of any kind, including verbal and physical abuse, is illegal. Australians believe in peaceful disagreement and the right to be safe and free from violence and intimidation."
+        "explanation": "In Australia, violence of any kind, including verbal and physical abuse, is illegal. Australians believe in peaceful disagreement and the right to be safe and free from violence and intimidation.",
+        "isAuValue": true
     },
     {
         "question": "What are the laws concerning the age of sexual consent in Australia?",
@@ -367,7 +403,8 @@
             "C": "It varies between 16 or 17 depending on the state or territory"
         },
         "answer": "C",
-        "explanation": "In Australia, the age of sexual consent is 16 or 17, depending on the state or territory."
+        "explanation": "In Australia, the age of sexual consent is 16 or 17, depending on the state or territory.",
+        "isAuValue": true
     },
     {
         "question": "How should individuals in Australia respond to lawful requests from the police?",
@@ -377,7 +414,8 @@
             "C": "Only non-citizens are required to obey"
         },
         "answer": "B",
-        "explanation": "In Australia, the lawful actions of the police should be supported, and individuals should obey lawful requests from the police."
+        "explanation": "In Australia, the lawful actions of the police should be supported, and individuals should obey lawful requests from the police.",
+        "isAuValue": true
     },
     {
         "question": "What is the Australian perspective on peaceful disagreement?",
@@ -387,7 +425,8 @@
             "C": "Peaceful disagreement is believed in, along with the right to be safe and free from violence"
         },
         "answer": "C",
-        "explanation": "Australians believe in peaceful disagreement and, above all, the right to be safe and free from violence and intimidation."
+        "explanation": "Australians believe in peaceful disagreement and, above all, the right to be safe and free from violence and intimidation.",
+        "isAuValue": true
     },
     {
         "question": "Is it legal for a 20-year-old to have sexual relations with a 15-year-old in Australia?",
@@ -397,7 +436,8 @@
             "C": "No, it is against the law in all Australian states and territories"
         },
         "answer": "C",
-        "explanation": "In Australia, it is against the law for a 20-year-old to have sexual relations with a 15-year-old, regardless of the state or territory."
+        "explanation": "In Australia, it is against the law for a 20-year-old to have sexual relations with a 15-year-old, regardless of the state or territory.",
+        "isAuValue": true
     },
     {
         "question": "What does mutual respect and tolerance entail in Australia?",
@@ -407,7 +447,8 @@
             "C": "Avoiding any form of disagreement"
         },
         "answer": "B",
-        "explanation": "Mutual respect and tolerance in Australia means listening to others and respecting their views and opinions, even when they differ from your own."
+        "explanation": "Mutual respect and tolerance in Australia means listening to others and respecting their views and opinions, even when they differ from your own.",
+        "isAuValue": true
     },
     {
         "question": "What is Australia's stance on racism?",
@@ -417,7 +458,8 @@
             "C": "It is only addressed in extreme cases"
         },
         "answer": "B",
-        "explanation": "Racism has no place in Australia. This includes actions like creating or sharing racially offensive material or making racially abusive comments."
+        "explanation": "Racism has no place in Australia. This includes actions like creating or sharing racially offensive material or making racially abusive comments.",
+        "isAuValue": true
     },
     {
         "question": "What is expected from individuals living in Australia in terms of community participation?",
@@ -427,7 +469,8 @@
             "C": "Focusing only on individual or family needs"
         },
         "answer": "B",
-        "explanation": "Australians expect everyone living in Australia to participate in society and contribute to the community."
+        "explanation": "Australians expect everyone living in Australia to participate in society and contribute to the community.",
+        "isAuValue": true
     },
     {
         "question": "What is the concept of 'mateship' in Australian society?",
@@ -437,7 +480,8 @@
             "C": "Avoiding involvement in others' problems"
         },
         "answer": "B",
-        "explanation": "'Mateship' in Australia is about helping each other, especially in times of need, such as taking a meal to a neighbor or helping someone who is sick or lonely."
+        "explanation": "'Mateship' in Australia is about helping each other, especially in times of need, such as taking a meal to a neighbor or helping someone who is sick or lonely.",
+        "isAuValue": true
     },
     {
         "question": "Is sharing racially offensive material on the internet acceptable in Australia?",
@@ -447,7 +491,8 @@
             "C": "Only if it is part of a cultural expression"
         },
         "answer": "B",
-        "explanation": "Sharing racially offensive material on the internet or other publications is against the principles of mutual respect and tolerance and has no place in Australia."
+        "explanation": "Sharing racially offensive material on the internet or other publications is against the principles of mutual respect and tolerance and has no place in Australia.",
+        "isAuValue": true
     },
     {
         "question": "What is the importance of volunteering in the Australian community?",
@@ -457,7 +502,8 @@
             "C": "It has no significant impact on the community"
         },
         "answer": "B",
-        "explanation": "Volunteering in Australia is a great opportunity to share knowledge, learn new skills, increase integration, and strengthen the sense of belonging to the Australian community."
+        "explanation": "Volunteering in Australia is a great opportunity to share knowledge, learn new skills, increase integration, and strengthen the sense of belonging to the Australian community.",
+        "isAuValue": true
     },
     {
         "question": "Why is learning English important in Australian society?",
@@ -467,7 +513,8 @@
             "C": "Only English speakers can become Australian citizens"
         },
         "answer": "B",
-        "explanation": "Learning English is important in Australia as it helps to get an education, a job, and better integrate into the community, and is essential for economic participation and social cohesion."
+        "explanation": "Learning English is important in Australia as it helps to get an education, a job, and better integrate into the community, and is essential for economic participation and social cohesion.",
+        "isAuValue": true
     },
     {
         "question": "What is expected of applicants for Australian citizenship regarding the English language?",
@@ -477,7 +524,8 @@
             "C": "To make reasonable efforts to learn English if it is not their native language"
         },
         "answer": "C",
-        "explanation": "Applicants for Australian citizenship are expected to make reasonable efforts to learn the English language if it is not their native language."
+        "explanation": "Applicants for Australian citizenship are expected to make reasonable efforts to learn the English language if it is not their native language.",
+        "isAuValue": true
     },
     {
         "question": "What responsibility do individuals in Australia have in ensuring community safety?",
@@ -487,7 +535,8 @@
             "C": "Only reporting issues affecting their own family"
         },
         "answer": "A",
-        "explanation": "In Australia, individuals have a responsibility to help protect society by reporting any suspicions of serious crimes to government authorities."
+        "explanation": "In Australia, individuals have a responsibility to help protect society by reporting any suspicions of serious crimes to government authorities.",
+        "isAuValue": true
     },
     {
         "question": "What should be done if child abuse is observed or known about in Australia?",
@@ -497,7 +546,8 @@
             "C": "Only intervene if it's a relative"
         },
         "answer": "A",
-        "explanation": "If a person in Australia sees or knows of a child being abused, they should report this to the police."
+        "explanation": "If a person in Australia sees or knows of a child being abused, they should report this to the police.",
+        "isAuValue": true
     },
     {
         "question": "How is online abuse viewed and handled in Australia?",
@@ -507,7 +557,8 @@
             "C": "It is only addressed if it becomes widespread"
         },
         "answer": "B",
-        "explanation": "Online abuse, or cyber abuse, is not accepted in Australia and many forms of it are illegal."
+        "explanation": "Online abuse, or cyber abuse, is not accepted in Australia and many forms of it are illegal.",
+        "isAuValue": true
     },
     {
         "question": "What is the citizenship pledge in Australia?",
@@ -517,7 +568,8 @@
             "C": "A pledge to support only Australian laws"
         },
         "answer": "B",
-        "explanation": "In the citizenship pledge, Australian citizens pledge their loyalty to Australia and its people."
+        "explanation": "In the citizenship pledge, Australian citizens pledge their loyalty to Australia and its people.",
+        "isAuValue": true
     },
     {
         "question": "Can Australian citizens hold citizenship of another country?",
@@ -527,7 +579,8 @@
             "C": "Only if they are born in the other country"
         },
         "answer": "B",
-        "explanation": "Australian citizens may hold the citizenship of another country or countries (dual citizenship) if the laws of those countries allow."
+        "explanation": "Australian citizens may hold the citizenship of another country or countries (dual citizenship) if the laws of those countries allow.",
+        "isAuValue": true
     },
     {
         "question": "What is an example of demonstrating 'mateship' in Australian culture?",
@@ -537,7 +590,8 @@
             "C": "Celebrating national holidays"
         },
         "answer": "A",
-        "explanation": "In Australian culture, 'mateship' is shown through acts of kindness and support, such as taking a meal to an elderly neighbor, especially in times of need."
+        "explanation": "In Australian culture, 'mateship' is shown through acts of kindness and support, such as taking a meal to an elderly neighbor, especially in times of need.",
+        "isAuValue": true
     },
     {
         "question": "How does volunteering contribute to the Australian community?",
@@ -547,7 +601,8 @@
             "C": "By promoting political campaigns"
         },
         "answer": "B",
-        "explanation": "Volunteering in Australia is seen as a way to strengthen the community and enhance personal integration and sense of belonging within the community&#8203;``【oaicite:0】``&#8203;."
+        "explanation": "Volunteering in Australia is seen as a way to strengthen the community and enhance personal integration and sense of belonging within the community.",
+        "isAuValue": true
     },
     {
         "question": "Why is English considered an important part of Australia's national identity?",
@@ -557,7 +612,8 @@
             "C": "Due to its simplicity and ease of learning for immigrants"
         },
         "answer": "B",
-        "explanation": "English is valued as the national language of Australia and is seen as an important unifying element of Australian society&#8203;``【oaicite:3】``&#8203;&#8203;``【oaicite:2】``&#8203;."
+        "explanation": "English is valued as the national language of Australia and is seen as an important unifying element of Australian society.",
+        "isAuValue": true
     },
     {
         "question": "What is expected of migrants regarding the English language in Australia?",
@@ -567,7 +623,8 @@
             "C": "Migrants should make efforts to learn and use English to integrate into Australian society"
         },
         "answer": "C",
-        "explanation": "Migrants in Australia are expected to make reasonable efforts to learn and use English, as it is important for their integration into Australian society and for economic participation and social cohesion&#8203;``【oaicite:1】``&#8203;&#8203;``【oaicite:0】``&#8203;."
+        "explanation": "Migrants in Australia are expected to make reasonable efforts to learn and use English, as it is important for their integration into Australian society and for economic participation and social cohesion.",
+        "isAuValue": true
     },
     {
         "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
@@ -577,7 +634,8 @@
             "C": "Ignore the suspicion to avoid conflict"
         },
         "answer": "B",
-        "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety&#8203;``【oaicite:1】``&#8203;."
+        "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety.",
+        "isAuValue": true
     },
     {
         "question": "How is cyber abuse viewed and handled in Australia?",
@@ -587,7 +645,8 @@
             "C": "Many forms of cyber abuse are illegal and not tolerated"
         },
         "answer": "C",
-        "explanation": "In Australia, online abuse, also known as cyber abuse, is not accepted and many forms of it are illegal. Examples include sharing sexual content without consent and making racially abusive comments online&#8203;``【oaicite:0】``&#8203;."
+        "explanation": "In Australia, online abuse, also known as cyber abuse, is not accepted and many forms of it are illegal. Examples include sharing sexual content without consent and making racially abusive comments online.",
+        "isAuValue": true
     },
     {
         "question": "What is included in the citizenship pledge made by Australian citizens?",
@@ -597,7 +656,8 @@
             "C": "Pledging to adopt Australian cultural practices exclusively"
         },
         "answer": "A",
-        "explanation": "The citizenship pledge includes pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws&#8203;``【oaicite:3】``&#8203;."
+        "explanation": "The citizenship pledge includes pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
+        "isAuValue": true
     },
     {
         "question": "Can Australian citizens hold citizenship of another country?",
@@ -607,7 +667,8 @@
             "C": "Yes, if the laws of those countries allow dual or multiple citizenships"
         },
         "answer": "C",
-        "explanation": "Australian citizens may hold the citizenship of another country or countries if the laws of those countries permit dual or multiple citizenships&#8203;``【oaicite:2】``&#8203;&#8203;``【oaicite:1】``&#8203;."
+        "explanation": "Australian citizens may hold the citizenship of another country or countries if the laws of those countries permit dual or multiple citizenships.",
+        "isAuValue": true
     },
     {
         "question": "What obligation do Australian citizens have regarding the laws of Australia?",
@@ -617,6 +678,7 @@
             "C": "Australian citizens are exempt from certain laws if they also hold citizenship in another country"
         },
         "answer": "A",
-        "explanation": "Australian citizens are required to follow all Australian laws at all times, both within Australia and overseas&#8203;``【oaicite:0】``&#8203;."
+        "explanation": "Australian citizens are required to follow all Australian laws at all times, both within Australia and overseas.",
+        "isAuValue": true
     }
 ]

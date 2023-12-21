@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "question": "What is depicted on the right side of the Australian National Flag?",
+            "options": {
+                "A": "The Great Barrier Reef",
+                "B": "The Southern Cross",
+                "C": "The Sydney Opera House"
+            },
+            "answer": "B",
+            "explanation": "The right side of the Australian National Flag features the Southern Cross, a group of stars that can be seen in the southern sky."
+        },
+        {
+            "question": "Which element on the Australian National Flag symbolizes Australia's territorial areas?",
+            "options": {
+                "A": "The Union Jack",
+                "B": "The Commonwealth Star",
+                "C": "The Southern Cross"
+            },
+            "answer": "B",
+            "explanation": "The point on the Commonwealth Star representing the territories on the Australian National Flag symbolizes Australia's territorial areas."
+        },
+        {
+            "question": "What does the Commonwealth Coat of Arms represent?",
+            "options": {
+                "A": "Australia's cultural diversity",
+                "B": "Australia's national unity",
+                "C": "The history of Australian independence"
+            },
+            "answer": "B",
+            "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia and represents Australia's national unity."
+        },
+        {
+            "question": "What is Australia’s national flower?",
+            "options": {
+                "A": "The Rose",
+                "B": "The Golden Wattle",
+                "C": "The Hibiscus"
+            },
+            "answer": "B",
+            "explanation": "Australia’s national flower is the golden wattle."
+        },
+        {
+            "question": "What is the official symbol of the Commonwealth of Australia?",
+            "options": {
+                "A": "The Australian National Flag",
+                "B": "The Commonwealth Coat of Arms",
+                "C": "The Golden Wattle"
+            },
+            "answer": "B",
+            "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia."
+        },
+        {
+            "question": "What job opportunities are available to Australian citizens?",
+            "options": {
+                "A": "Any job in the private sector",
+                "B": "Jobs in the Australian Public Service or in the Australian Defence Force",
+                "C": "Only jobs in international organizations"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens can apply for a job in the Australian Public Service or in the Australian Defence Force."
+        },
+        {
+            "question": "What can Australian citizens seek in terms of political participation?",
+            "options": {
+                "A": "Election to parliament",
+                "B": "Appointment as a diplomat",
+                "C": "Permanent residency in any Commonwealth country"
+            },
+            "answer": "A",
+            "explanation": "Australian citizens have the privilege to seek election to parliament."
+        },
+        {
+            "question": "What document can Australian citizens apply for?",
+            "options": {
+                "A": "An international work permit",
+                "B": "An Australian passport",
+                "C": "A global travel visa"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens can apply for an Australian passport."
+        },
+        {
+            "question": "What assistance can Australian citizens request while overseas?",
+            "options": {
+                "A": "Financial aid from the Australian government",
+                "B": "Consular assistance from an Australian official",
+                "C": "Automatic citizenship in the country they are visiting"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens can ask for consular assistance from an Australian official while overseas."
+        },
+        {
+            "question": "What is a key travel privilege of Australian citizens?",
+            "options": {
+                "A": "Free air travel to any country",
+                "B": "Re-enter Australia freely",
+                "C": "Access to exclusive international lounges"
+            },
+            "answer": "B",
+            "explanation": "One of the privileges of Australian citizenship is the ability to apply for an Australian passport and re-enter Australia freely."
+        },
+        {
+            "question": "What type of government does Australia have?",
+            "options": {
+                "A": "Presidential system",
+                "B": "Constitutional monarchy",
+                "C": "Direct democracy"
+            },
+            "answer": "B",
+            "explanation": "Australia is a constitutional monarchy, which means the King is the Head of State but must act in accordance with the Constitution."
+        },
+        {
+            "question": "Who appoints the Governor-General of Australia?",
+            "options": {
+                "A": "The Australian Prime Minister",
+                "B": "The King of Australia",
+                "C": "The Australian Parliament"
+            },
+            "answer": "B",
+            "explanation": "The King of Australia appoints the Governor-General as his representative in Australia, based on advice from the Australian Prime Minister."
+        },
+        {
+            "question": "What are the responsibilities of the Governor-General of Australia?",
+            "options": {
+                "A": "Leading the government and making laws",
+                "B": "Signing bills into law, performing ceremonial duties, and approving government appointments",
+                "C": "Managing the Australian economy and foreign affairs"
+            },
+            "answer": "B",
+            "explanation": "The Governor-General's role includes signing bills into law (Royal Assent), performing ceremonial duties, approving the appointment of the Australian Government and its ministers, federal judges, and other officials, starting the process for a federal election, and acting as Commander-in-Chief of the Australian Defence Force."
+        },
+        {
+            "question": "What special powers does the Governor-General possess?",
+            "options": {
+                "A": "Powers to make laws and govern the country",
+                "B": "Reserve powers used only in specific circumstances",
+                "C": "Powers to change the constitution"
+            },
+            "answer": "B",
+            "explanation": "The Governor-General has special powers known as 'reserve powers' that can only be used in specific circumstances."
+        },
+        {
+            "question": "Who is the Head of State of Australia?",
+            "options": {
+                "A": "The Governor-General",
+                "B": "The Prime Minister",
+                "C": "The King of Australia"
+            },
+            "answer": "C",
+            "explanation": "The Head of State of Australia is the King of Australia."
+        },
+        {
+            "question": "What is the citizenship pledge in Australia?",
+            "options": {
+                "A": "A pledge of loyalty to another country",
+                "B": "A pledge of loyalty to Australia and its people",
+                "C": "A pledge to support only Australian laws"
+            },
+            "answer": "B",
+            "explanation": "In the citizenship pledge, Australian citizens pledge their loyalty to Australia and its people.",
+            "isAuValue": true
+        },
+        {
+            "question": "Can Australian citizens hold citizenship of another country?",
+            "options": {
+                "A": "No, Australian citizens are not allowed dual or multiple citizenships",
+                "B": "Yes, but only with countries that are part of the Commonwealth",
+                "C": "Yes, if the laws of those countries allow dual or multiple citizenships"
+            },
+            "answer": "C",
+            "explanation": "Australian citizens may hold the citizenship of another country or countries if the laws of those countries permit dual or multiple citizenships.",
+            "isAuValue": true
+        },
+        {
+            "question": "Why is English considered an important part of Australia's national identity?",
+            "options": {
+                "A": "Because it is the most widely spoken language worldwide",
+                "B": "As it represents Australia's history and is a unifying element of society",
+                "C": "Due to its simplicity and ease of learning for immigrants"
+            },
+            "answer": "B",
+            "explanation": "English is valued as the national language of Australia and is seen as an important unifying element of Australian society.",
+            "isAuValue": true
+        },
+        {
+            "question": "What is the principle of 'a fair go' in Australian society?",
+            "options": {
+                "A": "Priority is given to native-born Australians in employment",
+                "B": "People are judged based on their social class",
+                "C": "Everyone has equal opportunity to succeed based on their skills and hard work"
+            },
+            "answer": "C",
+            "explanation": "The principle of 'a fair go' in Australian society supports that everyone, regardless of their background, should have an equal opportunity to achieve success based on their hard work and talents.",
+            "isAuValue": true
+        },
+        {
+            "question": "Is it legal in Australia to discriminate against someone based on their gender?",
+            "options": {
+                "A": "Yes, it is legal",
+                "B": "No, it is against the law",
+                "C": "Only in certain professions"
+            },
+            "answer": "B",
+            "explanation": "It is against the law in Australia to discriminate against a person because of their gender.",
+            "isAuValue": true
+        }
+    ]
+}

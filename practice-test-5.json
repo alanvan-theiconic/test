@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "question": "What is the capital city of Victoria?",
+            "options": {
+                "A": "Hobart",
+                "B": "Sydney",
+                "C": "Melbourne"
+            },
+            "answer": "C",
+            "explanation": "Melbourne is the capital city of Victoria."
+        },
+        {
+            "question": "Which city is known for its gold rush history and is located in Victoria?",
+            "options": {
+                "A": "Melbourne",
+                "B": "Perth",
+                "C": "Adelaide"
+            },
+            "answer": "A",
+            "explanation": "Melbourne, the capital city of Victoria, is known for its gold rush history."
+        },
+        {
+            "question": "What is the capital city of Queensland?",
+            "options": {
+                "A": "Brisbane",
+                "B": "Darwin",
+                "C": "Perth"
+            },
+            "answer": "A",
+            "explanation": "Brisbane is the capital city of Queensland."
+        },
+        {
+            "question": "Which state is known for its diverse landscape including tropical rainforests, temperate coastal areas, and a dry inland?",
+            "options": {
+                "A": "New South Wales",
+                "B": "Queensland",
+                "C": "Western Australia"
+            },
+            "answer": "B",
+            "explanation": "Queensland is known for its diverse landscape, which includes tropical rainforests, temperate coastal areas, and a dry inland."
+        },
+        {
+            "question": "What are some iconic locations in Western Australia?",
+            "options": {
+                "A": "The Sydney Harbour Bridge and Opera House",
+                "B": "The Melbourne Cricket Ground and the 12 Apostles",
+                "C": "The Ningaloo Coast and the Kimberley region"
+            },
+            "answer": "C",
+            "explanation": "Iconic locations in Western Australia include the Ningaloo Coast and the Kimberley region."
+        },
+        {
+            "question": "How does Australian law support employment equality?",
+            "options": {
+                "A": "Employment is guaranteed for all citizens",
+                "B": "People should get a job based on their skills and experience, not gender, wealth, or ethnicity",
+                "C": "Only Australian citizens are eligible for certain jobs"
+            },
+            "answer": "B",
+            "explanation": "Australian law supports that a person should get a job based on their skills and experience, not because of their gender, wealth, or ethnicity."
+        },
+        {
+            "question": "What is the concept of a ‘fair go’ in Australian society?",
+            "options": {
+                "A": "Wealthy individuals are given priority",
+                "B": "Everyone deserves an equal opportunity to succeed based on their talents and efforts",
+                "C": "Class distinctions determine one's success"
+            },
+            "answer": "B",
+            "explanation": "A 'fair go' in Australian society means that everyone deserves an equal opportunity to succeed based on their talents, work, and effort rather than their wealth or background."
+        },
+        {
+            "question": "What is Australia's stance on religious freedom and the law?",
+            "options": {
+                "A": "Religious laws are above Australian laws",
+                "B": "Australian law prevails over religious practices in case of conflict",
+                "C": "There are no laws regarding religion"
+            },
+            "answer": "B",
+            "explanation": "In Australia, Australian law prevails over religious practices in case of conflict, and the government is secular."
+        },
+        {
+            "question": "What is one of the key responsibilities of an Australian citizen?",
+            "options": {
+                "A": "To obey the laws of Australia",
+                "B": "To serve in the Australian Defence Force",
+                "C": "To hold a public office"
+            },
+            "answer": "A",
+            "explanation": "One of the key responsibilities of an Australian citizen is to obey the laws of Australia【128†source】."
+        },
+        {
+            "question": "What must Australian citizens aged 18 years or over do during elections?",
+            "options": {
+                "A": "Stand for election",
+                "B": "Vote in federal and state or territory elections and in a referendum",
+                "C": "Serve as an election officer"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens aged 18 years or over have the responsibility to vote in federal and state or territory elections and in a referendum【128†source】."
+        },
+        {
+            "question": "What is the function of the judicial power in Australia?",
+            "options": {
+                "A": "To make laws",
+                "B": "To interpret and apply the law",
+                "C": "To perform ceremonial duties"
+            },
+            "answer": "B",
+            "explanation": "Judicial power is vested in judges and courts, and it involves interpreting and applying the law."
+        },
+        {
+            "question": "Who is Australia’s Head of State?",
+            "options": {
+                "A": "The Prime Minister",
+                "B": "The Governor-General",
+                "C": "The King of Australia"
+            },
+            "answer": "C",
+            "explanation": "Australia's Head of State is the King of Australia, currently His Majesty King Charles III."
+        },
+        {
+            "question": "What type of government does Australia have?",
+            "options": {
+                "A": "Presidential democracy",
+                "B": "Constitutional monarchy",
+                "C": "Parliamentary republic"
+            },
+            "answer": "B",
+            "explanation": "Australia is a constitutional monarchy, where the King acts in accordance with the Constitution."
+        },
+        {
+            "question": "What are the roles of the Governor-General in Australia?",
+            "options": {
+                "A": "Leading the government and making laws",
+                "B": "Signing bills into law, ceremonial duties, and acting as Commander-in-Chief of the Defence Force",
+                "C": "Representing Australia in international affairs"
+            },
+            "answer": "B",
+            "explanation": "The Governor-General signs bills into law, performs ceremonial duties, approves appointments, starts the process for federal elections, and acts as Commander-in-Chief of the Australian Defence Force."
+        },
+        {
+            "question": "What does the Australian Constitution do to control the power of government?",
+            "options": {
+                "A": "Centralizes power in the Prime Minister",
+                "B": "Divides power between legislative, executive, and judicial branches",
+                "C": "Allocates all power to the Parliament"
+            },
+            "answer": "B",
+            "explanation": "The Australian Constitution divides the power of government between the legislative, executive, and judicial branches to prevent concentration of power."
+        },
+        {
+            "question": "How is cyber abuse viewed and handled in Australia?",
+            "options": {
+                "A": "It is accepted as part of online interactions",
+                "B": "It is not recognized as a legitimate form of abuse",
+                "C": "Many forms of cyber abuse are illegal and not tolerated"
+            },
+            "answer": "C",
+            "explanation": "In Australia, online abuse, also known as cyber abuse, is not accepted and many forms of it are illegal. Examples include sharing sexual content without consent and making racially abusive comments online.",
+            "isAuValue": true
+        },
+        {
+            "question": "Is it legal for a 20-year-old to have sexual relations with a 15-year-old in Australia?",
+            "options": {
+                "A": "Yes, it is legal in some states",
+                "B": "Yes, if there is consent",
+                "C": "No, it is against the law in all Australian states and territories"
+            },
+            "answer": "C",
+            "explanation": "In Australia, it is against the law for a 20-year-old to have sexual relations with a 15-year-old, regardless of the state or territory.",
+            "isAuValue": true
+        },
+        {
+            "question": "What is expected of migrants regarding the English language in Australia?",
+            "options": {
+                "A": "Migrants must be fluent in English before arriving in Australia",
+                "B": "Migrants are encouraged to maintain their native language only",
+                "C": "Migrants should make efforts to learn and use English to integrate into Australian society"
+            },
+            "answer": "C",
+            "explanation": "Migrants in Australia are expected to make reasonable efforts to learn and use English, as it is important for their integration into Australian society and for economic participation and social cohesion.",
+            "isAuValue": true
+        },
+        {
+            "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
+            "options": {
+                "A": "Confront the individual directly",
+                "B": "Report the suspicion to Australian government authorities",
+                "C": "Ignore the suspicion to avoid conflict"
+            },
+            "answer": "B",
+            "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety.",
+            "isAuValue": true
+        },
+        {
+            "question": "What should be done if child abuse is observed or known about in Australia?",
+            "options": {
+                "A": "Report it to the police",
+                "B": "Keep it confidential",
+                "C": "Only intervene if it's a relative"
+            },
+            "answer": "A",
+            "explanation": "If a person in Australia sees or knows of a child being abused, they should report this to the police.",
+            "isAuValue": true
+        }
+    ]
+}

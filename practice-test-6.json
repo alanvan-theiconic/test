@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "question": "How many states and mainland territories does Australia have?",
+            "options": {
+                "A": "Six states and two territories",
+                "B": "Five states and three territories",
+                "C": "Seven states and one territory"
+            },
+            "answer": "A",
+            "explanation": "Australia is a federation comprising six states and two mainland territories."
+        },
+        {
+            "question": "What is the purpose of a 'Welcome to Country' ceremony?",
+            "options": {
+                "A": "To celebrate national holidays in Australia",
+                "B": "To welcome visitors to Aboriginal or Torres Strait Islander traditional land",
+                "C": "To mark the beginning of governmental meetings"
+            },
+            "answer": "B",
+            "explanation": "A Welcome to Country is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian to welcome visitors to their traditional land."
+        },
+        {
+            "question": "In what forms can a 'Welcome to Country' take place?",
+            "options": {
+                "A": "Songs, dances, smoking ceremonies, or speeches",
+                "B": "Formal presentations and lectures",
+                "C": "Written declarations and agreements"
+            },
+            "answer": "A",
+            "explanation": "A Welcome to Country can take place through various forms including songs, dances, smoking ceremonies, or speeches in traditional language or English."
+        },
+        {
+            "question": "Who can deliver an 'Acknowledgement of Country' at events?",
+            "options": {
+                "A": "Only government officials",
+                "B": "Only Aboriginal or Torres Strait Islander custodians",
+                "C": "Anyone, typically by the Chair or Master of Ceremonies"
+            },
+            "answer": "C",
+            "explanation": "An Acknowledgement of Country can be delivered by anyone, and at meetings or events, it is usually done by the Chair or Master of Ceremonies."
+        },
+        {
+            "question": "What is celebrated on Australia Day, which occurs on 26 January each year?",
+            "options": {
+                "A": "The signing of the Australian Constitution",
+                "B": "The anniversary of the arrival of the First Fleet from Great Britain in 1788",
+                "C": "The formation of the Commonwealth of Australia"
+            },
+            "answer": "B",
+            "explanation": "Australia Day, celebrated on 26 January, is the anniversary of the arrival of the First Fleet from Great Britain in 1788."
+        },
+        {
+            "question": "What should Australian citizens do to defend their country if the need arises?",
+            "options": {
+                "A": "Support diplomatic efforts",
+                "B": "Defend Australia should the need arise",
+                "C": "Donate to the national defense fund"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens have the responsibility to defend Australia should the need arise."
+        },
+        {
+            "question": "What is the responsibility of Australian citizens in regards to jury service?",
+            "options": {
+                "A": "Serve on a jury if called to do so",
+                "B": "To be a legal advisor for a jury",
+                "C": "To oversee jury deliberations"
+            },
+            "answer": "A",
+            "explanation": "Australian citizens have the responsibility to serve on a jury if called to do so."
+        },
+        {
+            "question": "How are Australians expected to participate in their community?",
+            "options": {
+                "A": "By volunteering and supporting themselves and their families",
+                "B": "By attending all community meetings",
+                "C": "By paying community taxes"
+            },
+            "answer": "A",
+            "explanation": "Australians are expected to participate in their community by volunteering and supporting themselves and their families when they are able to do so."
+        },
+        {
+            "question": "What is the Australian approach to compassion for those in need?",
+            "options": {
+                "A": "Mandatory financial contributions to charity",
+                "B": "Volunteering and helping each other in times of need",
+                "C": "Government-only support for those in need"
+            },
+            "answer": "B",
+            "explanation": "Australians value 'mateship' and help each other in times of need, including through volunteering and community service."
+        },
+        {
+            "question": "What is the Australian citizens' responsibility regarding voting?",
+            "options": {
+                "A": "Voting is optional",
+                "B": "Voting is mandatory in federal and state or territory elections",
+                "C": "Voting is only required in federal elections"
+            },
+            "answer": "B",
+            "explanation": "It is a responsibility for Australian citizens aged 18 years or over to vote in federal and state or territory elections and in a referendum."
+        },
+        {
+            "question": "What is the role of the legislative power in Australia?",
+            "options": {
+                "A": "To enforce laws",
+                "B": "To interpret laws",
+                "C": "To make and change laws"
+            },
+            "answer": "C",
+            "explanation": "Legislative power, held by Parliament, is the power to make and change laws in Australia."
+        },
+        {
+            "question": "Who is included in the executive power of the Australian government?",
+            "options": {
+                "A": "Judges and courts",
+                "B": "Prime Minister, ministers, and Governor-General",
+                "C": "Members of Parliament"
+            },
+            "answer": "B",
+            "explanation": "The executive power includes the Prime Minister, Australian government ministers, and the Governor-General."
+        },
+        {
+            "question": "What is the primary function of the judicial power in Australia?",
+            "options": {
+                "A": "To make laws",
+                "B": "To interpret and apply the law",
+                "C": "To govern the country"
+            },
+            "answer": "B",
+            "explanation": "Judicial power is responsible for interpreting and applying the law, and is held by judges and courts."
+        },
+        {
+            "question": "How is legislative power exercised in Australia?",
+            "options": {
+                "A": "Through the King or Queen",
+                "B": "By the people through elections",
+                "C": "Exclusively by the Prime Minister"
+            },
+            "answer": "B",
+            "explanation": "Legislative power is exercised by Parliament, which is made up of representatives elected by the people of Australia."
+        },
+        {
+            "question": "What ensures the independence of the judicial power in Australia?",
+            "options": {
+                "A": "Direct control by the Prime Minister",
+                "B": "Influence from the legislative branch",
+                "C": "Independence from Parliament and government"
+            },
+            "answer": "C",
+            "explanation": "Judicial power, held by courts and judges, is independent of both Parliament and the government."
+        },
+        {
+            "question": "What does mutual respect and tolerance entail in Australia?",
+            "options": {
+                "A": "Agreeing with everyone's opinions",
+                "B": "Listening to and respecting diverse views and opinions",
+                "C": "Avoiding any form of disagreement"
+            },
+            "answer": "B",
+            "explanation": "Mutual respect and tolerance in Australia means listening to others and respecting their views and opinions, even when they differ from your own.",
+            "isAuValue": true
+        },
+        {
+            "question": "What does the concept of 'mutual respect and tolerance for others' imply in Australia?",
+            "options": {
+                "A": "Tolerating only those with similar beliefs and opinions",
+                "B": "Respecting and tolerating diverse opinions and choices",
+                "C": "Ignoring the opinions and choices of others"
+            },
+            "answer": "B",
+            "explanation": "The concept of 'mutual respect and tolerance for others' in Australia implies respecting and tolerating the diverse opinions and choices of others.",
+            "isAuValue": true
+        },
+        {
+            "question": "How is marriage equality defined in Australian law?",
+            "options": {
+                "A": "Only between a man and a woman",
+                "B": "Marriage is not recognized in law",
+                "C": "Two people can marry each other, including same-sex marriage"
+            },
+            "answer": "C",
+            "explanation": "Under Australian law, two people can marry each other, including marriage between two men or two women.",
+            "isAuValue": true
+        },
+        {
+            "question": "Is religious intolerance acceptable in Australian society?",
+            "options": {
+                "A": "Yes, it is part of freedom of expression",
+                "B": "No, it is not acceptable",
+                "C": "Only in private settings"
+            },
+            "answer": "B",
+            "explanation": "Religious intolerance is not acceptable in Australian society. All people should have equal opportunity to pursue their goals and interests, regardless of their religion, as long as they obey Australian law.",
+            "isAuValue": true
+        },
+        {
+            "question": "How must religious practices be conducted in Australia?",
+            "options": {
+                "A": "In accordance with Australian laws",
+                "B": "Based on religious laws only",
+                "C": "Without government interference"
+            },
+            "answer": "A",
+            "explanation": "In Australia, religious practices must not break Australian laws.",
+            "isAuValue": true
+        }
+    ]
+}

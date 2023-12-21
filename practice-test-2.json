@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "question": "When did the European settlement in Australia begin?",
+            "options": {
+                "A": "26 January 1788",
+                "B": "1 July 1770",
+                "C": "15 March 1800"
+            },
+            "answer": "A",
+            "explanation": "European settlement started when the first 11 convict ships, known as the ‘First Fleet’, arrived from Great Britain on 26 January 1788."
+        },
+        {
+            "question": "What was the main reason for the British Government to transport convicts to Australia?",
+            "options": {
+                "A": "To explore new territories",
+                "B": "To relieve overcrowded jails",
+                "C": "To establish trading ports"
+            },
+            "answer": "B",
+            "explanation": "The British Government decided to transport convicts to the new colony of New South Wales to manage the problem of overcrowded jails."
+        },
+        {
+            "question": "Who was the first Governor of the colony of New South Wales?",
+            "options": {
+                "A": "Governor James Cook",
+                "B": "Captain Arthur Phillip",
+                "C": "Governor William Bligh"
+            },
+            "answer": "B",
+            "explanation": "The first Governor of the colony of New South Wales was Captain Arthur Phillip."
+        },
+        {
+            "question": "What significant event happened in Australia in 1901?",
+            "options": {
+                "A": "The establishment of the Commonwealth of Australia",
+                "B": "The arrival of the Second Fleet",
+                "C": "The discovery of gold in New South Wales"
+            },
+            "answer": "A",
+            "explanation": "In 1901, the separate colonies were united into a federation of states called the Commonwealth of Australia."
+        },
+        {
+            "question": "Which group was the first large group of migrants not from Europe to arrive in Australia during the gold rush?",
+            "options": {
+                "A": "Chinese",
+                "B": "Indian",
+                "C": "African"
+            },
+            "answer": "A",
+            "explanation": "During the gold rush, which began in 1851, Chinese people arriving were the first large group of migrants not from Europe."
+        },
+        {
+            "question": "What is Australia's stance on achieving change?",
+            "options": {
+                "A": "Change should occur through violent actions if necessary",
+                "B": "Change should occur through discussion, peaceful persuasion, and the democratic process",
+                "C": "Change is not encouraged or supported"
+            },
+            "answer": "B",
+            "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process."
+        },
+        {
+            "question": "What does 'freedom of speech' entail in Australia?",
+            "options": {
+                "A": "Criticising the government and peacefully protesting against decisions",
+                "B": "Speaking only in support of government policies",
+                "C": "Avoiding any political discussions"
+            },
+            "answer": "A",
+            "explanation": "Freedom of speech in Australia means people can say and write what they think, including criticising the government, and protest peacefully against government decisions."
+        },
+        {
+            "question": "What is the status of religion in relation to the government in Australia?",
+            "options": {
+                "A": "The government endorses a national religion",
+                "B": "Religious laws are above Australian laws",
+                "C": "The government is secular and operates separately from religious entities"
+            },
+            "answer": "C",
+            "explanation": "The government in Australia is secular, which means it operates separately from churches or other religious entities, and there is no official national religion."
+        },
+        {
+            "question": "What is the basis of respect in the Australian democratic system?",
+            "options": {
+                "A": "Wealth and social status",
+                "B": "Race and cultural heritage",
+                "C": "Dignity and equality under Australian law for all individuals"
+            },
+            "answer": "C",
+            "explanation": "Australia's democratic system is based on the principle that every individual has rights and equality under Australian law."
+        },
+        {
+            "question": "What does freedom of speech in Australia include?",
+            "options": {
+                "A": "The right to criticize the government and protest peacefully",
+                "B": "The ability to say anything without legal consequences",
+                "C": "Freedom to spread misinformation"
+            },
+            "answer": "A",
+            "explanation": "Freedom of speech includes the right to criticize the government, protest peacefully, and campaign to change laws while obeying Australian laws."
+        },
+        {
+            "question": "When did the Australian Constitution come into effect?",
+            "options": {
+                "A": "1900",
+                "B": "1901",
+                "C": "1910"
+            },
+            "answer": "B",
+            "explanation": "The Australian Constitution came into effect on 1 January 1901."
+        },
+        {
+            "question": "What major bodies does the Australian Constitution establish?",
+            "options": {
+                "A": "Parliament, Executive, and Judicial",
+                "B": "Senate, House of Representatives, and High Court",
+                "C": "Governor-General, Prime Minister, and King"
+            },
+            "answer": "A",
+            "explanation": "The Australian Constitution established the Parliament, Executive, and Judicial bodies of government."
+        },
+        {
+            "question": "How can the Australian Constitution be changed?",
+            "options": {
+                "A": "By a referendum",
+                "B": "Parliamentary vote",
+                "C": "Royal decree"
+            },
+            "answer": "A",
+            "explanation": "The Australian Constitution can be changed by voting in a referendum."
+        },
+        {
+            "question": "What is required for a change to the Australian Constitution to be approved?",
+            "options": {
+                "A": "A simple majority vote",
+                "B": "Royal approval",
+                "C": "A 'double majority' in the referendum"
+            },
+            "answer": "C",
+            "explanation": "A 'double majority' is needed for a change to the Australian Constitution, meaning a majority of voters in a majority of states and a majority of voters across the nation must vote for the change."
+        },
+        {
+            "question": "How is the power of government divided according to the Australian Constitution?",
+            "options": {
+                "A": "Between the Prime Minister and Parliament",
+                "B": "Legislative, Executive, and Judicial powers",
+                "C": "Federal and State governments"
+            },
+            "answer": "B",
+            "explanation": "The power of government is divided into Legislative, Executive, and Judicial powers."
+        },
+        {
+            "question": "What is required for a protest to be lawful in Australia?",
+            "options": {
+                "A": "It must be approved by the local government",
+                "B": "It must be peaceful and not injure any person or damage property",
+                "C": "It must be held in designated areas only"
+            },
+            "answer": "B",
+            "explanation": "For a protest to be lawful in Australia, it must be peaceful and must not injure any person or damage property.",
+            "isAuValue": true
+        },
+        {
+            "question": "What does equality under the law mean in Australian society?",
+            "options": {
+                "A": "Only Australian citizens have equal rights",
+                "B": "All people are treated equally regardless of their background",
+                "C": "People are treated based on their social status"
+            },
+            "answer": "B",
+            "explanation": "In Australian society, the equal rights of all people are valued regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin.",
+            "isAuValue": true
+        },
+        {
+            "question": "How are employment opportunities determined in Australia?",
+            "options": {
+                "A": "Based on personal connections",
+                "B": "Based on the skills and experience of a person",
+                "C": "Based on the financial status of the individual"
+            },
+            "answer": "B",
+            "explanation": "In Australia, employment opportunities are determined based on the skills and experience of the person, supporting the idea of selecting the best candidate for the job.",
+            "isAuValue": true
+        },
+        {
+            "question": "What is the legal stance on violence in Australia?",
+            "options": {
+                "A": "Verbal abuse is tolerated",
+                "B": "Violence of any kind, including verbal and physical abuse, is illegal",
+                "C": "Physical violence is allowed in self-defense"
+            },
+            "answer": "B",
+            "explanation": "In Australia, violence of any kind, including verbal and physical abuse, is illegal. Australians believe in peaceful disagreement and the right to be safe and free from violence and intimidation.",
+            "isAuValue": true
+        },
+        {
+            "question": "Why is learning English important in Australian society?",
+            "options": {
+                "A": "It is the only language allowed in public",
+                "B": "It helps with education, employment, and community integration",
+                "C": "Only English speakers can become Australian citizens"
+            },
+            "answer": "B",
+            "explanation": "Learning English is important in Australia as it helps to get an education, a job, and better integrate into the community, and is essential for economic participation and social cohesion.",
+            "isAuValue": true
+        }
+    ]
+}

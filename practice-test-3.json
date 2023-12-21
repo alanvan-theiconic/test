@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "question": "When were the separate colonies in Australia united into a federation?",
+            "options": {
+                "A": "In 1788",
+                "B": "In 1901",
+                "C": "In 1967"
+            },
+            "answer": "B",
+            "explanation": "In 1901, the separate colonies were united into a federation called the Commonwealth of Australia."
+        },
+        {
+            "question": "What did not happen until after a 1967 Referendum in Australia?",
+            "options": {
+                "A": "Establishment of the Commonwealth of Australia",
+                "B": "Inclusion of Aboriginal and Torres Strait Islander peoples in official population estimates",
+                "C": "Introduction of the Australian Constitution"
+            },
+            "answer": "B",
+            "explanation": "It was not until after a Referendum in 1967 that Aboriginal and Torres Strait Islander peoples were included in official estimates of the Australian population."
+        },
+        {
+            "question": "What was the focus of migration programs in Australia during the first half of the 20th century?",
+            "options": {
+                "A": "Encouraging non-British migrants",
+                "B": "Encouraging British migrants to settle",
+                "C": "Restricting all forms of migration"
+            },
+            "answer": "B",
+            "explanation": "Throughout the first half of the 20th century, there were programs to actively encourage British migrants to settle in Australia."
+        },
+        {
+            "question": "Which event led to a wave of non-British migration to Australia?",
+            "options": {
+                "A": "The Great Depression",
+                "B": "World War I",
+                "C": "World War II"
+            },
+            "answer": "C",
+            "explanation": "After World War II, a wave of non-British migration occurred when millions of people in Europe had to leave their homelands, leading large numbers of Europeans to come to Australia to build a new life."
+        },
+        {
+            "question": "What is the primary reason for people coming to Australia in recent years under migration and refugee programs?",
+            "options": {
+                "A": "To join family, build a new life, or escape adversity",
+                "B": "For education and professional training",
+                "C": "Due to international political agreements"
+            },
+            "answer": "A",
+            "explanation": "In recent years, Australia's migration and refugee programs have brought people from all over the world to join family, make a new life, or to escape poverty, war, or persecution."
+        },
+        {
+            "question": "What does freedom of association allow in Australia?",
+            "options": {
+                "A": "Freedom to associate with any political or social group without being forced",
+                "B": "Mandatory participation in political activities",
+                "C": "Association only within state-approved groups"
+            },
+            "answer": "A",
+            "explanation": "Freedom of association allows Australians to join or not join any legal organization, such as political parties, trade unions, or social groups."
+        },
+        {
+            "question": "What type of government system does Australia have?",
+            "options": {
+                "A": "Monarchy",
+                "B": "Parliamentary democracy",
+                "C": "Dictatorship"
+            },
+            "answer": "B",
+            "explanation": "Australia's system of government is a parliamentary democracy, where laws are determined by parliaments elected by the people."
+        },
+        {
+            "question": "Is voting compulsory in Australia?",
+            "options": {
+                "A": "Yes, for all citizens",
+                "B": "No, it's optional",
+                "C": "Only for state elections"
+            },
+            "answer": "A",
+            "explanation": "Voting is compulsory in Australia, highlighting the importance of participating in elections."
+        },
+        {
+            "question": "What does 'freedom of speech' mean in Australia?",
+            "options": {
+                "A": "People can say and write what they think, including criticising the government",
+                "B": "Freedom to speak only in official languages",
+                "C": "Restrictions on speech to maintain public order"
+            },
+            "answer": "A",
+            "explanation": "Freedom of speech in Australia means people can say and write what they think, including criticising the government."
+        },
+        {
+            "question": "What is the concept of 'freedom of association' in Australia?",
+            "options": {
+                "A": "Freedom to form and join associations to pursue common goals",
+                "B": "Mandatory membership in certain associations",
+                "C": "Restrictions on forming associations"
+            },
+            "answer": "A",
+            "explanation": "Freedom of association is the right to form and join associations to pursue common goals;."
+        },
+        {
+            "question": "What is the legislative power in the Australian government?",
+            "options": {
+                "A": "Power to interpret laws",
+                "B": "Power to make and change laws",
+                "C": "Power to enforce laws"
+            },
+            "answer": "B",
+            "explanation": "Legislative power is the power to make and change laws."
+        },
+        {
+            "question": "Who has the judicial power in the Australian government?",
+            "options": {
+                "A": "The Governor-General",
+                "B": "Judges and courts",
+                "C": "The Prime Minister"
+            },
+            "answer": "B",
+            "explanation": "Judicial power in the Australian government is held by judges and courts, which are independent of the parliament and government."
+        },
+        {
+            "question": "Who is the Head of State of Australia?",
+            "options": {
+                "A": "The Prime Minister of Australia",
+                "B": "The President of Australia",
+                "C": "The King of Australia"
+            },
+            "answer": "C",
+            "explanation": "Australia's Head of State is the King of Australia, His Majesty King Charles III."
+        },
+        {
+            "question": "What are the 'reserve powers' of the Governor-General?",
+            "options": {
+                "A": "Powers to make and enforce laws",
+                "B": "Special powers used in specific circumstances",
+                "C": "Powers to change the Constitution"
+            },
+            "answer": "B",
+            "explanation": "The Governor-General has special 'reserve powers' that can only be used in specific circumstances."
+        },
+        {
+            "question": "What type of government system does Australia have?",
+            "options": {
+                "A": "Presidential system",
+                "B": "Constitutional monarchy",
+                "C": "Direct democracy"
+            },
+            "answer": "B",
+            "explanation": "Australia is a constitutional monarchy, meaning the King is the head of state but acts in accordance with the Constitution."
+        },
+        {
+            "question": "Can Australian citizens hold citizenship of another country?",
+            "options": {
+                "A": "No, it's not allowed",
+                "B": "Yes, if the laws of the other countries allow, known as dual citizenship",
+                "C": "Only if they are born in the other country"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens may hold the citizenship of another country or countries (dual citizenship) if the laws of those countries allow.",
+            "isAuValue": true
+        },
+        {
+            "question": "What is included in the citizenship pledge made by Australian citizens?",
+            "options": {
+                "A": "Pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
+                "B": "Committing to follow only the laws of the state of residence within Australia",
+                "C": "Pledging to adopt Australian cultural practices exclusively"
+            },
+            "answer": "A",
+            "explanation": "The citizenship pledge includes pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws.",
+            "isAuValue": true
+        },
+        {
+            "question": "What responsibility do individuals in Australia have in ensuring community safety?",
+            "options": {
+                "A": "Reporting serious crimes they suspect might be committed",
+                "B": "Ignoring any suspicious activities to maintain privacy",
+                "C": "Only reporting issues affecting their own family"
+            },
+            "answer": "A",
+            "explanation": "In Australia, individuals have a responsibility to help protect society by reporting any suspicions of serious crimes to government authorities.",
+            "isAuValue": true
+        },
+        {
+            "question": "What is the importance of volunteering in the Australian community?",
+            "options": {
+                "A": "It is mandatory for all citizens",
+                "B": "It is a way to share knowledge, learn new skills, and strengthen community ties",
+                "C": "It has no significant impact on the community"
+            },
+            "answer": "B",
+            "explanation": "Volunteering in Australia is a great opportunity to share knowledge, learn new skills, increase integration, and strengthen the sense of belonging to the Australian community.",
+            "isAuValue": true
+        },
+        {
+            "question": "What obligation do Australian citizens have regarding the laws of Australia?",
+            "options": {
+                "A": "Australian citizens must follow Australian laws at all times, both within Australia and overseas",
+                "B": "Australian citizens only need to follow Australian laws while they are in Australia",
+                "C": "Australian citizens are exempt from certain laws if they also hold citizenship in another country"
+            },
+            "answer": "A",
+            "explanation": "Australian citizens are required to follow all Australian laws at all times, both within Australia and overseas.",
+            "isAuValue": true
+        }
+    ]
+}

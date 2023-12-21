@@ -158,7 +158,8 @@
                 "C": "Only approved topics can be discussed"
             },
             "answer": "A",
-            "explanation": "Australian values support the freedom of expression, allowing everyone to peacefully express their opinions within the boundaries of the law."
+            "explanation": "Australian values support the freedom of expression, allowing everyone to peacefully express their opinions within the boundaries of the law.",
+            "isAuValue": true
         },
         {
             "question": "Should people in Australia make an effort to learn English?",
@@ -168,7 +169,8 @@
                 "C": "Yes, English is the national language of Australia and it helps to get an education, a job, and to integrate into the community"
             },
             "answer": "C",
-            "explanation": "In Australia, there is an expectation for people to learn English, as it is the national language and facilitates education, employment, and community integration."
+            "explanation": "In Australia, there is an expectation for people to learn English, as it is the national language and facilitates education, employment, and community integration.",
+            "isAuValue": true
         },
         {
             "question": "In Australia, can you encourage violence against a person or group of people if you have been insulted?",
@@ -178,7 +180,8 @@
                 "C": "Sometimes, if I feel very offended"
             },
             "answer": "B",
-            "explanation": "Encouraging violence against others, even if insulted, is against Australian values and the law."
+            "explanation": "Encouraging violence against others, even if insulted, is against Australian values and the law.",
+            "isAuValue": true
         },
         {
             "question": "Should people tolerate one another where they find that they disagree?",
@@ -188,7 +191,8 @@
                 "C": "Yes, peaceful disagreement reflects Australian values in relation to mutual respect"
             },
             "answer": "C",
-            "explanation": "Australian values encourage tolerance and mutual respect, even in cases of disagreement."
+            "explanation": "Australian values encourage tolerance and mutual respect, even in cases of disagreement.",
+            "isAuValue": true
         },
         {
             "question": "Which of the following is an example of contributing to the Australian community?",
@@ -198,7 +202,8 @@
                 "C": "People in Australia should not contribute to the community because Australia is a free country"
             },
             "answer": "A",
-            "explanation": "Contributing to the Australian community can be exemplified by volunteering or fundraising for a charity, as these actions help to strengthen community bonds."
+            "explanation": "Contributing to the Australian community can be exemplified by volunteering or fundraising for a charity, as these actions help to strengthen community bonds.",
+            "isAuValue": true
         }
     ]
 }

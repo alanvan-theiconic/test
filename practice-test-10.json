@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "question": "What is the capital city of Queensland?",
+            "options": {
+                "A": "Brisbane",
+                "B": "Darwin",
+                "C": "Perth"
+            },
+            "answer": "A",
+            "explanation": "Brisbane is the capital city of Queensland."
+        },
+        {
+            "question": "Which statement best describes the connection of the Aboriginal and Torres Strait Islander peoples with the land?",
+            "options": {
+                "A": "They have a deep connection with the land, expressed in stories, art, and dance",
+                "B": "They have a formal legal relationship with the land",
+                "C": "They view the land primarily as a resource for economic activities"
+            },
+            "answer": "A",
+            "explanation": "Aboriginal and Torres Strait Islander peoples have a deep connection with the land which is expressed in their stories, art, and dance."
+        },
+        {
+            "question": "What was the main reason for the British Government to transport convicts to Australia?",
+            "options": {
+                "A": "To explore new territories",
+                "B": "To relieve overcrowded jails",
+                "C": "To establish trading ports"
+            },
+            "answer": "B",
+            "explanation": "The British Government decided to transport convicts to the new colony of New South Wales to manage the problem of overcrowded jails."
+        },
+        {
+            "question": "What significant event does Anzac Day commemorate?",
+            "options": {
+                "A": "The end of World War II",
+                "B": "The landing of the Australian and New Zealand Army Corps at Gallipoli during World War I",
+                "C": "The signing of the Treaty of Versailles"
+            },
+            "answer": "B",
+            "explanation": "Anzac Day, commemorated on 25 April each year, is named after the Australian and New Zealand Army Corps which landed at Gallipoli in Türkiye during World War I on 25 April 1915."
+        },
+        {
+            "question": "What does the Commonwealth Coat of Arms represent?",
+            "options": {
+                "A": "Australia's cultural diversity",
+                "B": "Australia's national unity",
+                "C": "The history of Australian independence"
+            },
+            "answer": "B",
+            "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia and represents Australia's national unity."
+        },
+        {
+            "question": "What are Australian citizens expected to respect and uphold in their daily life?",
+            "options": {
+                "A": "Only the laws that align with their personal beliefs",
+                "B": "The values that all Australian people are expected to share",
+                "C": "The traditions of their own cultural background exclusively"
+            },
+            "answer": "B",
+            "explanation": "Australian citizens are expected to respect, share, and uphold the values that define and shape the country in their everyday life and local community."
+        },
+        {
+            "question": "What does Australian citizenship enable in terms of community participation?",
+            "options": {
+                "A": "Exemption from community responsibilities",
+                "B": "Full participation in the nation's life and community",
+                "C": "Participation only in selected community events"
+            },
+            "answer": "B",
+            "explanation": "Australian citizenship gives individuals the opportunity to fully participate in the nation's life and community, fulfilling their responsibilities as citizens."
+        },
+        {
+            "question": "What is a fundamental aspect of Australian citizenship regarding community support?",
+            "options": {
+                "A": "Supporting community members only during official events",
+                "B": "Helping each other in times of need, embodying 'mateship'",
+                "C": "Limiting support to only those within one's immediate family"
+            },
+            "answer": "B",
+            "explanation": "A fundamental aspect of Australian citizenship is helping each other in times of need, reflecting the value of 'mateship' and a strong tradition of community service and volunteering."
+        },
+        {
+            "question": "How is religion treated in relation to the law in Australia?",
+            "options": {
+                "A": "Religious laws are above Australian laws",
+                "B": "Australian law prevails over religious practices in case of conflict",
+                "C": "Religion and law are fully integrated"
+            },
+            "answer": "B",
+            "explanation": "Where there is a conflict between an Australian law and a religious practice, Australian law prevails."
+        },
+        {
+            "question": "What is the basis of respect in the Australian democratic system?",
+            "options": {
+                "A": "Wealth and social status",
+                "B": "Race and cultural heritage",
+                "C": "Dignity and equality under Australian law for all individuals"
+            },
+            "answer": "C",
+            "explanation": "Australia's democratic system is based on the principle that every individual has rights and equality under Australian law."
+        },
+        {
+            "question": "What is the role of the House of Representatives in Australia?",
+            "options": {
+                "A": "To represent the states",
+                "B": "To review and suggest amendments to bills",
+                "C": "To consider, debate, and vote on new laws"
+            },
+            "answer": "C",
+            "explanation": "The House of Representatives considers, debates, and votes on proposals for new laws or changes to the laws."
+        },
+        {
+            "question": "How is representation in the Senate determined for each Australian state?",
+            "options": {
+                "A": "Based on the population of the state",
+                "B": "Equal representation regardless of size or population",
+                "C": "By the economic contribution of the state"
+            },
+            "answer": "B",
+            "explanation": "All states are equally represented in the Senate regardless of their size or population."
+        },
+        {
+            "question": "What is the primary responsibility of state and territory governments in Australia?",
+            "options": {
+                "A": "Foreign affairs and national defense",
+                "B": "Hospitals, schools, and local infrastructure",
+                "C": "Taxation and national economic management"
+            },
+            "answer": "B",
+            "explanation": "State and territory governments are primarily responsible for hospitals and health services, schools, roads, and other local infrastructure."
+        },
+        {
+            "question": "Who represents the King of Australia in the states?",
+            "options": {
+                "A": "The Prime Minister",
+                "B": "The Governor-General",
+                "C": "The Governor"
+            },
+            "answer": "C",
+            "explanation": "In each state, a Governor represents the King of Australia."
+        },
+        {
+            "question": "What are local governments responsible for in Australia?",
+            "options": {
+                "A": "National defense and foreign affairs",
+                "B": "Local services like rubbish collection, parks, and local roads",
+                "C": "Education and healthcare"
+            },
+            "answer": "B",
+            "explanation": "Local governments are responsible for planning and delivering services like rubbish collection, parks, local roads, and other community services."
+        },
+        {
+            "question": "To whom do Australian laws apply?",
+            "options": {
+                "A": "Only to Australian citizens",
+                "B": "Only to adults living in Australia",
+                "C": "To all people in Australia"
+            },
+            "answer": "C",
+            "explanation": "Australian laws apply to all people in Australia, regardless of their background or culture.",
+            "isAuValue": true
+        },
+        {
+            "question": "Who is protected by the laws and legal systems in Australia?",
+            "options": {
+                "A": "Only people born in Australia",
+                "B": "Only Australian citizens and permanent residents",
+                "C": "All people in Australia"
+            },
+            "answer": "C",
+            "explanation": "All Australians, regardless of their background or culture, are protected by the laws and legal systems in Australia.",
+            "isAuValue": true
+        },
+        {
+            "question": "How is online abuse viewed and handled in Australia?",
+            "options": {
+                "A": "It is generally accepted as part of online interaction",
+                "B": "Many forms of cyber abuse are illegal and not accepted",
+                "C": "It is only addressed if it becomes widespread"
+            },
+            "answer": "B",
+            "explanation": "Online abuse, or cyber abuse, is not accepted in Australia and many forms of it are illegal.",
+            "isAuValue": true
+        },
+        {
+            "question": "What is the legal status of religious laws in Australia?",
+            "options": {
+                "A": "They override Australian laws",
+                "B": "They have equal status with Australian laws",
+                "C": "They have no legal status"
+            },
+            "answer": "C",
+            "explanation": "Religious laws have no legal status in Australia, and Australian law must be followed, even where it differs from religious laws.",
+            "isAuValue": true
+        },
+        {
+            "question": "What does 'freedom of association' mean in Australia?",
+            "options": {
+                "A": "People can be forced to join certain organizations",
+                "B": "People are free to join or leave any group voluntarily within the law",
+                "C": "Membership in political parties is mandatory"
+            },
+            "answer": "B",
+            "explanation": "In Australia, freedom of association means people are free to join or leave any group voluntarily, as long as it is within the law.",
+            "isAuValue": true
+        }
+    ]
+}
