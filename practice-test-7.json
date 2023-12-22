@@ -1,209 +1,229 @@
 {
-    "results": [
-        {
-            "question": "What significant event does Anzac Day commemorate?",
-            "options": {
-                "A": "The end of World War II",
-                "B": "The landing of the Australian and New Zealand Army Corps at Gallipoli during World War I",
-                "C": "The signing of the Treaty of Versailles"
-            },
-            "answer": "B",
-            "explanation": "Anzac Day, commemorated on 25 April each year, is named after the Australian and New Zealand Army Corps which landed at Gallipoli in Türkiye during World War I on 25 April 1915."
-        },
-        {
-            "question": "Which important announcement is made during Australia Day celebrations?",
-            "options": {
-                "A": "The appointment of the Governor-General",
-                "B": "The Australian of the Year Awards",
-                "C": "The results of the national election"
-            },
-            "answer": "B",
-            "explanation": "During Australia Day celebrations, the Prime Minister announces the Australian of the Year Awards in Canberra."
-        },
-        {
-            "question": "What are the colors of the Australian National Flag?",
-            "options": {
-                "A": "Green, white, and yellow",
-                "B": "Red, white, and blue",
-                "C": "Black, red, and yellow"
-            },
-            "answer": "B",
-            "explanation": "The Australian National Flag is blue, white, and red."
-        },
-        {
-            "question": "What does the Union Jack in the top left corner of the Australian National Flag represent?",
-            "options": {
-                "A": "Australia's cultural diversity",
-                "B": "Australia's history of British settlement",
-                "C": "The original six states of Australia"
-            },
-            "answer": "B",
-            "explanation": "The Union Jack on the Australian National Flag represents Australia's history of British settlement and the laws and institutions inherited as a result."
-        },
-        {
-            "question": "What does the Commonwealth Star represent on the Australian National Flag?",
-            "options": {
-                "A": "The six states and the territories",
-                "B": "The Commonwealth of Australia",
-                "C": "Australia's connection to the United Kingdom"
-            },
-            "answer": "A",
-            "explanation": "The Commonwealth Star under the Union Jack on the Australian National Flag has seven points, each point representing one of the six states and one point for the territories."
-        },
-        {
-            "question": "What are Australian citizens expected to do if called for jury service?",
-            "options": {
-                "A": "Decline unless they have legal knowledge",
-                "B": "Serve on a jury",
-                "C": "Recommend someone else in their place"
-            },
-            "answer": "B",
-            "explanation": "Australian citizens who are on the electoral roll and aged 18 years or over can be called to serve on a jury and are expected to do so if called."
-        },
-        {
-            "question": "What role do Australian citizens play in their nation's defense?",
-            "options": {
-                "A": "Provide financial support for the military",
-                "B": "Defend the nation should the need arise",
-                "C": "Monitor national security through community watch programs"
-            },
-            "answer": "B",
-            "explanation": "A responsibility for Australian citizens is to defend Australia should the need arise."
-        },
-        {
-            "question": "How can Australian citizens contribute to their community?",
-            "options": {
-                "A": "By exclusively supporting government initiatives",
-                "B": "Through community service and volunteering",
-                "C": "By participating in political campaigns only"
-            },
-            "answer": "B",
-            "explanation": "Australians are expected to participate in their community through community service and volunteering."
-        },
-        {
-            "question": "What privilege is granted to Australian citizens regarding participation in elections?",
-            "options": {
-                "A": "They can vote in federal, state, or territory elections and in a referendum",
-                "B": "They can only vote in state or territory elections",
-                "C": "Voting is not a privilege for Australian citizens"
-            },
-            "answer": "A",
-            "explanation": "As an Australian citizen, one has the privilege to vote in federal, state, or territory elections and in a referendum."
-        },
-        {
-            "question": "What can Australian citizens apply for their children born overseas?",
-            "options": {
-                "A": "Australian citizenship by descent",
-                "B": "Immediate residency in Australia",
-                "C": "Special international travel privileges"
-            },
-            "answer": "A",
-            "explanation": "Australian citizens can apply for their children born overseas to become Australian citizens by descent."
-        },
-        {
-            "question": "Who are the primary members of the executive branch in Australia?",
-            "options": {
-                "A": "All elected members of Parliament",
-                "B": "Judges and legal officers",
-                "C": "Prime Minister and ministers"
-            },
-            "answer": "C",
-            "explanation": "The executive branch primarily consists of the Prime Minister and government ministers."
-        },
-        {
-            "question": "What is the purpose of dividing powers in the Australian government?",
-            "options": {
-                "A": "To increase the efficiency of lawmaking",
-                "B": "To prevent concentration of power in one branch",
-                "C": "To give all power to the Governor-General"
-            },
-            "answer": "B",
-            "explanation": "The division of powers in the Australian government is to prevent concentration of power in one person or group."
-        },
-        {
-            "question": "How are changes to laws decided in the Australian legislative branch?",
-            "options": {
-                "A": "By the Governor-General alone",
-                "B": "Through public voting",
-                "C": "By elected representatives in Parliament"
-            },
-            "answer": "C",
-            "explanation": "Changes to laws are made by the elected representatives in Parliament."
-        },
-        {
-            "question": "What distinguishes the judicial power from the other branches of government in Australia?",
-            "options": {
-                "A": "It has the power to change laws",
-                "B": "It is responsible for governing the country",
-                "C": "It is independent and interprets the law"
-            },
-            "answer": "C",
-            "explanation": "Judicial power is distinct for its independence and role in interpreting and applying the law."
-        },
-        {
-            "question": "Who is the current Head of State of Australia?",
-            "options": {
-                "A": "The Prime Minister of Australia",
-                "B": "The Governor-General of Australia",
-                "C": "The King of Australia"
-            },
-            "answer": "C",
-            "explanation": "Australia's Head of State is the King of Australia, His Majesty King Charles III."
-        },
-        {
-            "question": "Which of these practices is illegal in Australia?",
-            "options": {
-                "A": "Polygamy",
-                "B": "Meditation",
-                "C": "Fasting"
-            },
-            "answer": "A",
-            "explanation": "Some religious or cultural practices such as polygamy and forced marriage are against the law in Australia.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is the legal stance on violence in Australia?",
-            "options": {
-                "A": "Verbal abuse is tolerated",
-                "B": "Violence of any kind, including verbal and physical abuse, is illegal",
-                "C": "Physical violence is allowed in self-defense"
-            },
-            "answer": "B",
-            "explanation": "In Australia, violence of any kind, including verbal and physical abuse, is illegal. Australians believe in peaceful disagreement and the right to be safe and free from violence and intimidation.",
-            "isAuValue": true
-        },
-        {
-            "question": "How should individuals in Australia respond to lawful requests from the police?",
-            "options": {
-                "A": "They can choose to ignore them",
-                "B": "They should obey lawful requests from the police",
-                "C": "Only non-citizens are required to obey"
-            },
-            "answer": "B",
-            "explanation": "In Australia, the lawful actions of the police should be supported, and individuals should obey lawful requests from the police.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is expected of applicants for Australian citizenship regarding the English language?",
-            "options": {
-                "A": "To be fluent in English before applying",
-                "B": "To have no knowledge of English",
-                "C": "To make reasonable efforts to learn English if it is not their native language"
-            },
-            "answer": "C",
-            "explanation": "Applicants for Australian citizenship are expected to make reasonable efforts to learn the English language if it is not their native language.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is an example of demonstrating 'mateship' in Australian culture?",
-            "options": {
-                "A": "Taking a meal to an elderly neighbor",
-                "B": "Competing in sports events",
-                "C": "Celebrating national holidays"
-            },
-            "answer": "A",
-            "explanation": "In Australian culture, 'mateship' is shown through acts of kindness and support, such as taking a meal to an elderly neighbor, especially in times of need.",
-            "isAuValue": true
-        }
-    ]
+  "results": [
+    {
+      "question": "What significant event does Anzac Day commemorate?",
+      "options": {
+        "A": "The end of World War II",
+        "B": "The landing of the Australian and New Zealand Army Corps at Gallipoli during World War I",
+        "C": "The signing of the Treaty of Versailles"
+      },
+      "answer": "B",
+      "explanation": "Anzac Day, commemorated on 25 April each year, is named after the Australian and New Zealand Army Corps which landed at Gallipoli in Türkiye during World War I on 25 April 1915.",
+      "uuid": "437aec68-4384-412e-9809-d3122b55fc4f"
+    },
+    {
+      "question": "Which important announcement is made during Australia Day celebrations?",
+      "options": {
+        "A": "The appointment of the Governor-General",
+        "B": "The Australian of the Year Awards",
+        "C": "The results of the national election"
+      },
+      "answer": "B",
+      "explanation": "During Australia Day celebrations, the Prime Minister announces the Australian of the Year Awards in Canberra.",
+      "uuid": "ae21c691-797a-409c-8c94-4ed0af5bf55c"
+    },
+    {
+      "question": "What are the colors of the Australian National Flag?",
+      "options": {
+        "A": "Green, white, and yellow",
+        "B": "Red, white, and blue",
+        "C": "Black, red, and yellow"
+      },
+      "answer": "B",
+      "explanation": "The Australian National Flag is blue, white, and red.",
+      "uuid": "9f799619-04a6-431a-98c7-91be9cfd520f"
+    },
+    {
+      "question": "What does the Union Jack in the top left corner of the Australian National Flag represent?",
+      "options": {
+        "A": "Australia\u0027s cultural diversity",
+        "B": "Australia\u0027s history of British settlement",
+        "C": "The original six states of Australia"
+      },
+      "answer": "B",
+      "explanation": "The Union Jack on the Australian National Flag represents Australia\u0027s history of British settlement and the laws and institutions inherited as a result.",
+      "uuid": "20665d75-203f-4329-83c5-9d796feee55a"
+    },
+    {
+      "question": "What does the Commonwealth Star represent on the Australian National Flag?",
+      "options": {
+        "A": "The six states and the territories",
+        "B": "The Commonwealth of Australia",
+        "C": "Australia\u0027s connection to the United Kingdom"
+      },
+      "answer": "A",
+      "explanation": "The Commonwealth Star under the Union Jack on the Australian National Flag has seven points, each point representing one of the six states and one point for the territories.",
+      "uuid": "bbd8a772-e22e-45d6-82e7-3d747304c6d3"
+    },
+    {
+      "question": "What are Australian citizens expected to do if called for jury service?",
+      "options": {
+        "A": "Decline unless they have legal knowledge",
+        "B": "Serve on a jury",
+        "C": "Recommend someone else in their place"
+      },
+      "answer": "B",
+      "explanation": "Australian citizens who are on the electoral roll and aged 18 years or over can be called to serve on a jury and are expected to do so if called.",
+      "uuid": "b0460eed-051a-4e5d-a3fa-18fc161817eb"
+    },
+    {
+      "question": "What role do Australian citizens play in their nation\u0027s defense?",
+      "options": {
+        "A": "Provide financial support for the military",
+        "B": "Defend the nation should the need arise",
+        "C": "Monitor national security through community watch programs"
+      },
+      "answer": "B",
+      "explanation": "A responsibility for Australian citizens is to defend Australia should the need arise.",
+      "uuid": "9b5f75d7-dcb7-4550-8b92-7d842272f83e"
+    },
+    {
+      "question": "How can Australian citizens contribute to their community?",
+      "options": {
+        "A": "By exclusively supporting government initiatives",
+        "B": "Through community service and volunteering",
+        "C": "By participating in political campaigns only"
+      },
+      "answer": "B",
+      "explanation": "Australians are expected to participate in their community through community service and volunteering.",
+      "uuid": "0fe99e1f-2b08-4232-a496-af3178c7a4d3"
+    },
+    {
+      "question": "What privilege is granted to Australian citizens regarding participation in elections?",
+      "options": {
+        "A": "They can vote in federal, state, or territory elections and in a referendum",
+        "B": "They can only vote in state or territory elections",
+        "C": "Voting is not a privilege for Australian citizens"
+      },
+      "answer": "A",
+      "explanation": "As an Australian citizen, one has the privilege to vote in federal, state, or territory elections and in a referendum.",
+      "uuid": "768e5a1d-3e13-4ac5-99c9-70628ff723be"
+    },
+    {
+      "question": "What can Australian citizens apply for their children born overseas?",
+      "options": {
+        "A": "Australian citizenship by descent",
+        "B": "Immediate residency in Australia",
+        "C": "Special international travel privileges"
+      },
+      "answer": "A",
+      "explanation": "Australian citizens can apply for their children born overseas to become Australian citizens by descent.",
+      "uuid": "61d3537b-ed92-48f4-9a43-42bc3aacd9fa"
+    },
+    {
+      "question": "Who are the primary members of the executive branch in Australia?",
+      "options": {
+        "A": "All elected members of Parliament",
+        "B": "Judges and legal officers",
+        "C": "Prime Minister and ministers"
+      },
+      "answer": "C",
+      "explanation": "The executive branch primarily consists of the Prime Minister and government ministers.",
+      "uuid": "110470a8-cdd5-40f6-8609-a4f47fd83361"
+    },
+    {
+      "question": "What is the purpose of dividing powers in the Australian government?",
+      "options": {
+        "A": "To increase the efficiency of lawmaking",
+        "B": "To prevent concentration of power in one branch",
+        "C": "To give all power to the Governor-General"
+      },
+      "answer": "B",
+      "explanation": "The division of powers in the Australian government is to prevent concentration of power in one person or group.",
+      "uuid": "7bf61d47-9a7a-4069-83f0-f925438725e2"
+    },
+    {
+      "question": "How are changes to laws decided in the Australian legislative branch?",
+      "options": {
+        "A": "By the Governor-General alone",
+        "B": "Through public voting",
+        "C": "By elected representatives in Parliament"
+      },
+      "answer": "C",
+      "explanation": "Changes to laws are made by the elected representatives in Parliament.",
+      "uuid": "4c45d81e-d211-4ff9-afa5-aacd7e89541a"
+    },
+    {
+      "question": "What distinguishes the judicial power from the other branches of government in Australia?",
+      "options": {
+        "A": "It has the power to change laws",
+        "B": "It is responsible for governing the country",
+        "C": "It is independent and interprets the law"
+      },
+      "answer": "C",
+      "explanation": "Judicial power is distinct for its independence and role in interpreting and applying the law.",
+      "uuid": "a802589d-e0f9-47f9-9d80-17c049d691ba"
+    },
+    {
+      "question": "Who is the current Head of State of Australia?",
+      "options": {
+        "A": "The Prime Minister of Australia",
+        "B": "The Governor-General of Australia",
+        "C": "The King of Australia"
+      },
+      "answer": "C",
+      "explanation": "Australia\u0027s Head of State is the King of Australia, His Majesty King Charles III.",
+      "uuid": "47c0e93b-77dc-42b7-9455-3c72154e7173"
+    },
+    {
+      "question": "Which of these practices is illegal in Australia?",
+      "options": {
+        "A": "Polygamy",
+        "B": "Meditation",
+        "C": "Fasting"
+      },
+      "answer": "A",
+      "explanation": "Some religious or cultural practices such as polygamy and forced marriage are against the law in Australia.",
+      "isAuValue": true,
+      "uuid": "80124d85-da84-46df-8c67-1e36365d02b7"
+    },
+    {
+      "question": "What is the legal stance on violence in Australia?",
+      "options": {
+        "A": "Verbal abuse is tolerated",
+        "B": "Violence of any kind, including verbal and physical abuse, is illegal",
+        "C": "Physical violence is allowed in self-defense"
+      },
+      "answer": "B",
+      "explanation": "In Australia, violence of any kind, including verbal and physical abuse, is illegal. Australians believe in peaceful disagreement and the right to be safe and free from violence and intimidation.",
+      "isAuValue": true,
+      "uuid": "0b749b3a-bdfb-4539-adc1-168f7bd8ffb0"
+    },
+    {
+      "question": "How should individuals in Australia respond to lawful requests from the police?",
+      "options": {
+        "A": "They can choose to ignore them",
+        "B": "They should obey lawful requests from the police",
+        "C": "Only non-citizens are required to obey"
+      },
+      "answer": "B",
+      "explanation": "In Australia, the lawful actions of the police should be supported, and individuals should obey lawful requests from the police.",
+      "isAuValue": true,
+      "uuid": "276bb6f8-1263-4196-acf5-c4214139e25f"
+    },
+    {
+      "question": "What is expected of applicants for Australian citizenship regarding the English language?",
+      "options": {
+        "A": "To be fluent in English before applying",
+        "B": "To have no knowledge of English",
+        "C": "To make reasonable efforts to learn English if it is not their native language"
+      },
+      "answer": "C",
+      "explanation": "Applicants for Australian citizenship are expected to make reasonable efforts to learn the English language if it is not their native language.",
+      "isAuValue": true,
+      "uuid": "ec59b443-555a-4d34-8c14-789c52b3055a"
+    },
+    {
+      "question": "What is an example of demonstrating \u0027mateship\u0027 in Australian culture?",
+      "options": {
+        "A": "Taking a meal to an elderly neighbor",
+        "B": "Competing in sports events",
+        "C": "Celebrating national holidays"
+      },
+      "answer": "A",
+      "explanation": "In Australian culture, \u0027mateship\u0027 is shown through acts of kindness and support, such as taking a meal to an elderly neighbor, especially in times of need.",
+      "isAuValue": true,
+      "uuid": "9392c91a-84ac-4a99-ab16-5b91de94d9b3"
+    }
+  ]
 }

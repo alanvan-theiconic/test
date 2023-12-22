@@ -1,209 +1,229 @@
 {
-    "results": [
-        {
-            "question": "Who are the original inhabitants of the land in Australia?",
-            "options": {
-                "A": "The British settlers",
-                "B": "The Aboriginal and Torres Strait Islander peoples",
-                "C": "European explorers"
-            },
-            "answer": "B",
-            "explanation": "The Aboriginal and Torres Strait Islander peoples are the original inhabitants of the land in Australia"
-        },
-        {
-            "question": "What percentage of the Australian population do the Aboriginal and Torres Strait Islander peoples make up?",
-            "options": {
-                "A": "Approximately 10%",
-                "B": "Approximately 3%",
-                "C": "Approximately 15%"
-            },
-            "answer": "B",
-            "explanation": "The Aboriginal and Torres Strait Islander peoples of Australia make up approximately three per cent of the Australian population."
-        },
-        {
-            "question": "Which statement best describes the connection of the Aboriginal and Torres Strait Islander peoples with the land?",
-            "options": {
-                "A": "They have a deep connection with the land, expressed in stories, art, and dance",
-                "B": "They have a formal legal relationship with the land",
-                "C": "They view the land primarily as a resource for economic activities"
-            },
-            "answer": "A",
-            "explanation": "Aboriginal and Torres Strait Islander peoples have a deep connection with the land which is expressed in their stories, art, and dance."
-        },
-        {
-            "question": "What do the colors of the Australian Aboriginal Flag represent?",
-            "options": {
-                "A": "Black for the people, red for the earth, yellow for the sun",
-                "B": "Green for the land, blue for the sea, white for peace",
-                "C": "Red for the desert, white for the sky, black for the night"
-            },
-            "answer": "A",
-            "explanation": "The Australian Aboriginal Flag is black, red, and yellow. The top half is black and represents the Aboriginal peoples of Australia. The bottom half is red and represents the earth. The yellow circle represents the sun."
-        },
-        {
-            "question": "What is a 'Welcome to Country' ceremony?",
-            "options": {
-                "A": "A ceremony to celebrate national holidays in Australia",
-                "B": "A cultural practice performed by a local Aboriginal or Torres Strait Islander custodian",
-                "C": "A formal government event to welcome foreign dignitaries"
-            },
-            "answer": "B",
-            "explanation": "A Welcome to Country is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian of the local region welcoming visitors to their traditional land."
-        },
-        {
-            "question": "What is Australia's stance on achieving change?",
-            "options": {
-                "A": "Change should occur through violent actions if necessary",
-                "B": "Change should occur through discussion, peaceful persuasion, and the democratic process",
-                "C": "Change is not encouraged or supported"
-            },
-            "answer": "B",
-            "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process."
-        },
-        {
-            "question": "What does 'freedom of speech' entail in Australia?",
-            "options": {
-                "A": "Criticising the government and peacefully protesting against decisions",
-                "B": "Speaking only in support of government policies",
-                "C": "Avoiding any political discussions"
-            },
-            "answer": "A",
-            "explanation": "Freedom of speech in Australia means people can say and write what they think, including criticising the government, and protest peacefully against government decisions."
-        },
-        {
-            "question": "What is the status of religion in relation to the government in Australia?",
-            "options": {
-                "A": "The government endorses a national religion",
-                "B": "Religious laws are above Australian laws",
-                "C": "The government is secular and operates separately from religious entities"
-            },
-            "answer": "C",
-            "explanation": "The government in Australia is secular, which means it operates separately from churches or other religious entities, and there is no official national religion."
-        },
-        {
-            "question": "What is the basis of respect in the Australian democratic system?",
-            "options": {
-                "A": "Wealth and social status",
-                "B": "Race and cultural heritage",
-                "C": "Dignity and equality under Australian law for all individuals"
-            },
-            "answer": "C",
-            "explanation": "Australia's democratic system is based on the principle that every individual has rights and equality under Australian law."
-        },
-        {
-            "question": "What does freedom of speech in Australia include?",
-            "options": {
-                "A": "The right to criticize the government and protest peacefully",
-                "B": "The ability to say anything without legal consequences",
-                "C": "Freedom to spread misinformation"
-            },
-            "answer": "A",
-            "explanation": "Freedom of speech includes the right to criticize the government, protest peacefully, and campaign to change laws while obeying Australian laws."
-        },
-        {
-            "question": "What is the role of Australian citizens in shaping government laws and policies?",
-            "options": {
-                "A": "They have no role",
-                "B": "They can only participate during elections",
-                "C": "They can contact representatives to suggest changes to laws and policies"
-            },
-            "answer": "C",
-            "explanation": "Australian citizens can have a say in forming the laws and policies of a government."
-        },
-        {
-            "question": "Before 1901, what was Australia comprised of?",
-            "options": {
-                "A": "A single unified nation",
-                "B": "Six separate self-governing British colonies",
-                "C": "Independent city-states"
-            },
-            "answer": "B",
-            "explanation": "Before 1901, Australia consisted of six separate self-governing British colonies."
-        },
-        {
-            "question": "What issues did the separate colonies in Australia face before federation?",
-            "options": {
-                "A": "Economic prosperity and strong defense",
-                "B": "Difficulties in trade, transport, and law enforcement",
-                "C": "Cultural and language barriers"
-            },
-            "answer": "B",
-            "explanation": "The colonies faced difficulties with trade, transport, and enforcing the law across borders, along with weak systems of defense."
-        },
-        {
-            "question": "What significant change occurred in Australia on 1 January 1901?",
-            "options": {
-                "A": "Adoption of the Australian Constitution",
-                "B": "Declaration of independence from Britain",
-                "C": "Unification into the Commonwealth of Australia"
-            },
-            "answer": "C",
-            "explanation": "On 1 January 1901, the colonies were united into a federation called the Commonwealth of Australia."
-        },
-        {
-            "question": "What is the Commonwealth of Australia Constitution Act 1900?",
-            "options": {
-                "A": "An agreement between Australian colonies",
-                "B": "A British Act of Parliament",
-                "C": "Australia's declaration of independence"
-            },
-            "answer": "B",
-            "explanation": "The Commonwealth of Australia Constitution Act 1900 is a British Act of Parliament that established the Australian Constitution."
-        },
-        {
-            "question": "What is included in the citizenship pledge made by Australian citizens?",
-            "options": {
-                "A": "Pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
-                "B": "Committing to follow only the laws of the state of residence within Australia",
-                "C": "Pledging to adopt Australian cultural practices exclusively"
-            },
-            "answer": "A",
-            "explanation": "The citizenship pledge includes pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
-            "isAuValue": true
-        },
-        {
-            "question": "What type of government system does Australia have?",
-            "options": {
-                "A": "Presidential democracy",
-                "B": "Parliamentary democracy",
-                "C": "Dictatorship"
-            },
-            "answer": "B",
-            "explanation": "Australia’s system of government is a parliamentary democracy.",
-            "isAuValue": true
-        },
-        {
-            "question": "Which types of organizations can Australians freely join?",
-            "options": {
-                "A": "Only government-approved organizations",
-                "B": "Any legal organization, including political parties and trade unions",
-                "C": "Only non-political organizations"
-            },
-            "answer": "B",
-            "explanation": "Australians can freely join any legal organization, such as a political party, trade union, religious, cultural, or social group.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is required for a protest to be lawful in Australia?",
-            "options": {
-                "A": "It must be approved by the local government",
-                "B": "It must be peaceful and not injure any person or damage property",
-                "C": "It must be held in designated areas only"
-            },
-            "answer": "B",
-            "explanation": "For a protest to be lawful in Australia, it must be peaceful and must not injure any person or damage property.",
-            "isAuValue": true
-        },
-        {
-            "question": "Is religious intolerance acceptable in Australian society?",
-            "options": {
-                "A": "Yes, it is part of freedom of expression",
-                "B": "No, it is not acceptable",
-                "C": "Only in private settings"
-            },
-            "answer": "B",
-            "explanation": "Religious intolerance is not acceptable in Australian society. All people should have equal opportunity to pursue their goals and interests, regardless of their religion, as long as they obey Australian law.",
-            "isAuValue": true
-        }
-    ]
+  "results": [
+    {
+      "question": "Who are the original inhabitants of the land in Australia?",
+      "options": {
+        "A": "The British settlers",
+        "B": "The Aboriginal and Torres Strait Islander peoples",
+        "C": "European explorers"
+      },
+      "answer": "B",
+      "explanation": "The Aboriginal and Torres Strait Islander peoples are the original inhabitants of the land in Australia",
+      "uuid": "aa817f72-0768-499b-8834-e7d31d2eacd9"
+    },
+    {
+      "question": "What percentage of the Australian population do the Aboriginal and Torres Strait Islander peoples make up?",
+      "options": {
+        "A": "Approximately 10%",
+        "B": "Approximately 3%",
+        "C": "Approximately 15%"
+      },
+      "answer": "B",
+      "explanation": "The Aboriginal and Torres Strait Islander peoples of Australia make up approximately three per cent of the Australian population.",
+      "uuid": "1b181fca-f798-4ee0-9156-aa5b94210af3"
+    },
+    {
+      "question": "Which statement best describes the connection of the Aboriginal and Torres Strait Islander peoples with the land?",
+      "options": {
+        "A": "They have a deep connection with the land, expressed in stories, art, and dance",
+        "B": "They have a formal legal relationship with the land",
+        "C": "They view the land primarily as a resource for economic activities"
+      },
+      "answer": "A",
+      "explanation": "Aboriginal and Torres Strait Islander peoples have a deep connection with the land which is expressed in their stories, art, and dance.",
+      "uuid": "096f5bd6-f97c-49fc-a75f-816167f485ba"
+    },
+    {
+      "question": "What do the colors of the Australian Aboriginal Flag represent?",
+      "options": {
+        "A": "Black for the people, red for the earth, yellow for the sun",
+        "B": "Green for the land, blue for the sea, white for peace",
+        "C": "Red for the desert, white for the sky, black for the night"
+      },
+      "answer": "A",
+      "explanation": "The Australian Aboriginal Flag is black, red, and yellow. The top half is black and represents the Aboriginal peoples of Australia. The bottom half is red and represents the earth. The yellow circle represents the sun.",
+      "uuid": "f39c7eb9-577a-468f-b505-5c42c6f39efd"
+    },
+    {
+      "question": "What is a \u0027Welcome to Country\u0027 ceremony?",
+      "options": {
+        "A": "A ceremony to celebrate national holidays in Australia",
+        "B": "A cultural practice performed by a local Aboriginal or Torres Strait Islander custodian",
+        "C": "A formal government event to welcome foreign dignitaries"
+      },
+      "answer": "B",
+      "explanation": "A Welcome to Country is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian of the local region welcoming visitors to their traditional land.",
+      "uuid": "72d5f153-a911-4112-b691-b92e0701be8d"
+    },
+    {
+      "question": "What is Australia\u0027s stance on achieving change?",
+      "options": {
+        "A": "Change should occur through violent actions if necessary",
+        "B": "Change should occur through discussion, peaceful persuasion, and the democratic process",
+        "C": "Change is not encouraged or supported"
+      },
+      "answer": "B",
+      "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process.",
+      "uuid": "a7cf2e9a-6668-43d0-8600-7f3c1775f368"
+    },
+    {
+      "question": "What does \u0027freedom of speech\u0027 entail in Australia?",
+      "options": {
+        "A": "Criticising the government and peacefully protesting against decisions",
+        "B": "Speaking only in support of government policies",
+        "C": "Avoiding any political discussions"
+      },
+      "answer": "A",
+      "explanation": "Freedom of speech in Australia means people can say and write what they think, including criticising the government, and protest peacefully against government decisions.",
+      "uuid": "d465c4a8-b7a5-48ef-be17-c54d8c274023"
+    },
+    {
+      "question": "What is the status of religion in relation to the government in Australia?",
+      "options": {
+        "A": "The government endorses a national religion",
+        "B": "Religious laws are above Australian laws",
+        "C": "The government is secular and operates separately from religious entities"
+      },
+      "answer": "C",
+      "explanation": "The government in Australia is secular, which means it operates separately from churches or other religious entities, and there is no official national religion.",
+      "uuid": "36337b6b-b94a-4086-859d-bb6dbc1585a8"
+    },
+    {
+      "question": "What is the basis of respect in the Australian democratic system?",
+      "options": {
+        "A": "Wealth and social status",
+        "B": "Race and cultural heritage",
+        "C": "Dignity and equality under Australian law for all individuals"
+      },
+      "answer": "C",
+      "explanation": "Australia\u0027s democratic system is based on the principle that every individual has rights and equality under Australian law.",
+      "uuid": "bd194fb0-d2d3-4975-bf8e-c9ec9c62dcb1"
+    },
+    {
+      "question": "What does freedom of speech in Australia include?",
+      "options": {
+        "A": "The right to criticize the government and protest peacefully",
+        "B": "The ability to say anything without legal consequences",
+        "C": "Freedom to spread misinformation"
+      },
+      "answer": "A",
+      "explanation": "Freedom of speech includes the right to criticize the government, protest peacefully, and campaign to change laws while obeying Australian laws.",
+      "uuid": "6cf62aa5-888a-4f67-9d02-e13d6b3768cb"
+    },
+    {
+      "question": "What is the role of Australian citizens in shaping government laws and policies?",
+      "options": {
+        "A": "They have no role",
+        "B": "They can only participate during elections",
+        "C": "They can contact representatives to suggest changes to laws and policies"
+      },
+      "answer": "C",
+      "explanation": "Australian citizens can have a say in forming the laws and policies of a government.",
+      "uuid": "73401585-df42-479d-978f-5abbd724eae3"
+    },
+    {
+      "question": "Before 1901, what was Australia comprised of?",
+      "options": {
+        "A": "A single unified nation",
+        "B": "Six separate self-governing British colonies",
+        "C": "Independent city-states"
+      },
+      "answer": "B",
+      "explanation": "Before 1901, Australia consisted of six separate self-governing British colonies.",
+      "uuid": "6f8dd5b5-28cd-4a7e-b590-eeec4107d12a"
+    },
+    {
+      "question": "What issues did the separate colonies in Australia face before federation?",
+      "options": {
+        "A": "Economic prosperity and strong defense",
+        "B": "Difficulties in trade, transport, and law enforcement",
+        "C": "Cultural and language barriers"
+      },
+      "answer": "B",
+      "explanation": "The colonies faced difficulties with trade, transport, and enforcing the law across borders, along with weak systems of defense.",
+      "uuid": "00f4a169-09a7-42b1-9fa6-9057c548174e"
+    },
+    {
+      "question": "What significant change occurred in Australia on 1 January 1901?",
+      "options": {
+        "A": "Adoption of the Australian Constitution",
+        "B": "Declaration of independence from Britain",
+        "C": "Unification into the Commonwealth of Australia"
+      },
+      "answer": "C",
+      "explanation": "On 1 January 1901, the colonies were united into a federation called the Commonwealth of Australia.",
+      "uuid": "d0b38f83-910c-4030-8ef7-4fc27bd3c843"
+    },
+    {
+      "question": "What is the Commonwealth of Australia Constitution Act 1900?",
+      "options": {
+        "A": "An agreement between Australian colonies",
+        "B": "A British Act of Parliament",
+        "C": "Australia\u0027s declaration of independence"
+      },
+      "answer": "B",
+      "explanation": "The Commonwealth of Australia Constitution Act 1900 is a British Act of Parliament that established the Australian Constitution.",
+      "uuid": "459275bb-7904-4a3a-a5df-170996013b5a"
+    },
+    {
+      "question": "What is included in the citizenship pledge made by Australian citizens?",
+      "options": {
+        "A": "Pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
+        "B": "Committing to follow only the laws of the state of residence within Australia",
+        "C": "Pledging to adopt Australian cultural practices exclusively"
+      },
+      "answer": "A",
+      "explanation": "The citizenship pledge includes pledging loyalty to Australia and its people, sharing democratic beliefs, respecting rights and liberties, and upholding Australian laws",
+      "isAuValue": true,
+      "uuid": "2a92da07-1f4d-4d1e-a35b-e58c218fa0de"
+    },
+    {
+      "question": "What type of government system does Australia have?",
+      "options": {
+        "A": "Presidential democracy",
+        "B": "Parliamentary democracy",
+        "C": "Dictatorship"
+      },
+      "answer": "B",
+      "explanation": "Australia’s system of government is a parliamentary democracy.",
+      "isAuValue": true,
+      "uuid": "6ff4e154-0211-4239-ac28-c0cfa4a8d9d9"
+    },
+    {
+      "question": "Which types of organizations can Australians freely join?",
+      "options": {
+        "A": "Only government-approved organizations",
+        "B": "Any legal organization, including political parties and trade unions",
+        "C": "Only non-political organizations"
+      },
+      "answer": "B",
+      "explanation": "Australians can freely join any legal organization, such as a political party, trade union, religious, cultural, or social group.",
+      "isAuValue": true,
+      "uuid": "e06b426b-e355-4776-bfe3-a9a4c622e2c8"
+    },
+    {
+      "question": "What is required for a protest to be lawful in Australia?",
+      "options": {
+        "A": "It must be approved by the local government",
+        "B": "It must be peaceful and not injure any person or damage property",
+        "C": "It must be held in designated areas only"
+      },
+      "answer": "B",
+      "explanation": "For a protest to be lawful in Australia, it must be peaceful and must not injure any person or damage property.",
+      "isAuValue": true,
+      "uuid": "a3d8f03e-2df6-4ef9-8dfb-61cee13b7cb8"
+    },
+    {
+      "question": "Is religious intolerance acceptable in Australian society?",
+      "options": {
+        "A": "Yes, it is part of freedom of expression",
+        "B": "No, it is not acceptable",
+        "C": "Only in private settings"
+      },
+      "answer": "B",
+      "explanation": "Religious intolerance is not acceptable in Australian society. All people should have equal opportunity to pursue their goals and interests, regardless of their religion, as long as they obey Australian law.",
+      "isAuValue": true,
+      "uuid": "35a9ece9-45af-414a-82c9-adf462ad519f"
+    }
+  ]
 }

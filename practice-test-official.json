@@ -1,209 +1,229 @@
 {
-    "results": [
-        {
-            "question": "What do we commemorate on Anzac Day?",
-            "options": {
-                "A": "The landing of the Australian and New Zealand Army Corps at Gallipoli, Türkiye during World War I",
-                "B": "The arrival of the first free settlers from Great Britain",
-                "C": "The landing of the First Fleet at Sydney Cove"
-            },
-            "answer": "A",
-            "explanation": "Anzac Day commemorates the landing of the Australian and New Zealand Army Corps (ANZAC) at Gallipoli, Türkiye during World War I."
-        },
-        {
-            "question": "What are the colours of the Australian Aboriginal Flag?",
-            "options": {
-                "A": "Black, red and yellow",
-                "B": "Green, white and black",
-                "C": "Blue, white and green"
-            },
-            "answer": "A",
-            "explanation": "The Australian Aboriginal Flag features the colours black, red, and yellow."
-        },
-        {
-            "question": "What is the Commonwealth Coat of Arms?",
-            "options": {
-                "A": "The national anthem",
-                "B": "Australia’s national flower",
-                "C": "The official symbol of Australia, which identifies Commonwealth property"
-            },
-            "answer": "C",
-            "explanation": "The Commonwealth Coat of Arms is the official symbol of Australia, identifying Commonwealth property."
-        },
-        {
-            "question": "What happened in Australia on 1 January 1901?",
-            "options": {
-                "A": "The Australian Constitution was changed by a referendum",
-                "B": "The separate colonies were united into a federation of states called the Commonwealth of Australia",
-                "C": "The Australian and New Zealand Army Corps was formed"
-            },
-            "answer": "B",
-            "explanation": "On 1 January 1901, the separate colonies of Australia were united into a federation of states called the Commonwealth of Australia."
-        },
-        {
-            "question": "What is the capital city of Australia?",
-            "options": {
-                "A": "Brisbane",
-                "B": "Canberra",
-                "C": "Perth"
-            },
-            "answer": "B",
-            "explanation": "The capital city of Australia is Canberra."
-        },
-        {
-            "question": "Which of these is an example of freedom of speech?",
-            "options": {
-                "A": "People can peacefully protest against a government action",
-                "B": "Men and women are treated equally in a court of law",
-                "C": "Australians are free to not follow a religion"
-            },
-            "answer": "A",
-            "explanation": "Freedom of speech includes the right to peacefully protest against government actions, reflecting the ability to express opinions and disagreements."
-        },
-        {
-            "question": "Which of these statements about government in Australia is correct?",
-            "options": {
-                "A": "The government does not allow some religions",
-                "B": "The government in Australia is secular",
-                "C": "Religious laws are passed by Parliament"
-            },
-            "answer": "B",
-            "explanation": "The government in Australia is secular, meaning it operates independently of religious organizations and does not promote any one religion."
-        },
-        {
-            "question": "Which of these is an example of equality in Australia?",
-            "options": {
-                "A": "Everyone follows the same religion",
-                "B": "Men and women have equal rights",
-                "C": "Everyone belongs to the same political party"
-            },
-            "answer": "B",
-            "explanation": "In Australia, equality is exemplified by the equal rights shared by men and women, in accordance with the principles of fairness and nondiscrimination."
-        },
-        {
-            "question": "Which of these is a responsibility of Australian citizens aged 18 years or over?",
-            "options": {
-                "A": "To attend local council meetings",
-                "B": "To vote in federal and state or territory elections, and in a referendum",
-                "C": "To have a current Australian passport"
-            },
-            "answer": "B",
-            "explanation": "Australian citizens aged 18 years or over have the responsibility to vote in federal and state or territory elections, as well as in referendums, as part of their civic duties."
-        },
-        {
-            "question": "Which of these statements about passports is correct?",
-            "options": {
-                "A": "Australian citizens can apply for an Australian passport",
-                "B": "Permanent residents can hold an Australian passport",
-                "C": "Australian citizens need a passport and visa to return to Australia"
-            },
-            "answer": "A",
-            "explanation": "Australian citizens are eligible to apply for an Australian passport, which is a key document for international travel and proof of citizenship."
-        },
-        {
-            "question": "Which of these statements about voting in Australian elections is correct?",
-            "options": {
-                "A": "People are free and safe to vote for any candidate",
-                "B": "Voting is by a show of hands",
-                "C": "People must write their name on their vote"
-            },
-            "answer": "A",
-            "explanation": "In Australian elections, people are free and safe to vote for any candidate, ensuring a democratic and confidential voting process."
-        },
-        {
-            "question": "What is the name of the legal document that sets out the basic rules for the government of Australia?",
-            "options": {
-                "A": "The Australian Federation",
-                "B": "The Australian Commonwealth",
-                "C": "The Australian Constitution"
-            },
-            "answer": "C",
-            "explanation": "The Australian Constitution is the legal document that outlines the basic rules for the government of Australia."
-        },
-        {
-            "question": "What is a referendum?",
-            "options": {
-                "A": "A vote to change the government",
-                "B": "A vote to change the Australian Constitution",
-                "C": "A vote to change the Prime Minister"
-            },
-            "answer": "B",
-            "explanation": "A referendum in Australia is a vote to change the Australian Constitution."
-        },
-        {
-            "question": "Which arm of government has the power to interpret and apply laws?",
-            "options": {
-                "A": "Legislative",
-                "B": "Executive",
-                "C": "Judicial"
-            },
-            "answer": "C",
-            "explanation": "The Judicial branch of government has the power to interpret and apply laws."
-        },
-        {
-            "question": "Which of these is a role of the Governor-General?",
-            "options": {
-                "A": "The appointment of state premiers",
-                "B": "Signing all Bills passed by the Australian Parliament into law",
-                "C": "The appointment of the Head of State"
-            },
-            "answer": "B",
-            "explanation": "One of the roles of the Governor-General is to sign all Bills passed by the Australian Parliament into law."
-        },
-        {
-            "question": "Which of these statements best demonstrates Australian values about freedom of expression?",
-            "options": {
-                "A": "Everyone can peacefully express their opinions within the law",
-                "B": "People with different views from me need to keep quiet",
-                "C": "Only approved topics can be discussed"
-            },
-            "answer": "A",
-            "explanation": "Australian values support the freedom of expression, allowing everyone to peacefully express their opinions within the boundaries of the law.",
-            "isAuValue": true
-        },
-        {
-            "question": "Should people in Australia make an effort to learn English?",
-            "options": {
-                "A": "People in Australia should speak whichever language is most commonly spoken in their local neighbourhood",
-                "B": "There is no expectation to learn any particular language in Australia",
-                "C": "Yes, English is the national language of Australia and it helps to get an education, a job, and to integrate into the community"
-            },
-            "answer": "C",
-            "explanation": "In Australia, there is an expectation for people to learn English, as it is the national language and facilitates education, employment, and community integration.",
-            "isAuValue": true
-        },
-        {
-            "question": "In Australia, can you encourage violence against a person or group of people if you have been insulted?",
-            "options": {
-                "A": "Yes, if you do not intend to carry out the violence",
-                "B": "No, it is against Australian values and the law",
-                "C": "Sometimes, if I feel very offended"
-            },
-            "answer": "B",
-            "explanation": "Encouraging violence against others, even if insulted, is against Australian values and the law.",
-            "isAuValue": true
-        },
-        {
-            "question": "Should people tolerate one another where they find that they disagree?",
-            "options": {
-                "A": "It is against the law to disagree with one another",
-                "B": "No, people only need to treat each other with respect if they agree with one another",
-                "C": "Yes, peaceful disagreement reflects Australian values in relation to mutual respect"
-            },
-            "answer": "C",
-            "explanation": "Australian values encourage tolerance and mutual respect, even in cases of disagreement.",
-            "isAuValue": true
-        },
-        {
-            "question": "Which of the following is an example of contributing to the Australian community?",
-            "options": {
-                "A": "Volunteering or fundraising for a charity is a great opportunity to strengthen our community",
-                "B": "I should not make any effort to get to know other people",
-                "C": "People in Australia should not contribute to the community because Australia is a free country"
-            },
-            "answer": "A",
-            "explanation": "Contributing to the Australian community can be exemplified by volunteering or fundraising for a charity, as these actions help to strengthen community bonds.",
-            "isAuValue": true
-        }
-    ]
+  "result": [
+    {
+      "question": "What do we commemorate on Anzac Day?",
+      "options": {
+        "A": "The landing of the Australian and New Zealand Army Corps at Gallipoli, Türkiye during World War I",
+        "B": "The arrival of the first free settlers from Great Britain",
+        "C": "The landing of the First Fleet at Sydney Cove"
+      },
+      "answer": "A",
+      "explanation": "Anzac Day commemorates the landing of the Australian and New Zealand Army Corps (ANZAC) at Gallipoli, Türkiye during World War I.",
+      "uuid": "68a31428-0b45-430f-a07f-c739c1a7eb4b"
+    },
+    {
+      "question": "What are the colours of the Australian Aboriginal Flag?",
+      "options": {
+        "A": "Black, red and yellow",
+        "B": "Green, white and black",
+        "C": "Blue, white and green"
+      },
+      "answer": "A",
+      "explanation": "The Australian Aboriginal Flag features the colours black, red, and yellow.",
+      "uuid": "f85153ba-7e91-44a4-8cea-21d7ae1190ff"
+    },
+    {
+      "question": "What is the Commonwealth Coat of Arms?",
+      "options": {
+        "A": "The national anthem",
+        "B": "Australia’s national flower",
+        "C": "The official symbol of Australia, which identifies Commonwealth property"
+      },
+      "answer": "C",
+      "explanation": "The Commonwealth Coat of Arms is the official symbol of Australia, identifying Commonwealth property.",
+      "uuid": "12c5584f-ae00-4c36-b889-62ffde7444b4"
+    },
+    {
+      "question": "What happened in Australia on 1 January 1901?",
+      "options": {
+        "A": "The Australian Constitution was changed by a referendum",
+        "B": "The separate colonies were united into a federation of states called the Commonwealth of Australia",
+        "C": "The Australian and New Zealand Army Corps was formed"
+      },
+      "answer": "B",
+      "explanation": "On 1 January 1901, the separate colonies of Australia were united into a federation of states called the Commonwealth of Australia.",
+      "uuid": "0acdbca0-e76f-433c-b43a-b5916bda9912"
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "options": {
+        "A": "Brisbane",
+        "B": "Canberra",
+        "C": "Perth"
+      },
+      "answer": "B",
+      "explanation": "The capital city of Australia is Canberra.",
+      "uuid": "d3a7f796-6976-40a6-a619-c61329ca930d"
+    },
+    {
+      "question": "Which of these is an example of freedom of speech?",
+      "options": {
+        "A": "People can peacefully protest against a government action",
+        "B": "Men and women are treated equally in a court of law",
+        "C": "Australians are free to not follow a religion"
+      },
+      "answer": "A",
+      "explanation": "Freedom of speech includes the right to peacefully protest against government actions, reflecting the ability to express opinions and disagreements.",
+      "uuid": "6da24a40-985f-4646-bd95-cf5f3b79404d"
+    },
+    {
+      "question": "Which of these statements about government in Australia is correct?",
+      "options": {
+        "A": "The government does not allow some religions",
+        "B": "The government in Australia is secular",
+        "C": "Religious laws are passed by Parliament"
+      },
+      "answer": "B",
+      "explanation": "The government in Australia is secular, meaning it operates independently of religious organizations and does not promote any one religion.",
+      "uuid": "ad0f6925-0417-4456-b15e-0bba7a2c6d4f"
+    },
+    {
+      "question": "Which of these is an example of equality in Australia?",
+      "options": {
+        "A": "Everyone follows the same religion",
+        "B": "Men and women have equal rights",
+        "C": "Everyone belongs to the same political party"
+      },
+      "answer": "B",
+      "explanation": "In Australia, equality is exemplified by the equal rights shared by men and women, in accordance with the principles of fairness and nondiscrimination.",
+      "uuid": "998f75cb-9c3a-434d-b6ff-3c68a5e3f957"
+    },
+    {
+      "question": "Which of these is a responsibility of Australian citizens aged 18 years or over?",
+      "options": {
+        "A": "To attend local council meetings",
+        "B": "To vote in federal and state or territory elections, and in a referendum",
+        "C": "To have a current Australian passport"
+      },
+      "answer": "B",
+      "explanation": "Australian citizens aged 18 years or over have the responsibility to vote in federal and state or territory elections, as well as in referendums, as part of their civic duties.",
+      "uuid": "a1914ee9-ef46-4382-909d-49c8052a7c58"
+    },
+    {
+      "question": "Which of these statements about passports is correct?",
+      "options": {
+        "A": "Australian citizens can apply for an Australian passport",
+        "B": "Permanent residents can hold an Australian passport",
+        "C": "Australian citizens need a passport and visa to return to Australia"
+      },
+      "answer": "A",
+      "explanation": "Australian citizens are eligible to apply for an Australian passport, which is a key document for international travel and proof of citizenship.",
+      "uuid": "f79b6a21-c508-49e0-8aab-8b7704754273"
+    },
+    {
+      "question": "Which of these statements about voting in Australian elections is correct?",
+      "options": {
+        "A": "People are free and safe to vote for any candidate",
+        "B": "Voting is by a show of hands",
+        "C": "People must write their name on their vote"
+      },
+      "answer": "A",
+      "explanation": "In Australian elections, people are free and safe to vote for any candidate, ensuring a democratic and confidential voting process.",
+      "uuid": "597e76f5-889e-49a6-94d2-7010c58694b5"
+    },
+    {
+      "question": "What is the name of the legal document that sets out the basic rules for the government of Australia?",
+      "options": {
+        "A": "The Australian Federation",
+        "B": "The Australian Commonwealth",
+        "C": "The Australian Constitution"
+      },
+      "answer": "C",
+      "explanation": "The Australian Constitution is the legal document that outlines the basic rules for the government of Australia.",
+      "uuid": "ff0cb0dc-08af-488c-926a-db51ce5be7e0"
+    },
+    {
+      "question": "What is a referendum?",
+      "options": {
+        "A": "A vote to change the government",
+        "B": "A vote to change the Australian Constitution",
+        "C": "A vote to change the Prime Minister"
+      },
+      "answer": "B",
+      "explanation": "A referendum in Australia is a vote to change the Australian Constitution.",
+      "uuid": "78768515-061c-4039-ae81-deb1f3d61d9c"
+    },
+    {
+      "question": "Which arm of government has the power to interpret and apply laws?",
+      "options": {
+        "A": "Legislative",
+        "B": "Executive",
+        "C": "Judicial"
+      },
+      "answer": "C",
+      "explanation": "The Judicial branch of government has the power to interpret and apply laws.",
+      "uuid": "278e1a71-3c88-4edb-8386-7b1f3840623c"
+    },
+    {
+      "question": "Which of these is a role of the Governor-General?",
+      "options": {
+        "A": "The appointment of state premiers",
+        "B": "Signing all Bills passed by the Australian Parliament into law",
+        "C": "The appointment of the Head of State"
+      },
+      "answer": "B",
+      "explanation": "One of the roles of the Governor-General is to sign all Bills passed by the Australian Parliament into law.",
+      "uuid": "dff614e4-e3f7-4f06-a7ca-92c6dc0645c2"
+    },
+    {
+      "question": "Which of these statements best demonstrates Australian values about freedom of expression?",
+      "options": {
+        "A": "Everyone can peacefully express their opinions within the law",
+        "B": "People with different views from me need to keep quiet",
+        "C": "Only approved topics can be discussed"
+      },
+      "answer": "A",
+      "explanation": "Australian values support the freedom of expression, allowing everyone to peacefully express their opinions within the boundaries of the law.",
+      "isAuValue": true,
+      "uuid": "dd5b5140-0e7c-4123-bee0-0e1c0f247cd6"
+    },
+    {
+      "question": "Should people in Australia make an effort to learn English?",
+      "options": {
+        "A": "People in Australia should speak whichever language is most commonly spoken in their local neighbourhood",
+        "B": "There is no expectation to learn any particular language in Australia",
+        "C": "Yes, English is the national language of Australia and it helps to get an education, a job, and to integrate into the community"
+      },
+      "answer": "C",
+      "explanation": "In Australia, there is an expectation for people to learn English, as it is the national language and facilitates education, employment, and community integration.",
+      "isAuValue": true,
+      "uuid": "4908c84b-dc4f-443d-a300-4e0f68ef27eb"
+    },
+    {
+      "question": "In Australia, can you encourage violence against a person or group of people if you have been insulted?",
+      "options": {
+        "A": "Yes, if you do not intend to carry out the violence",
+        "B": "No, it is against Australian values and the law",
+        "C": "Sometimes, if I feel very offended"
+      },
+      "answer": "B",
+      "explanation": "Encouraging violence against others, even if insulted, is against Australian values and the law.",
+      "isAuValue": true,
+      "uuid": "20a2e4dc-0457-4ef2-bc11-59cf7f920abc"
+    },
+    {
+      "question": "Should people tolerate one another where they find that they disagree?",
+      "options": {
+        "A": "It is against the law to disagree with one another",
+        "B": "No, people only need to treat each other with respect if they agree with one another",
+        "C": "Yes, peaceful disagreement reflects Australian values in relation to mutual respect"
+      },
+      "answer": "C",
+      "explanation": "Australian values encourage tolerance and mutual respect, even in cases of disagreement.",
+      "isAuValue": true,
+      "uuid": "658c4fb4-6883-4572-a7f7-55a3eec0b23c"
+    },
+    {
+      "question": "Which of the following is an example of contributing to the Australian community?",
+      "options": {
+        "A": "Volunteering or fundraising for a charity is a great opportunity to strengthen our community",
+        "B": "I should not make any effort to get to know other people",
+        "C": "People in Australia should not contribute to the community because Australia is a free country"
+      },
+      "answer": "A",
+      "explanation": "Contributing to the Australian community can be exemplified by volunteering or fundraising for a charity, as these actions help to strengthen community bonds.",
+      "isAuValue": true,
+      "uuid": "0593aad6-edb4-4ddb-a95c-28041411b800"
+    }
+  ]
 }

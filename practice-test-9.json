@@ -1,209 +1,229 @@
 {
-    "results": [
-        {
-            "question": "Which animals are depicted as supporting the shield in the Commonwealth Coat of Arms?",
-            "options": {
-                "A": "A kangaroo and a koala",
-                "B": "A kangaroo and an emu",
-                "C": "An emu and a platypus"
-            },
-            "answer": "B",
-            "explanation": "In the Commonwealth Coat of Arms, a kangaroo and an emu support the shield on each side."
-        },
-        {
-            "question": "What are Australia's national colours?",
-            "options": {
-                "A": "Red and White",
-                "B": "Green and Gold",
-                "C": "Blue and Yellow"
-            },
-            "answer": "B",
-            "explanation": "Australia's national colours are green and gold, the colours of the Golden Wattle&#8203;``【oaicite:1】``&#8203;."
-        },
-        {
-            "question": "What is Australia's national gemstone?",
-            "options": {
-                "A": "Diamond",
-                "B": "Sapphire",
-                "C": "Opal"
-            },
-            "answer": "C",
-            "explanation": "The opal is Australia's national gemstone&#8203;``【oaicite:0】``&#8203;."
-        },
-        {
-            "question": "Which group was the first large group of migrants not from Europe to arrive in Australia during the gold rush?",
-            "options": {
-                "A": "Chinese",
-                "B": "Indian",
-                "C": "African"
-            },
-            "answer": "A",
-            "explanation": "During the gold rush, which began in 1851, Chinese people arriving were the first large group of migrants not from Europe."
-        },
-        {
-            "question": "Which state was the first colony established by the British in Australia?",
-            "options": {
-                "A": "Victoria",
-                "B": "Queensland",
-                "C": "New South Wales"
-            },
-            "answer": "C",
-            "explanation": "New South Wales was the first colony established by the British in Australia."
-        },
-        {
-            "question": "What is a privilege related to Australian citizenship and employment?",
-            "options": {
-                "A": "Guaranteed employment in the government sector",
-                "B": "Opportunity to apply for jobs in the Australian Public Service",
-                "C": "Priority in job applications"
-            },
-            "answer": "B",
-            "explanation": "Australian citizens have the privilege to apply for a job in the Australian Public Service."
-        },
-        {
-            "question": "Can Australian citizens participate in the political process by running for office?",
-            "options": {
-                "A": "Yes, but only in local government",
-                "B": "Yes, in parliament at the federal, state or territory level",
-                "C": "No, they are only allowed to vote"
-            },
-            "answer": "B",
-            "explanation": "Australian citizens can seek election to parliament at the federal, state or territory level."
-        },
-        {
-            "question": "What travel-related privilege do Australian citizens have?",
-            "options": {
-                "A": "Access to fast-track visa processing globally",
-                "B": "Freedom to travel without a visa",
-                "C": "Applying for an Australian passport and traveling freely"
-            },
-            "answer": "C",
-            "explanation": "Australian citizens have the privilege to apply for an Australian passport and travel freely."
-        },
-        {
-            "question": "What is emphasized for those choosing to become Australian citizens in terms of community involvement?",
-            "options": {
-                "A": "Commitment to living out Australian values in everyday life",
-                "B": "Focusing only on personal and family interests",
-                "C": "Avoiding participation in local community activities"
-            },
-            "answer": "A",
-            "explanation": "Becoming an Australian citizen means making an ongoing commitment to Australia and our shared values, and participating fully as a citizen in the community."
-        },
-        {
-            "question": "How did multicultural communities contribute during Australia's bushfire season of 2019-20?",
-            "options": {
-                "A": "By staying passive and not participating",
-                "B": "By working to collect money, clothes, and food donations",
-                "C": "By only providing moral support"
-            },
-            "answer": "B",
-            "explanation": "During the devastating bushfire season of 2019-20, multicultural communities in Australia actively participated by collecting money, clothes, and food donations to help those affected."
-        },
-        {
-            "question": "What is the role of the Governor-General in Australia?",
-            "options": {
-                "A": "Leader of the Australian Government",
-                "B": "Representative of the Head of State in Australia",
-                "C": "Leader of a state government"
-            },
-            "answer": "B",
-            "explanation": "The Governor-General is the representative of the Head of State in Australia."
-        },
-        {
-            "question": "Who is the leader of the Australian Government?",
-            "options": {
-                "A": "The Governor",
-                "B": "The Prime Minister",
-                "C": "The King of Australia"
-            },
-            "answer": "B",
-            "explanation": "The leader of the Australian Government is the Prime Minister."
-        },
-        {
-            "question": "What is the role of a Premier in Australia?",
-            "options": {
-                "A": "Leader of the Australian Government",
-                "B": "Leader of a territory government",
-                "C": "Leader of a state government"
-            },
-            "answer": "C",
-            "explanation": "A Premier is the leader of a state government in Australia."
-        },
-        {
-            "question": "Who are Senators in the Australian Parliament?",
-            "options": {
-                "A": "Representatives of the Head of State",
-                "B": "Elected representatives of a state or territory",
-                "C": "Members chosen by the Prime Minister"
-            },
-            "answer": "B",
-            "explanation": "Senators are elected representatives of a state or territory in the Australian Parliament."
-        },
-        {
-            "question": "What are the two Houses of the Australian Parliament?",
-            "options": {
-                "A": "The House of Representatives and the Senate",
-                "B": "The Senate and the House of Commons",
-                "C": "The House of Representatives and the House of Lords"
-            },
-            "answer": "A",
-            "explanation": "The Australian Parliament consists of two Houses: the House of Representatives and the Senate."
-        },
-        {
-            "question": "Can individuals in Australia be compelled to join an organization?",
-            "options": {
-                "A": "Yes, in certain circumstances",
-                "B": "No, individuals cannot be compelled to join or forced to leave an organization",
-                "C": "Only for government organizations"
-            },
-            "answer": "B",
-            "explanation": "In Australia, individuals cannot be compelled to join an organization or forced to leave it.",
-            "isAuValue": true
-        },
-        {
-            "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
-            "options": {
-                "A": "Confront the individual directly",
-                "B": "Report the suspicion to Australian government authorities",
-                "C": "Ignore the suspicion to avoid conflict"
-            },
-            "answer": "B",
-            "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety.",
-            "isAuValue": true
-        },
-        {
-            "question": "Can Australian citizens hold citizenship of another country?",
-            "options": {
-                "A": "No, it's not allowed",
-                "B": "Yes, if the laws of the other countries allow, known as dual citizenship",
-                "C": "Only if they are born in the other country"
-            },
-            "answer": "B",
-            "explanation": "Australian citizens may hold the citizenship of another country or countries (dual citizenship) if the laws of those countries allow.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is Australia's stance on racism?",
-            "options": {
-                "A": "It is tolerated to a certain extent",
-                "B": "It has no place and includes actions like making racially offensive comments",
-                "C": "It is only addressed in extreme cases"
-            },
-            "answer": "B",
-            "explanation": "Racism has no place in Australia. This includes actions like creating or sharing racially offensive material or making racially abusive comments.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is the concept of 'mateship' in Australian society?",
-            "options": {
-                "A": "Forming close friendships with a few individuals",
-                "B": "Helping each other, especially in times of need",
-                "C": "Avoiding involvement in others' problems"
-            },
-            "answer": "B",
-            "explanation": "'Mateship' in Australia is about helping each other, especially in times of need, such as taking a meal to a neighbor or helping someone who is sick or lonely.",
-            "isAuValue": true
-        }
-    ]
+  "results": [
+    {
+      "question": "Which animals are depicted as supporting the shield in the Commonwealth Coat of Arms?",
+      "options": {
+        "A": "A kangaroo and a koala",
+        "B": "A kangaroo and an emu",
+        "C": "An emu and a platypus"
+      },
+      "answer": "B",
+      "explanation": "In the Commonwealth Coat of Arms, a kangaroo and an emu support the shield on each side.",
+      "uuid": "a4050ab6-1bf9-4078-9075-17893fe24cb6"
+    },
+    {
+      "question": "What are Australia\u0027s national colours?",
+      "options": {
+        "A": "Red and White",
+        "B": "Green and Gold",
+        "C": "Blue and Yellow"
+      },
+      "answer": "B",
+      "explanation": "Australia\u0027s national colours are green and gold, the colours of the Golden Wattle.",
+      "uuid": "3a4167bf-fbf5-4ede-8a7c-c95fea62e1d6"
+    },
+    {
+      "question": "What is Australia\u0027s national gemstone?",
+      "options": {
+        "A": "Diamond",
+        "B": "Sapphire",
+        "C": "Opal"
+      },
+      "answer": "C",
+      "explanation": "The opal is Australia\u0027s national gemstone.",
+      "uuid": "4e3ec7af-36f3-41eb-8065-85dd3ff0d7f3"
+    },
+    {
+      "question": "Which group was the first large group of migrants not from Europe to arrive in Australia during the gold rush?",
+      "options": {
+        "A": "Chinese",
+        "B": "Indian",
+        "C": "African"
+      },
+      "answer": "A",
+      "explanation": "During the gold rush, which began in 1851, Chinese people arriving were the first large group of migrants not from Europe.",
+      "uuid": "afa03f13-9c8d-4ef9-a08f-d6a5c8807f31"
+    },
+    {
+      "question": "Which state was the first colony established by the British in Australia?",
+      "options": {
+        "A": "Victoria",
+        "B": "Queensland",
+        "C": "New South Wales"
+      },
+      "answer": "C",
+      "explanation": "New South Wales was the first colony established by the British in Australia.",
+      "uuid": "d1ef8bed-770a-446d-afcd-adf8c2b1ee1b"
+    },
+    {
+      "question": "What is a privilege related to Australian citizenship and employment?",
+      "options": {
+        "A": "Guaranteed employment in the government sector",
+        "B": "Opportunity to apply for jobs in the Australian Public Service",
+        "C": "Priority in job applications"
+      },
+      "answer": "B",
+      "explanation": "Australian citizens have the privilege to apply for a job in the Australian Public Service.",
+      "uuid": "7ea39214-6cb5-4408-9868-59c3277f6c3d"
+    },
+    {
+      "question": "Can Australian citizens participate in the political process by running for office?",
+      "options": {
+        "A": "Yes, but only in local government",
+        "B": "Yes, in parliament at the federal, state or territory level",
+        "C": "No, they are only allowed to vote"
+      },
+      "answer": "B",
+      "explanation": "Australian citizens can seek election to parliament at the federal, state or territory level.",
+      "uuid": "c88affd1-df7f-462c-b0d3-296e24dc26d8"
+    },
+    {
+      "question": "What travel-related privilege do Australian citizens have?",
+      "options": {
+        "A": "Access to fast-track visa processing globally",
+        "B": "Freedom to travel without a visa",
+        "C": "Applying for an Australian passport and traveling freely"
+      },
+      "answer": "C",
+      "explanation": "Australian citizens have the privilege to apply for an Australian passport and travel freely.",
+      "uuid": "68b76983-7af5-401f-9bd9-c3586ed11633"
+    },
+    {
+      "question": "What is emphasized for those choosing to become Australian citizens in terms of community involvement?",
+      "options": {
+        "A": "Commitment to living out Australian values in everyday life",
+        "B": "Focusing only on personal and family interests",
+        "C": "Avoiding participation in local community activities"
+      },
+      "answer": "A",
+      "explanation": "Becoming an Australian citizen means making an ongoing commitment to Australia and our shared values, and participating fully as a citizen in the community.",
+      "uuid": "77dd2a2b-ab67-4ee8-ad5b-af3a6c3ba7f5"
+    },
+    {
+      "question": "How did multicultural communities contribute during Australia\u0027s bushfire season of 2019-20?",
+      "options": {
+        "A": "By staying passive and not participating",
+        "B": "By working to collect money, clothes, and food donations",
+        "C": "By only providing moral support"
+      },
+      "answer": "B",
+      "explanation": "During the devastating bushfire season of 2019-20, multicultural communities in Australia actively participated by collecting money, clothes, and food donations to help those affected.",
+      "uuid": "4accd3a3-2acf-4a5f-bbae-62cf8bf06a1f"
+    },
+    {
+      "question": "What is the role of the Governor-General in Australia?",
+      "options": {
+        "A": "Leader of the Australian Government",
+        "B": "Representative of the Head of State in Australia",
+        "C": "Leader of a state government"
+      },
+      "answer": "B",
+      "explanation": "The Governor-General is the representative of the Head of State in Australia.",
+      "uuid": "71b3ac64-fa17-4975-aa4b-c5135eb8423d"
+    },
+    {
+      "question": "Who is the leader of the Australian Government?",
+      "options": {
+        "A": "The Governor",
+        "B": "The Prime Minister",
+        "C": "The King of Australia"
+      },
+      "answer": "B",
+      "explanation": "The leader of the Australian Government is the Prime Minister.",
+      "uuid": "6855d563-4654-42f3-844d-45ec3cc4d29b"
+    },
+    {
+      "question": "What is the role of a Premier in Australia?",
+      "options": {
+        "A": "Leader of the Australian Government",
+        "B": "Leader of a territory government",
+        "C": "Leader of a state government"
+      },
+      "answer": "C",
+      "explanation": "A Premier is the leader of a state government in Australia.",
+      "uuid": "26376167-87d5-419f-b084-145ad38c2e94"
+    },
+    {
+      "question": "Who are Senators in the Australian Parliament?",
+      "options": {
+        "A": "Representatives of the Head of State",
+        "B": "Elected representatives of a state or territory",
+        "C": "Members chosen by the Prime Minister"
+      },
+      "answer": "B",
+      "explanation": "Senators are elected representatives of a state or territory in the Australian Parliament.",
+      "uuid": "8f6dfb1b-865b-41ac-bfe6-ca206c69c052"
+    },
+    {
+      "question": "What are the two Houses of the Australian Parliament?",
+      "options": {
+        "A": "The House of Representatives and the Senate",
+        "B": "The Senate and the House of Commons",
+        "C": "The House of Representatives and the House of Lords"
+      },
+      "answer": "A",
+      "explanation": "The Australian Parliament consists of two Houses: the House of Representatives and the Senate.",
+      "uuid": "e2e50108-a953-4c65-be7e-fb85de266713"
+    },
+    {
+      "question": "Can individuals in Australia be compelled to join an organization?",
+      "options": {
+        "A": "Yes, in certain circumstances",
+        "B": "No, individuals cannot be compelled to join or forced to leave an organization",
+        "C": "Only for government organizations"
+      },
+      "answer": "B",
+      "explanation": "In Australia, individuals cannot be compelled to join an organization or forced to leave it.",
+      "isAuValue": true,
+      "uuid": "d96aa84a-fab8-4513-9ed7-783a7e90e31a"
+    },
+    {
+      "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
+      "options": {
+        "A": "Confront the individual directly",
+        "B": "Report the suspicion to Australian government authorities",
+        "C": "Ignore the suspicion to avoid conflict"
+      },
+      "answer": "B",
+      "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety.",
+      "isAuValue": true,
+      "uuid": "b896a228-bf85-4993-94f1-fd7c97b9575f"
+    },
+    {
+      "question": "Can Australian citizens hold citizenship of another country?",
+      "options": {
+        "A": "No, it\u0027s not allowed",
+        "B": "Yes, if the laws of the other countries allow, known as dual citizenship",
+        "C": "Only if they are born in the other country"
+      },
+      "answer": "B",
+      "explanation": "Australian citizens may hold the citizenship of another country or countries (dual citizenship) if the laws of those countries allow.",
+      "isAuValue": true,
+      "uuid": "eeb9ac35-a451-4478-a5ae-c3025b9302e0"
+    },
+    {
+      "question": "What is Australia\u0027s stance on racism?",
+      "options": {
+        "A": "It is tolerated to a certain extent",
+        "B": "It has no place and includes actions like making racially offensive comments",
+        "C": "It is only addressed in extreme cases"
+      },
+      "answer": "B",
+      "explanation": "Racism has no place in Australia. This includes actions like creating or sharing racially offensive material or making racially abusive comments.",
+      "isAuValue": true,
+      "uuid": "cf65d529-7ba3-41f6-bd84-185bd96f35aa"
+    },
+    {
+      "question": "What is the concept of \u0027mateship\u0027 in Australian society?",
+      "options": {
+        "A": "Forming close friendships with a few individuals",
+        "B": "Helping each other, especially in times of need",
+        "C": "Avoiding involvement in others\u0027 problems"
+      },
+      "answer": "B",
+      "explanation": "\u0027Mateship\u0027 in Australia is about helping each other, especially in times of need, such as taking a meal to a neighbor or helping someone who is sick or lonely.",
+      "isAuValue": true,
+      "uuid": "f08ccde9-88db-4da3-9b3a-fed212212d31"
+    }
+  ]
 }

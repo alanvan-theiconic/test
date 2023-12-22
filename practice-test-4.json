@@ -1,209 +1,229 @@
 {
-    "results": [
-        {
-            "question": "What is the capital city of New South Wales (NSW)?",
-            "options": {
-                "A": "Melbourne",
-                "B": "Sydney",
-                "C": "Brisbane"
-            },
-            "answer": "B",
-            "explanation": "Sydney is the capital city of New South Wales (NSW)."
-        },
-        {
-            "question": "Which state was the first colony established by the British in Australia?",
-            "options": {
-                "A": "Victoria",
-                "B": "Queensland",
-                "C": "New South Wales"
-            },
-            "answer": "C",
-            "explanation": "New South Wales was the first colony established by the British in Australia."
-        },
-        {
-            "question": "Which is the smallest of the mainland states in Australia?",
-            "options": {
-                "A": "South Australia",
-                "B": "Victoria",
-                "C": "Tasmania"
-            },
-            "answer": "B",
-            "explanation": "Victoria is the smallest of the mainland states in Australia."
-        },
-        {
-            "question": "What natural feature is Queensland famous for?",
-            "options": {
-                "A": "The Great Barrier Reef",
-                "B": "The 12 Apostles",
-                "C": "The Ningaloo Coast"
-            },
-            "answer": "A",
-            "explanation": "Queensland is famous for the world-famous Great Barrier Reef, which runs along its eastern coast."
-        },
-        {
-            "question": "Which state is the largest in Australia?",
-            "options": {
-                "A": "Western Australia",
-                "B": "New South Wales",
-                "C": "Queensland"
-            },
-            "answer": "A",
-            "explanation": "Western Australia is the largest state in Australia."
-        },
-        {
-            "question": "How is religion treated in relation to the law in Australia?",
-            "options": {
-                "A": "Religious laws are above Australian laws",
-                "B": "Australian law prevails over religious practices in case of conflict",
-                "C": "Religion and law are fully integrated"
-            },
-            "answer": "B",
-            "explanation": "Where there is a conflict between an Australian law and a religious practice, Australian law prevails."
-        },
-        {
-            "question": "What is the role of the Rule of Law in Australia?",
-            "options": {
-                "A": "It grants special privileges to certain groups",
-                "B": "All Australians are equal under the law",
-                "C": "It allows for arbitrary decisions by those in power"
-            },
-            "answer": "B",
-            "explanation": "The Rule of Law in Australia signifies that all Australians are equal under the law."
-        },
-        {
-            "question": "What is the Australian government's stance on change and resolution?",
-            "options": {
-                "A": "Support for violent methods if necessary",
-                "B": "Change through discussion, peaceful persuasion, and the democratic process",
-                "C": "Change is discouraged"
-            },
-            "answer": "B",
-            "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process."
-        },
-        {
-            "question": "In Australia, what is the legal stance on discrimination based on gender?",
-            "options": {
-                "A": "It is permitted in certain circumstances",
-                "B": "It is against the law to discriminate based on gender",
-                "C": "There are no specific laws regarding gender discrimination"
-            },
-            "answer": "B",
-            "explanation": "It is against the law in Australia to discriminate against a person because of their gender."
-        },
-        {
-            "question": "What does equality of all people under the law mean in Australian society?",
-            "options": {
-                "A": "Only citizens have equal rights",
-                "B": "Equal rights regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin",
-                "C": "Equality is limited to economic aspects"
-            },
-            "answer": "B",
-            "explanation": "Australian society values the equal rights of all people regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin."
-        },
-        {
-            "question": "What role does the Australian Parliament play in the government?",
-            "options": {
-                "A": "Enforces the laws",
-                "B": "Makes and changes the laws",
-                "C": "Interprets the laws"
-            },
-            "answer": "B",
-            "explanation": "Parliament has the legislative power, which is the power to make and change the laws in Australia."
-        },
-        {
-            "question": "Who appoints the Governor-General of Australia?",
-            "options": {
-                "A": "The Prime Minister of Australia",
-                "B": "The King of Australia",
-                "C": "The Australian Parliament"
-            },
-            "answer": "B",
-            "explanation": "The King of Australia appoints the Governor-General as his representative in Australia, based on the advice from the Australian Prime Minister."
-        },
-        {
-            "question": "How does the Australian Constitution control the power of government?",
-            "options": {
-                "A": "By concentrating power in the Prime Minister",
-                "B": "By dividing power among legislative, executive, and judicial branches",
-                "C": "By delegating all power to the Parliament"
-            },
-            "answer": "B",
-            "explanation": "The Australian Constitution divides the power of government between the legislative, executive, and judicial branches to prevent concentration of power."
-        },
-        {
-            "question": "What is the role of the legislative branch in Australia?",
-            "options": {
-                "A": "To interpret and apply laws",
-                "B": "To make and change laws",
-                "C": "To execute and enforce laws"
-            },
-            "answer": "B",
-            "explanation": "The legislative power, held by Parliament, is responsible for making and changing laws in Australia."
-        },
-        {
-            "question": "Who are included in the executive power of the Australian government?",
-            "options": {
-                "A": "Judges and courts",
-                "B": "Members of Parliament",
-                "C": "The Prime Minister, ministers, and the Governor-General"
-            },
-            "answer": "C",
-            "explanation": "The executive power includes the Prime Minister, Australian government ministers, and the Governor-General."
-        },
-        {
-            "question": "Is sharing racially offensive material on the internet acceptable in Australia?",
-            "options": {
-                "A": "Yes, it is considered freedom of speech",
-                "B": "No, it is against the principles of mutual respect and tolerance",
-                "C": "Only if it is part of a cultural expression"
-            },
-            "answer": "B",
-            "explanation": "Sharing racially offensive material on the internet or other publications is against the principles of mutual respect and tolerance and has no place in Australia.",
-            "isAuValue": true
-        },
-        {
-            "question": "What is the Australian perspective on peaceful disagreement?",
-            "options": {
-                "A": "It is discouraged in favor of conformity",
-                "B": "It is illegal to disagree with the government",
-                "C": "Peaceful disagreement is believed in, along with the right to be safe and free from violence"
-            },
-            "answer": "C",
-            "explanation": "Australians believe in peaceful disagreement and, above all, the right to be safe and free from violence and intimidation.",
-            "isAuValue": true
-        },
-        {
-            "question": "In Australia, what must individuals respect about others?",
-            "options": {
-                "A": "Their financial contributions to society",
-                "B": "Their freedom and dignity, opinions, and choices",
-                "C": "Their political affiliations"
-            },
-            "answer": "B",
-            "explanation": "In Australia, individuals must respect the freedom and dignity of others, and their opinions and choices.",
-            "isAuValue": true
-        },
-        {
-            "question": "What principle underlies the concept of a 'fair go' in Australian society?",
-            "options": {
-                "A": "Everyone should have the same legal rights",
-                "B": "Only certain classes of people should have opportunities",
-                "C": "Wealth and background determine success"
-            },
-            "answer": "A",
-            "explanation": "The concept of a 'fair go' in Australian society is based on the belief that everyone should have the same legal rights and not be limited by any kind of class distinction.",
-            "isAuValue": true
-        },
-        {
-            "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
-            "options": {
-                "A": "Confront the individual directly",
-                "B": "Report the suspicion to Australian government authorities",
-                "C": "Ignore the suspicion to avoid conflict"
-            },
-            "answer": "B",
-            "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety.",
-            "isAuValue": true
-        }
-    ]
+  "results": [
+    {
+      "question": "What is the capital city of New South Wales (NSW)?",
+      "options": {
+        "A": "Melbourne",
+        "B": "Sydney",
+        "C": "Brisbane"
+      },
+      "answer": "B",
+      "explanation": "Sydney is the capital city of New South Wales (NSW).",
+      "uuid": "115b92c4-649f-4656-814f-dd55a1a30154"
+    },
+    {
+      "question": "Which state was the first colony established by the British in Australia?",
+      "options": {
+        "A": "Victoria",
+        "B": "Queensland",
+        "C": "New South Wales"
+      },
+      "answer": "C",
+      "explanation": "New South Wales was the first colony established by the British in Australia.",
+      "uuid": "d1ef8bed-770a-446d-afcd-adf8c2b1ee1b"
+    },
+    {
+      "question": "Which is the smallest of the mainland states in Australia?",
+      "options": {
+        "A": "South Australia",
+        "B": "Victoria",
+        "C": "Tasmania"
+      },
+      "answer": "B",
+      "explanation": "Victoria is the smallest of the mainland states in Australia.",
+      "uuid": "cd51315a-c24f-4f76-a79c-961b3fa6a4d4"
+    },
+    {
+      "question": "What natural feature is Queensland famous for?",
+      "options": {
+        "A": "The Great Barrier Reef",
+        "B": "The 12 Apostles",
+        "C": "The Ningaloo Coast"
+      },
+      "answer": "A",
+      "explanation": "Queensland is famous for the world-famous Great Barrier Reef, which runs along its eastern coast.",
+      "uuid": "e3001d79-dcee-494d-a246-03e4b14e5623"
+    },
+    {
+      "question": "Which state is the largest in Australia?",
+      "options": {
+        "A": "Western Australia",
+        "B": "New South Wales",
+        "C": "Queensland"
+      },
+      "answer": "A",
+      "explanation": "Western Australia is the largest state in Australia.",
+      "uuid": "77c57c19-43f5-4e58-8f80-2b887221e50d"
+    },
+    {
+      "question": "How is religion treated in relation to the law in Australia?",
+      "options": {
+        "A": "Religious laws are above Australian laws",
+        "B": "Australian law prevails over religious practices in case of conflict",
+        "C": "Religion and law are fully integrated"
+      },
+      "answer": "B",
+      "explanation": "Where there is a conflict between an Australian law and a religious practice, Australian law prevails.",
+      "uuid": "437fcbf7-4736-43ab-a3dd-879597874dfb"
+    },
+    {
+      "question": "What is the role of the Rule of Law in Australia?",
+      "options": {
+        "A": "It grants special privileges to certain groups",
+        "B": "All Australians are equal under the law",
+        "C": "It allows for arbitrary decisions by those in power"
+      },
+      "answer": "B",
+      "explanation": "The Rule of Law in Australia signifies that all Australians are equal under the law.",
+      "uuid": "719b2d04-431d-458d-b803-a4dc331c22d5"
+    },
+    {
+      "question": "What is the Australian government\u0027s stance on change and resolution?",
+      "options": {
+        "A": "Support for violent methods if necessary",
+        "B": "Change through discussion, peaceful persuasion, and the democratic process",
+        "C": "Change is discouraged"
+      },
+      "answer": "B",
+      "explanation": "Australians believe that change should occur through discussion, peaceful persuasion, and the democratic process.",
+      "uuid": "8de0df40-389a-4a37-8e6c-da702d64c349"
+    },
+    {
+      "question": "In Australia, what is the legal stance on discrimination based on gender?",
+      "options": {
+        "A": "It is permitted in certain circumstances",
+        "B": "It is against the law to discriminate based on gender",
+        "C": "There are no specific laws regarding gender discrimination"
+      },
+      "answer": "B",
+      "explanation": "It is against the law in Australia to discriminate against a person because of their gender.",
+      "uuid": "33c7b0f3-9732-49c8-a99d-19753a89aa7e"
+    },
+    {
+      "question": "What does equality of all people under the law mean in Australian society?",
+      "options": {
+        "A": "Only citizens have equal rights",
+        "B": "Equal rights regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin",
+        "C": "Equality is limited to economic aspects"
+      },
+      "answer": "B",
+      "explanation": "Australian society values the equal rights of all people regardless of gender, sexual orientation, age, disability, religion, race, or national or ethnic origin.",
+      "uuid": "2ced26a6-04f0-45d4-abfe-d61f987b9c1b"
+    },
+    {
+      "question": "What role does the Australian Parliament play in the government?",
+      "options": {
+        "A": "Enforces the laws",
+        "B": "Makes and changes the laws",
+        "C": "Interprets the laws"
+      },
+      "answer": "B",
+      "explanation": "Parliament has the legislative power, which is the power to make and change the laws in Australia.",
+      "uuid": "3cf7f2ed-804e-4357-8ea8-6273339308bc"
+    },
+    {
+      "question": "Who appoints the Governor-General of Australia?",
+      "options": {
+        "A": "The Prime Minister of Australia",
+        "B": "The King of Australia",
+        "C": "The Australian Parliament"
+      },
+      "answer": "B",
+      "explanation": "The King of Australia appoints the Governor-General as his representative in Australia, based on the advice from the Australian Prime Minister.",
+      "uuid": "e9e45464-4d95-483b-8a0e-7ad16c29aef0"
+    },
+    {
+      "question": "How does the Australian Constitution control the power of government?",
+      "options": {
+        "A": "By concentrating power in the Prime Minister",
+        "B": "By dividing power among legislative, executive, and judicial branches",
+        "C": "By delegating all power to the Parliament"
+      },
+      "answer": "B",
+      "explanation": "The Australian Constitution divides the power of government between the legislative, executive, and judicial branches to prevent concentration of power.",
+      "uuid": "8cd9a2a7-495f-4a71-9c9f-2b05796244a0"
+    },
+    {
+      "question": "What is the role of the legislative branch in Australia?",
+      "options": {
+        "A": "To interpret and apply laws",
+        "B": "To make and change laws",
+        "C": "To execute and enforce laws"
+      },
+      "answer": "B",
+      "explanation": "The legislative power, held by Parliament, is responsible for making and changing laws in Australia.",
+      "uuid": "82b59b86-40dd-46b8-9e6e-ea5d7414a135"
+    },
+    {
+      "question": "Who are included in the executive power of the Australian government?",
+      "options": {
+        "A": "Judges and courts",
+        "B": "Members of Parliament",
+        "C": "The Prime Minister, ministers, and the Governor-General"
+      },
+      "answer": "C",
+      "explanation": "The executive power includes the Prime Minister, Australian government ministers, and the Governor-General.",
+      "uuid": "25ee7e0a-ddfc-4421-becf-53ce92c9c7bb"
+    },
+    {
+      "question": "Is sharing racially offensive material on the internet acceptable in Australia?",
+      "options": {
+        "A": "Yes, it is considered freedom of speech",
+        "B": "No, it is against the principles of mutual respect and tolerance",
+        "C": "Only if it is part of a cultural expression"
+      },
+      "answer": "B",
+      "explanation": "Sharing racially offensive material on the internet or other publications is against the principles of mutual respect and tolerance and has no place in Australia.",
+      "isAuValue": true,
+      "uuid": "acfbd902-9290-4727-9337-1d029d430172"
+    },
+    {
+      "question": "What is the Australian perspective on peaceful disagreement?",
+      "options": {
+        "A": "It is discouraged in favor of conformity",
+        "B": "It is illegal to disagree with the government",
+        "C": "Peaceful disagreement is believed in, along with the right to be safe and free from violence"
+      },
+      "answer": "C",
+      "explanation": "Australians believe in peaceful disagreement and, above all, the right to be safe and free from violence and intimidation.",
+      "isAuValue": true,
+      "uuid": "dac2c637-3150-46fe-bef8-48e1a0e474f7"
+    },
+    {
+      "question": "In Australia, what must individuals respect about others?",
+      "options": {
+        "A": "Their financial contributions to society",
+        "B": "Their freedom and dignity, opinions, and choices",
+        "C": "Their political affiliations"
+      },
+      "answer": "B",
+      "explanation": "In Australia, individuals must respect the freedom and dignity of others, and their opinions and choices.",
+      "isAuValue": true,
+      "uuid": "567bab2a-bd1d-4560-b126-abdd3fd8c5ba"
+    },
+    {
+      "question": "What principle underlies the concept of a \u0027fair go\u0027 in Australian society?",
+      "options": {
+        "A": "Everyone should have the same legal rights",
+        "B": "Only certain classes of people should have opportunities",
+        "C": "Wealth and background determine success"
+      },
+      "answer": "A",
+      "explanation": "The concept of a \u0027fair go\u0027 in Australian society is based on the belief that everyone should have the same legal rights and not be limited by any kind of class distinction.",
+      "isAuValue": true,
+      "uuid": "d9d87b58-d6ed-4082-87cd-6df9d051248e"
+    },
+    {
+      "question": "What should individuals in Australia do if they suspect someone is planning a serious crime?",
+      "options": {
+        "A": "Confront the individual directly",
+        "B": "Report the suspicion to Australian government authorities",
+        "C": "Ignore the suspicion to avoid conflict"
+      },
+      "answer": "B",
+      "explanation": "In Australia, it is expected that individuals report suspicions of serious crimes to government authorities to help protect community safety.",
+      "isAuValue": true,
+      "uuid": "b896a228-bf85-4993-94f1-fd7c97b9575f"
+    }
+  ]
 }
